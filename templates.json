@@ -1,0 +1,12 @@
+[
+    {
+      "id": 1,
+      "title": "Connection Request",
+      "message": "Hi {personName}, I’m really impressed by the work at {companyName}. I’d love to connect and learn more about your role!"
+    },
+    {
+      "id": 2,
+      "title": "Job Inquiry",
+      "message": "Hello {personName}, I came across an opportunity at {companyName} that aligns with my skills. I’d appreciate any insights you could share!"
+    }
+  ]
