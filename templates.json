@@ -13,5 +13,10 @@
     "id": 1739205709273,
     "title": "Testing a new template ",
     "message": "Here I am testing my first template {username} and then {company name} cool"
+  },
+  {
+    "id": 1739255168921,
+    "title": "Java developer ",
+    "message": "Hi I am a java developer from {name}\nI want to join your company {company name}"
   }
 ]
