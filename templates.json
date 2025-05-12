@@ -7,7 +7,7 @@
   {
     "id": 2,
     "title": "Job Inquiry",
-    "message": "Hello {personName}, I came across an opportunity at {companyName} that aligns with my skills. I’d appreciate any insights you could share!"
+    "message": "Hello {personName}, I came across an opportunity at {companyName} that aligns with my skills. I would appreciate any insights you could share!"
   },
   {
     "id": 1739205709273,
