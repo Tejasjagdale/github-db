@@ -2,7 +2,7 @@
   {
     "id": 1,
     "title": "Connection Request",
-    "message": "Hi {personName}, I’m really impressed by the work at {companyName}. I’d love to connect and learn more about your role!"
+    "message": "Hi {personName}, I really impressed by the work at {companyName}. I love to connect and learn more about your role!"
   },
   {
     "id": 2,
