@@ -17,6 +17,6 @@
   {
     "id": 1747466649245,
     "title": "Connection Request",
-    "message": "hi {name} this is template of {me}"
+    "message": "Hi person's name,\n\nI would really appreciate it if you could refer me!\nBest regards,\nYour name"
   }
 ]
