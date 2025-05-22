@@ -18,5 +18,10 @@
     "id": 1747466649245,
     "title": "Ryan's template",
     "message": "Hi {person's name},\n\nI hope you are doing well! I wanted to reach out because I recently came across an opportunity at {company name } for the (role)  (ID:{jobID}), and I thought it would be a great fit for my background.\n\nI would appreciate it if you could refer me!\n\nBest regards,\n{Your name}"
+  },
+  {
+    "id": 1747898200238,
+    "title": "My template",
+    "message": "Hi test {ing} template "
   }
 ]
