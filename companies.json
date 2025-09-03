@@ -22,5 +22,11 @@
     "name": "Barclays",
     "logo": "https://tbcdn.talentbrew.com/company/13015/v1_0/img/favicon/favicon-new-barcs.ico",
     "careerPage": "https://search.jobs.barclays/search-jobs"
+  },
+  {
+    "id": "5",
+    "name": "Millennium Management",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQF3TVi1WNy9Dw/company-logo_100_100/company-logo_100_100/0/1705750917505?e=1759968000&v=beta&t=mXYaGQOxQeeCc9tKf9_s2b-Bk6fH4AhPreRq7P8Vqt8",
+    "careerPage": "https://career.mlp.com/careers"
   }
 ]
