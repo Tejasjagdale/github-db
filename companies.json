@@ -1,0 +1,20 @@
+[
+  {
+    "id": "razorpay",
+    "name": "Razorpay",
+    "logo": "https://razorpay.com/favicon.ico",
+    "careerPage": "https://razorpay.com/careers/"
+  },
+  {
+    "id": "microsoft",
+    "name": "Microsoft",
+    "logo": "https://img.icons8.com/color/48/microsoft.png",
+    "careerPage": "https://careers.microsoft.com/"
+  },
+  {
+    "id": "amazon",
+    "name": "Amazon",
+    "logo": "https://img.icons8.com/color/48/amazon.png",
+    "careerPage": "https://www.amazon.jobs/"
+  }
+]
