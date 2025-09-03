@@ -16,5 +16,11 @@
     "name": "Amazon",
     "logo": "https://img.icons8.com/color/48/amazon.png",
     "careerPage": "https://www.amazon.jobs/"
+  },
+  {
+    "id": "4",
+    "name": "Barclays",
+    "logo": "https://tbcdn.talentbrew.com/company/13015/v1_0/img/favicon/favicon-new-barcs.ico",
+    "careerPage": "https://search.jobs.barclays/search-jobs"
   }
 ]
