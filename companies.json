@@ -1,38 +1,116 @@
 [
   {
     "id": "1",
+    "name": "Amazon",
+    "logo": "https://www.amazon.in/favicon.ico",
+    "careerPage": "https://www.amazon.jobs/en/"
+  },
+  {
+    "id": "2",
+    "name": "Google",
+    "logo": "https://www.google.com/favicon.ico",
+    "careerPage": "https://careers.google.com/"
+  },
+  {
+    "id": "3",
+    "name": "Microsoft",
+    "logo": "https://www.microsoft.com/favicon.ico",
+    "careerPage": "https://careers.microsoft.com/"
+  },
+  {
+    "id": "4",
+    "name": "Flipkart",
+    "logo": "https://www.flipkart.com/favicon.ico",
+    "careerPage": "https://www.flipkartcareers.com/"
+  },
+  {
+    "id": "5",
+    "name": "Goldman Sachs",
+    "logo": "https://www.goldmansachs.com/favicon.ico",
+    "careerPage": "https://www.goldmansachs.com/careers/"
+  },
+  {
+    "id": "6",
+    "name": "Adobe",
+    "logo": "https://www.adobe.com/favicon.ico",
+    "careerPage": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced"
+  },
+  {
+    "id": "7",
+    "name": "Apple",
+    "logo": "https://www.apple.com/favicon.ico",
+    "careerPage": "https://www.apple.com/careers/"
+  },
+  {
+    "id": "8",
+    "name": "Intel",
+    "logo": "https://www.intel.com/favicon.ico",
+    "careerPage": "https://jobs.intel.com/"
+  },
+  {
+    "id": "9",
+    "name": "Cisco",
+    "logo": "https://www.cisco.com/favicon.ico",
+    "careerPage": "https://jobs.cisco.com/"
+  },
+  {
+    "id": "10",
+    "name": "Oracle",
+    "logo": "https://www.oracle.com/favicon.ico",
+    "careerPage": "https://www.oracle.com/corporate/careers/"
+  },
+  {
+    "id": "11",
+    "name": "Meta",
+    "logo": "https://about.meta.com/favicon.ico",
+    "careerPage": "https://www.metacareers.com/"
+  },
+  {
+    "id": "12",
+    "name": "PayPal",
+    "logo": "https://www.paypalobjects.com/favicon.ico",
+    "careerPage": "https://careers.pypl.com/"
+  },
+  {
+    "id": "13",
+    "name": "Stripe",
+    "logo": "https://stripe.com/favicon.ico",
+    "careerPage": "https://stripe.com/jobs"
+  },
+  {
+    "id": "14",
     "name": "Razorpay",
     "logo": "https://razorpay.com/favicon.ico",
     "careerPage": "https://razorpay.com/careers/"
   },
   {
-    "id": "2",
-    "name": "Microsoft",
-    "logo": "https://img.icons8.com/color/48/microsoft.png",
-    "careerPage": "https://jobs.careers.microsoft.com/global/en/search?lc=India&p=Software%20Engineering&l=en_us&pg=1&pgSz=20&o=Relevance&flt=true"
+    "id": "15",
+    "name": "Juspay",
+    "logo": "https://juspay.in/favicon.ico",
+    "careerPage": "https://juspay.in/careers"
   },
   {
-    "id": "3",
-    "name": "Amazon",
-    "logo": "https://img.icons8.com/color/48/amazon.png",
-    "careerPage": "https://www.amazon.jobs/"
+    "id": "16",
+    "name": "Groww",
+    "logo": "https://groww.in/favicon.ico",
+    "careerPage": "https://groww.skillate.com/"
   },
   {
-    "id": "4",
-    "name": "Barclays",
-    "logo": "https://tbcdn.talentbrew.com/company/13015/v1_0/img/favicon/favicon-new-barcs.ico",
-    "careerPage": "https://search.jobs.barclays/search-jobs"
+    "id": "17",
+    "name": "Kissht",
+    "logo": "https://kissht.com/favicon.ico",
+    "careerPage": "https://kissht.com/careers/"
   },
   {
-    "id": "5",
-    "name": "Millennium Management",
-    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQF3TVi1WNy9Dw/company-logo_100_100/company-logo_100_100/0/1705750917505?e=1759968000&v=beta&t=mXYaGQOxQeeCc9tKf9_s2b-Bk6fH4AhPreRq7P8Vqt8",
-    "careerPage": "https://career.mlp.com/careers"
+    "id": "18",
+    "name": "ClearTax",
+    "logo": "https://cleartax.in/favicon.ico",
+    "careerPage": "https://cleartax.in/s/careers"
   },
   {
-    "id": "5",
-    "name": "qube research & technologies",
-    "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQEUECsLWfg0Hg/company-logo_100_100/company-logo_100_100/0/1635758716096/qube_rt_logo?e=1759968000&v=beta&t=XWg8g7I9eMlIU7FvZBKwXVv9jb9hGZdpMldTQgbFqPs",
-    "careerPage": "https://www.qube-rt.com/careers/"
+    "id": "19",
+    "name": "Fibe (EarlySalary)",
+    "logo": "https://fibe.in/favicon.ico",
+    "careerPage": "https://fibe.in/careers/"
   }
 ]
