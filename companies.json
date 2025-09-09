@@ -6,9 +6,598 @@
     "careerPage": "https://search.jobs.barclays/search-jobs?orgIds=13015&ac=79683",
     "industry": "bank",
     "workLifeRating": "4.5",
-    "prevJobsCount": 0,
-    "currJobsCount": 272,
-    "jobsList": []
+    "prevJobsCount": 272,
+    "currJobsCount": 147,
+    "jobsList": [
+      {
+        "title": "Operations Analyst Non Rotational Graduate 2026 India",
+        "link": "https://search.jobs.barclays/job/chennai/operations-analyst-non-rotational-graduate-2026-india/13015/85065395056"
+      },
+      {
+        "title": "Analyst - Compliance Assurance",
+        "link": "https://search.jobs.barclays/job/pune/analyst-compliance-assurance/13015/75304833088"
+      },
+      {
+        "title": "Consumer Duty and Suitability Manager",
+        "link": "https://search.jobs.barclays/job/london/consumer-duty-and-suitability-manager/13015/85944512448"
+      },
+      {
+        "title": "Software Engineer - .Net",
+        "link": "https://search.jobs.barclays/job/pune/software-engineer-net/13015/85029534464"
+      },
+      {
+        "title": "Quant Software Engineer Python -BA4",
+        "link": "https://search.jobs.barclays/job/noida/quant-software-engineer-python-ba4/13015/84447411872"
+      },
+      {
+        "title": "Java Developer - Big Data Project",
+        "link": "https://search.jobs.barclays/job/glasgow/java-developer-big-data-project/13015/83218056224"
+      },
+      {
+        "title": "Salesforce Developer",
+        "link": "https://search.jobs.barclays/job/pune/salesforce-developer/13015/72514864800"
+      },
+      {
+        "title": "Software Engineer",
+        "link": "https://search.jobs.barclays/job/pune/software-engineer/13015/85919002128"
+      },
+      {
+        "title": "DevOps Engineer",
+        "link": "https://search.jobs.barclays/job/pune/devops-engineer/13015/83653407504"
+      },
+      {
+        "title": "Sr Front End Developer",
+        "link": "https://search.jobs.barclays/job/pune/sr-front-end-developer/13015/82461450224"
+      },
+      {
+        "title": "UI Developer",
+        "link": "https://search.jobs.barclays/job/prague/ui-developer/13015/85907737344"
+      },
+      {
+        "title": "Developer",
+        "link": "https://search.jobs.barclays/job/chennai/developer/13015/82392163072"
+      },
+      {
+        "title": "Recon Developer",
+        "link": "https://search.jobs.barclays/job/pune/recon-developer/13015/80593163040"
+      },
+      {
+        "title": "AWS Lex Developer",
+        "link": "https://search.jobs.barclays/job/pune/aws-lex-developer/13015/71768291792"
+      },
+      {
+        "title": "Technology Developer Graduate Programme 2027 Japan",
+        "link": "https://search.jobs.barclays/job/tokyo/technology-developer-graduate-programme-2027-japan/13015/85799484176"
+      },
+      {
+        "title": "Technology Part Time Developer 2025 Prague",
+        "link": "https://search.jobs.barclays/job/prague/technology-part-time-developer-2025-prague/13015/82421236240"
+      },
+      {
+        "title": "Technology Developer Graduate 2025 Prague",
+        "link": "https://search.jobs.barclays/job/prague/technology-developer-graduate-2025-prague/13015/76465981120"
+      },
+      {
+        "title": "Mainframe Developer",
+        "link": "https://search.jobs.barclays/job/pune/mainframe-developer/13015/85799474944"
+      },
+      {
+        "title": "Sterling B2B Developer",
+        "link": "https://search.jobs.barclays/job/pune/sterling-b2b-developer/13015/85799469680"
+      },
+      {
+        "title": "Sterling B2B Developer",
+        "link": "https://search.jobs.barclays/job/pune/sterling-b2b-developer/13015/85799467904"
+      },
+      {
+        "title": "Base24 Application Developer",
+        "link": "https://search.jobs.barclays/job/pune/base24-application-developer/13015/85301673840"
+      },
+      {
+        "title": "Backend Software Developer",
+        "link": "https://search.jobs.barclays/job/glasgow/backend-software-developer/13015/83565924480"
+      },
+      {
+        "title": "Software Engineer- Operational Support Systems",
+        "link": "https://search.jobs.barclays/job/pune/software-engineer-operational-support-systems/13015/83522228240"
+      },
+      {
+        "title": "Full Stack Developer - ReactJS and Java",
+        "link": "https://search.jobs.barclays/job/glasgow/full-stack-developer-reactjs-and-java/13015/82665888848"
+      },
+      {
+        "title": "Ref Data Software Engineer",
+        "link": "https://search.jobs.barclays/job/pune/ref-data-software-engineer/13015/82693691696"
+      },
+      {
+        "title": "Cross Markets Software Engineer",
+        "link": "https://search.jobs.barclays/job/pune/cross-markets-software-engineer/13015/70779959360"
+      },
+      {
+        "title": "Data Engineer - Cloud Developer",
+        "link": "https://search.jobs.barclays/job/pune/data-engineer-cloud-developer/13015/84083299952"
+      },
+      {
+        "title": "Application Engineer - PySpark Developer",
+        "link": "https://search.jobs.barclays/job/pune/application-engineer-pyspark-developer/13015/83643123168"
+      },
+      {
+        "title": "Actimize Developer",
+        "link": "https://search.jobs.barclays/job/pune/actimize-developer/13015/69895053248"
+      },
+      {
+        "title": "Software Engineer",
+        "link": "https://search.jobs.barclays/job/pune/software-engineer/13015/85763173776"
+      },
+      {
+        "title": "Full Stack Developer",
+        "link": "https://search.jobs.barclays/job/whippany/full-stack-developer/13015/85571679712"
+      },
+      {
+        "title": "Full Stack Developer",
+        "link": "https://search.jobs.barclays/job/pune/full-stack-developer/13015/85654082976"
+      },
+      {
+        "title": "Full Stack Developer",
+        "link": "https://search.jobs.barclays/job/pune/full-stack-developer/13015/85654082960"
+      },
+      {
+        "title": "Software Developer",
+        "link": "https://search.jobs.barclays/job/new-york/software-developer/13015/85337196688"
+      },
+      {
+        "title": "Technology Developer Graduate Programme 2026 Singapore",
+        "link": "https://search.jobs.barclays/job/singapore/technology-developer-graduate-programme-2026-singapore/13015/85159494272"
+      },
+      {
+        "title": "Technology Developer Graduate Programme 2026 Hong Kong",
+        "link": "https://search.jobs.barclays/job/hong-kong/technology-developer-graduate-programme-2026-hong-kong/13015/85159494208"
+      },
+      {
+        "title": "Spark Java Developer",
+        "link": "https://search.jobs.barclays/job/pune/spark-java-developer/13015/84736454864"
+      },
+      {
+        "title": "Developer",
+        "link": "https://search.jobs.barclays/job/whippany/developer/13015/82941232832"
+      },
+      {
+        "title": "KDB Developer",
+        "link": "https://search.jobs.barclays/job/pune/kdb-developer/13015/81530152272"
+      },
+      {
+        "title": "Java Developer",
+        "link": "https://search.jobs.barclays/job/prague/java-developer/13015/75477331488"
+      },
+      {
+        "title": "Data Model Developer",
+        "link": "https://search.jobs.barclays/job/northampton/data-model-developer/13015/85738115664"
+      },
+      {
+        "title": "Software Engineer (Java, React/React Native)",
+        "link": "https://search.jobs.barclays/job/pune/software-engineer-java-react-react-native/13015/85727095568"
+      },
+      {
+        "title": "Software Engineer BPM",
+        "link": "https://search.jobs.barclays/job/pune/software-engineer-bpm/13015/85727092704"
+      },
+      {
+        "title": "Software Engineer",
+        "link": "https://search.jobs.barclays/job/pune/software-engineer/13015/85727092624"
+      },
+      {
+        "title": "DevOps Engineer",
+        "link": "https://search.jobs.barclays/job/pune/devops-engineer/13015/85441545904"
+      },
+      {
+        "title": "Software Engineer - Java",
+        "link": "https://search.jobs.barclays/job/pune/software-engineer-java/13015/85277195856"
+      },
+      {
+        "title": "Full Stack Developer",
+        "link": "https://search.jobs.barclays/job/pune/full-stack-developer/13015/85159487472"
+      },
+      {
+        "title": "Software Engineer",
+        "link": "https://search.jobs.barclays/job/pune/software-engineer/13015/85159487360"
+      },
+      {
+        "title": "Platform Developer",
+        "link": "https://search.jobs.barclays/job/pune/platform-developer/13015/85560159168"
+      },
+      {
+        "title": "Credit Risk Application Developer",
+        "link": "https://search.jobs.barclays/job/prague/credit-risk-application-developer/13015/85525043440"
+      },
+      {
+        "title": "Cloud AI Developer",
+        "link": "https://search.jobs.barclays/job/prague/cloud-ai-developer/13015/85266326000"
+      },
+      {
+        "title": "Full Stack Developer",
+        "link": "https://search.jobs.barclays/job/pune/full-stack-developer/13015/85266325744"
+      },
+      {
+        "title": "Software Engineer",
+        "link": "https://search.jobs.barclays/job/pune/software-engineer/13015/85301685840"
+      },
+      {
+        "title": "Software Engineer – Mainframe",
+        "link": "https://search.jobs.barclays/job/pune/software-engineer-mainframe/13015/85206259680"
+      },
+      {
+        "title": "Java Developer",
+        "link": "https://search.jobs.barclays/job/pune/java-developer/13015/85230944768"
+      },
+      {
+        "title": "Software Engineer",
+        "link": "https://search.jobs.barclays/job/pune/software-engineer/13015/85301685536"
+      },
+      {
+        "title": "Software Engineer",
+        "link": "https://search.jobs.barclays/job/pune/software-engineer/13015/85029534608"
+      },
+      {
+        "title": "Java Developer",
+        "link": "https://search.jobs.barclays/job/pune/java-developer/13015/85312530800"
+      },
+      {
+        "title": "Java Developer",
+        "link": "https://search.jobs.barclays/job/pune/java-developer/13015/85018588000"
+      },
+      {
+        "title": "Developer",
+        "link": "https://search.jobs.barclays/job/pune/developer/13015/85407121664"
+      },
+      {
+        "title": "Full Stack Developer",
+        "link": "https://search.jobs.barclays/job/pune/full-stack-developer/13015/85665046912"
+      },
+      {
+        "title": "RPA UiPath Developer",
+        "link": "https://search.jobs.barclays/job/pune/rpa-uipath-developer/13015/85018587696"
+      },
+      {
+        "title": "RPA UiPath Developer",
+        "link": "https://search.jobs.barclays/job/pune/rpa-uipath-developer/13015/85018587600"
+      },
+      {
+        "title": "DevOps Engineer",
+        "link": "https://search.jobs.barclays/job/pune/devops-engineer/13015/85417836816"
+      },
+      {
+        "title": "Full Stack UI Developer",
+        "link": "https://search.jobs.barclays/job/london/full-stack-ui-developer/13015/85513982032"
+      },
+      {
+        "title": "Recon Developer",
+        "link": "https://search.jobs.barclays/job/pune/recon-developer/13015/84777970656"
+      },
+      {
+        "title": "Recon Developer",
+        "link": "https://search.jobs.barclays/job/pune/recon-developer/13015/84777970624"
+      },
+      {
+        "title": "Java Fullstack Developer",
+        "link": "https://search.jobs.barclays/job/pune/java-fullstack-developer/13015/85018583856"
+      },
+      {
+        "title": "Python Developer",
+        "link": "https://search.jobs.barclays/job/prague/python-developer/13015/84459248720"
+      },
+      {
+        "title": "Software Engineer",
+        "link": "https://search.jobs.barclays/job/pune/software-engineer/13015/84957680112"
+      },
+      {
+        "title": "Software Engineer - Fullstack",
+        "link": "https://search.jobs.barclays/job/pune/software-engineer-fullstack/13015/85159471168"
+      },
+      {
+        "title": "Mainframe Developer",
+        "link": "https://search.jobs.barclays/job/pune/mainframe-developer/13015/84447413376"
+      },
+      {
+        "title": "Application Engineer - DevOps/Infra",
+        "link": "https://search.jobs.barclays/job/pune/application-engineer-devops-infra/13015/84762881760"
+      },
+      {
+        "title": "Software Engineer (Cloud)",
+        "link": "https://search.jobs.barclays/job/pune/software-engineer-cloud/13015/84653249776"
+      },
+      {
+        "title": "Software Engineer",
+        "link": "https://search.jobs.barclays/job/pune/software-engineer/13015/84736441584"
+      },
+      {
+        "title": "eComms Python Developer and INFRA Engg",
+        "link": "https://search.jobs.barclays/job/pune/ecomms-python-developer-and-infra-engg/13015/84083300048"
+      },
+      {
+        "title": "Java Developer",
+        "link": "https://search.jobs.barclays/job/pune/java-developer/13015/85301671392"
+      },
+      {
+        "title": "Java developer",
+        "link": "https://search.jobs.barclays/job/pune/java-developer/13015/83605150752"
+      },
+      {
+        "title": "Java Developer",
+        "link": "https://search.jobs.barclays/job/pune/java-developer/13015/85018556112"
+      },
+      {
+        "title": "Reference Data Application Developer",
+        "link": "https://search.jobs.barclays/job/pune/reference-data-application-developer/13015/83799647632"
+      },
+      {
+        "title": "TRAC TCP Full Stack Developer",
+        "link": "https://search.jobs.barclays/job/pune/trac-tcp-full-stack-developer/13015/83279620080"
+      },
+      {
+        "title": "Developer - PDS Exchange App",
+        "link": "https://search.jobs.barclays/job/pune/developer-pds-exchange-app/13015/85453594528"
+      },
+      {
+        "title": "UI Developer - TRAC & CCLT",
+        "link": "https://search.jobs.barclays/job/pune/ui-developer-trac-and-cclt/13015/83279619968"
+      },
+      {
+        "title": "Full Stack Java Developer - TRAC & CCLT",
+        "link": "https://search.jobs.barclays/job/pune/full-stack-java-developer-trac-and-cclt/13015/83279619952"
+      },
+      {
+        "title": "CMA Full Stack Developer",
+        "link": "https://search.jobs.barclays/job/pune/cma-full-stack-developer/13015/83922871008"
+      },
+      {
+        "title": "TRAC TCP Full Stack Developer",
+        "link": "https://search.jobs.barclays/job/pune/trac-tcp-full-stack-developer/13015/83279619920"
+      },
+      {
+        "title": "Full Stack Developer",
+        "link": "https://search.jobs.barclays/job/pune/full-stack-developer/13015/83522229840"
+      },
+      {
+        "title": "Software Engineer",
+        "link": "https://search.jobs.barclays/job/pune/software-engineer/13015/83850168080"
+      },
+      {
+        "title": "Software Engineer- Operational Support Systems",
+        "link": "https://search.jobs.barclays/job/pune/software-engineer-operational-support-systems/13015/83493207968"
+      },
+      {
+        "title": "Full Stack Java Developer",
+        "link": "https://search.jobs.barclays/job/pune/full-stack-java-developer/13015/82513421712"
+      },
+      {
+        "title": "Software Engineer",
+        "link": "https://search.jobs.barclays/job/pune/software-engineer/13015/83218051056"
+      },
+      {
+        "title": "Java Developer",
+        "link": "https://search.jobs.barclays/job/pune/java-developer/13015/82336412624"
+      },
+      {
+        "title": "Software Engineer",
+        "link": "https://search.jobs.barclays/job/pune/software-engineer/13015/83493202400"
+      },
+      {
+        "title": "DevOps Software Engineer",
+        "link": "https://search.jobs.barclays/job/pune/devops-software-engineer/13015/82225033584"
+      },
+      {
+        "title": "Sr Java Full Stack Developer",
+        "link": "https://search.jobs.barclays/job/pune/sr-java-full-stack-developer/13015/84173913408"
+      },
+      {
+        "title": "Full Stack Developer",
+        "link": "https://search.jobs.barclays/job/pune/full-stack-developer/13015/85700048480"
+      },
+      {
+        "title": "Sr Developer",
+        "link": "https://search.jobs.barclays/job/pune/sr-developer/13015/82970006528"
+      },
+      {
+        "title": "Software Engineer",
+        "link": "https://search.jobs.barclays/job/pune/software-engineer/13015/84083287136"
+      },
+      {
+        "title": "Software Engineer",
+        "link": "https://search.jobs.barclays/job/pune/software-engineer/13015/82094891424"
+      },
+      {
+        "title": "Developer",
+        "link": "https://search.jobs.barclays/job/pune/developer/13015/82703228304"
+      },
+      {
+        "title": "Developer",
+        "link": "https://search.jobs.barclays/job/pune/developer/13015/82741805632"
+      },
+      {
+        "title": "Software Engineer",
+        "link": "https://search.jobs.barclays/job/pune/software-engineer/13015/83011994784"
+      },
+      {
+        "title": "Software Engineer",
+        "link": "https://search.jobs.barclays/job/pune/software-engineer/13015/81911683408"
+      },
+      {
+        "title": "Ref Data Software Engineer",
+        "link": "https://search.jobs.barclays/job/pune/ref-data-software-engineer/13015/82665886656"
+      },
+      {
+        "title": "Collateral Strategy Developer",
+        "link": "https://search.jobs.barclays/job/pune/collateral-strategy-developer/13015/81835394368"
+      },
+      {
+        "title": "Quantitative Investment Strategies(QIS) Platform Developer",
+        "link": "https://search.jobs.barclays/job/london/quantitative-investment-strategies-qis-platform-developer/13015/85029497056"
+      },
+      {
+        "title": "Actimize Developer",
+        "link": "https://search.jobs.barclays/job/pune/actimize-developer/13015/81297781488"
+      },
+      {
+        "title": "Java Developer",
+        "link": "https://search.jobs.barclays/job/pune/java-developer/13015/81865035280"
+      },
+      {
+        "title": "Java Fullstack Engineer",
+        "link": "https://search.jobs.barclays/job/glasgow/java-fullstack-engineer/13015/81514941504"
+      },
+      {
+        "title": "Sterling B2B Developer",
+        "link": "https://search.jobs.barclays/job/pune/sterling-b2b-developer/13015/80355228976"
+      },
+      {
+        "title": "Fullstack Developer",
+        "link": "https://search.jobs.barclays/job/pune/fullstack-developer/13015/85159442032"
+      },
+      {
+        "title": "Fullstack Developer",
+        "link": "https://search.jobs.barclays/job/pune/fullstack-developer/13015/85159441984"
+      },
+      {
+        "title": "Full Stack Developer",
+        "link": "https://search.jobs.barclays/job/pune/full-stack-developer/13015/82693671200"
+      },
+      {
+        "title": "Sr. Software Engineer Permissions XDP",
+        "link": "https://search.jobs.barclays/job/pune/sr-software-engineer-permissions-xdp/13015/80061369120"
+      },
+      {
+        "title": "Software Engineer - Adoption XDP",
+        "link": "https://search.jobs.barclays/job/prague/software-engineer-adoption-xdp/13015/79758316592"
+      },
+      {
+        "title": "TTR Sr. Java developer’",
+        "link": "https://search.jobs.barclays/job/pune/ttr-sr-java-developer/13015/80593158784"
+      },
+      {
+        "title": "Markets Tech Developer",
+        "link": "https://search.jobs.barclays/job/pune/markets-tech-developer/13015/79799917952"
+      },
+      {
+        "title": "Large Holdings Sr. Java Developer",
+        "link": "https://search.jobs.barclays/job/pune/large-holdings-sr-java-developer/13015/80593158752"
+      },
+      {
+        "title": "Full Stack Developer",
+        "link": "https://search.jobs.barclays/job/pune/full-stack-developer/13015/80314569024"
+      },
+      {
+        "title": "Data Platform developer",
+        "link": "https://search.jobs.barclays/job/pune/data-platform-developer/13015/79917441616"
+      },
+      {
+        "title": "Java Developer",
+        "link": "https://search.jobs.barclays/job/pune/java-developer/13015/80113098224"
+      },
+      {
+        "title": "Software Development Engineer in Test",
+        "link": "https://search.jobs.barclays/job/pune/software-development-engineer-in-test/13015/79905352720"
+      },
+      {
+        "title": "Software Engineer for CIAM",
+        "link": "https://search.jobs.barclays/job/whippany/software-engineer-for-ciam/13015/81055207664"
+      },
+      {
+        "title": "ADM - Snr Developer",
+        "link": "https://search.jobs.barclays/job/noida/adm-snr-developer/13015/81297763888"
+      },
+      {
+        "title": "Software Engineer",
+        "link": "https://search.jobs.barclays/job/pune/software-engineer/13015/79310589024"
+      },
+      {
+        "title": "Software Engineer",
+        "link": "https://search.jobs.barclays/job/pune/software-engineer/13015/79310588384"
+      },
+      {
+        "title": "AWS Developer",
+        "link": "https://search.jobs.barclays/job/noida/aws-developer/13015/81326266832"
+      },
+      {
+        "title": "SAP Technical Developer",
+        "link": "https://search.jobs.barclays/job/pune/sap-technical-developer/13015/79634322944"
+      },
+      {
+        "title": "AWS Developer",
+        "link": "https://search.jobs.barclays/job/chennai/aws-developer/13015/79905345808"
+      },
+      {
+        "title": "Java Developer",
+        "link": "https://search.jobs.barclays/job/chennai/java-developer/13015/79264181200"
+      },
+      {
+        "title": "Front Office Developer",
+        "link": "https://search.jobs.barclays/job/london/front-office-developer/13015/79866029568"
+      },
+      {
+        "title": "C# Developer",
+        "link": "https://search.jobs.barclays/job/prague/c-developer/13015/78641190864"
+      },
+      {
+        "title": "Front Office Quant Developer-XVA",
+        "link": "https://search.jobs.barclays/job/london/front-office-quant-developer-xva/13015/82914082320"
+      },
+      {
+        "title": "DevOps Engineer",
+        "link": "https://search.jobs.barclays/job/pune/devops-engineer/13015/78376983040"
+      },
+      {
+        "title": "Software Engineer",
+        "link": "https://search.jobs.barclays/job/pune/software-engineer/13015/78007763856"
+      },
+      {
+        "title": "Software Engineer",
+        "link": "https://search.jobs.barclays/job/pune/software-engineer/13015/78328124368"
+      },
+      {
+        "title": "Developer",
+        "link": "https://search.jobs.barclays/job/pune/developer/13015/77961310800"
+      },
+      {
+        "title": "Software Engineer II",
+        "link": "https://search.jobs.barclays/job/pune/software-engineer-ii/13015/77388693120"
+      },
+      {
+        "title": "Software Engineer",
+        "link": "https://search.jobs.barclays/job/pune/software-engineer/13015/77267840848"
+      },
+      {
+        "title": "Data Platform developer",
+        "link": "https://search.jobs.barclays/job/pune/data-platform-developer/13015/77313601664"
+      },
+      {
+        "title": "Application Developer",
+        "link": "https://search.jobs.barclays/job/pune/application-developer/13015/80113069248"
+      },
+      {
+        "title": "Database Execution Services Developer",
+        "link": "https://search.jobs.barclays/job/knutsford/database-execution-services-developer/13015/81174681296"
+      },
+      {
+        "title": "Software Engineer",
+        "link": "https://search.jobs.barclays/job/pune/software-engineer/13015/76130178272"
+      },
+      {
+        "title": "Java Developer",
+        "link": "https://search.jobs.barclays/job/pune/java-developer/13015/78609302320"
+      },
+      {
+        "title": "Software Engineer",
+        "link": "https://search.jobs.barclays/job/glasgow/software-engineer/13015/75782090160"
+      },
+      {
+        "title": "TCW Java Developer",
+        "link": "https://search.jobs.barclays/job/pune/tcw-java-developer/13015/72448579168"
+      },
+      {
+        "title": "FullStack Developer",
+        "link": "https://search.jobs.barclays/job/pune/fullstack-developer/13015/74052031552"
+      }
+    ]
   },
   {
     "id": "2",
@@ -16,6 +605,9 @@
     "logo": "",
     "careerPage": "https://higher.gs.com/results?JOB_FUNCTION=Software%20Engineering&LOCATION=Bengaluru|Hyderabad|Mumbai&page=1&sort=RELEVANCE",
     "industry": "fintech",
-    "workLifeRating": "4"
+    "workLifeRating": "4",
+    "prevJobsCount": 0,
+    "currJobsCount": 0,
+    "jobsList": []
   }
 ]
