@@ -42,5 +42,16 @@
     "prevJobsCount": 0,
     "currJobsCount": 0,
     "jobsList": []
+  },
+  {
+    "id": "5",
+    "name": "MSCI",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGvM-iit1rw1A/company-logo_200_200/company-logo_200_200/0/1720467551599/msci_inc_logo?e=1760572800&v=beta&t=wiND5L6UsxMIkBquAtbY-maf_11sSrfsS8Gh6T759_M",
+    "careerPage": "https://careers.msci.com/job-search?production__mscicare2201__sort-rank%5BrefinementList%5D%5Btown_city_country%5D%5B0%5D=Mumbai%20%7C%20India&production__mscicare2201__sort-rank%5BrefinementList%5D%5Btown_city_country%5D%5B1%5D=Pune%20%7C%20India&production__mscicare2201__sort-rank%5BrefinementList%5D%5Bcategory%5D%5B0%5D=Technology",
+    "industry": "fintech",
+    "workLifeRating": "0",
+    "prevJobsCount": 0,
+    "currJobsCount": 0,
+    "jobsList": []
   }
 ]
