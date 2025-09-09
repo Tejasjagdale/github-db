@@ -20,5 +20,16 @@
     "prevJobsCount": 0,
     "currJobsCount": 0,
     "jobsList": []
+  },
+  {
+    "id": "3",
+    "name": "BNY mellon",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQE72gHn5DlpMw/company-logo_200_200/company-logo_200_200/0/1719255488792/bny_mellon_logo?e=1760572800&v=beta&t=F9nIo8k5ooWnfgwJfzDVQmBeyMAy-ssN9pkqTL8Qnk0",
+    "careerPage": "https://bnymellon.eightfold.ai/careers?start=0&location=pune&pid=27365166&sort_by=distance&filter_distance=80&filter_include_remote=1&filter_departments=Tech+-+Software+Engineering",
+    "industry": "fintech",
+    "workLifeRating": "0",
+    "prevJobsCount": 0,
+    "currJobsCount": 0,
+    "jobsList": []
   }
 ]
