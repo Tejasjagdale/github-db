@@ -31,5 +31,16 @@
     "prevJobsCount": 0,
     "currJobsCount": 0,
     "jobsList": []
+  },
+  {
+    "id": "4",
+    "name": "Citi Bank",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFgF4xtqyXBcg/company-logo_200_200/company-logo_200_200/0/1719257270317/citi_logo?e=1760572800&v=beta&t=8BzIeB6htcGUsEjHiVICGpAFk2LXok69bmxnqFO648M",
+    "careerPage": "https://jobs.citi.com/search-jobs/India/287/2/1269750/22/79/50/2",
+    "industry": "fintech",
+    "workLifeRating": "0",
+    "prevJobsCount": 0,
+    "currJobsCount": 0,
+    "jobsList": []
   }
 ]
