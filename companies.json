@@ -3,7 +3,7 @@
     "id": "1",
     "name": "Barclays",
     "logo": "https://barclays.com/favicon.ico",
-    "careerPage": "https://search.jobs.barclays/search-jobs?orgIds=13015&ac=79683",
+    "careerPage": "https://search.jobs.barclays/search-jobs/India/13015/2/1269750/22/79/50/2",
     "industry": "bank",
     "workLifeRating": "4.5",
     "prevJobsCount": 272,
@@ -609,46 +609,46 @@
     "prevJobsCount": 0,
     "currJobsCount": 10,
     "jobsList": [
-    {
-      "title": "GBM - Private Dept-Bengaluru-Analyst-Loan Management & Due Diligence\nBengaluru·India\n·Analyst",
-      "link": "https://higher.gs.com/roles/153176"
-    },
-    {
-      "title": "GBM – Java Developer - Electronic Trading - Associate - Stockholm\nStockholm·Sweden\n·Associate",
-      "link": "https://higher.gs.com/roles/148553"
-    },
-    {
-      "title": "Global Banking & Markets, Marquee Market Data Engineer, Analyst/ Associate, Singapore\nSingapore·Singapore\n·Associate",
-      "link": "https://higher.gs.com/roles/153193"
-    },
-    {
-      "title": "Engineering - New York - Associate, Software Engineering -630557\nNew York·United States\n·Associate",
-      "link": "https://higher.gs.com/roles/152322"
-    },
-    {
-      "title": "Core Engineering, SDLC - Atlassian Product Administration Support, Associate, Singapore\nSingapore\n·Associate",
-      "link": "https://higher.gs.com/roles/152784"
-    },
-    {
-      "title": "Compliance-Bengaluru-Analyst-Software Engineering\nBengaluru·India\n·Analyst",
-      "link": "https://higher.gs.com/roles/151274"
-    },
-    {
-      "title": "Global Banking & Markets, FICC Trading Platform Software Engineer, Associate, Singapore\nSingapore·Singapore\n·Associate",
-      "link": "https://higher.gs.com/roles/151187"
-    },
-    {
-      "title": "Engineering-L2-Bengaluru-Associate-Software Engineering\nBengaluru·India\n·Associate",
-      "link": "https://higher.gs.com/roles/153196"
-    },
-    {
-      "title": "Asset & Wealth Management - Marcus Platform Engineering - Analyst - Hyderabad\nHyderabad·India\n·Analyst",
-      "link": "https://higher.gs.com/roles/150003"
-    },
-    {
-      "title": "Transaction Banking -Bengaluru-Analyst-Risk Governance\nBengaluru·India\n·Analyst",
-      "link": "https://higher.gs.com/roles/152951"
-    }
-  ]
+      {
+        "title": "GBM - Private Dept-Bengaluru-Analyst-Loan Management & Due Diligence\nBengaluru·India\n·Analyst",
+        "link": "https://higher.gs.com/roles/153176"
+      },
+      {
+        "title": "GBM – Java Developer - Electronic Trading - Associate - Stockholm\nStockholm·Sweden\n·Associate",
+        "link": "https://higher.gs.com/roles/148553"
+      },
+      {
+        "title": "Global Banking & Markets, Marquee Market Data Engineer, Analyst/ Associate, Singapore\nSingapore·Singapore\n·Associate",
+        "link": "https://higher.gs.com/roles/153193"
+      },
+      {
+        "title": "Engineering - New York - Associate, Software Engineering -630557\nNew York·United States\n·Associate",
+        "link": "https://higher.gs.com/roles/152322"
+      },
+      {
+        "title": "Core Engineering, SDLC - Atlassian Product Administration Support, Associate, Singapore\nSingapore\n·Associate",
+        "link": "https://higher.gs.com/roles/152784"
+      },
+      {
+        "title": "Compliance-Bengaluru-Analyst-Software Engineering\nBengaluru·India\n·Analyst",
+        "link": "https://higher.gs.com/roles/151274"
+      },
+      {
+        "title": "Global Banking & Markets, FICC Trading Platform Software Engineer, Associate, Singapore\nSingapore·Singapore\n·Associate",
+        "link": "https://higher.gs.com/roles/151187"
+      },
+      {
+        "title": "Engineering-L2-Bengaluru-Associate-Software Engineering\nBengaluru·India\n·Associate",
+        "link": "https://higher.gs.com/roles/153196"
+      },
+      {
+        "title": "Asset & Wealth Management - Marcus Platform Engineering - Analyst - Hyderabad\nHyderabad·India\n·Analyst",
+        "link": "https://higher.gs.com/roles/150003"
+      },
+      {
+        "title": "Transaction Banking -Bengaluru-Analyst-Risk Governance\nBengaluru·India\n·Analyst",
+        "link": "https://higher.gs.com/roles/152951"
+      }
+    ]
   }
 ]
