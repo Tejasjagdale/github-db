@@ -1,12 +1,12 @@
 [
-    {
+  {
     "id": "1",
     "name": "Barclays",
     "logo": "https://barclays.com/favicon.ico",
     "careerPage": "https://search.jobs.barclays/search-jobs/India",
     "industry": "bank",
     "workLifeRating": "4.5",
-    "prevJobsCount": 0,
-    "currJobsCount": 10
+    "prevJobsCount": 10,
+    "currJobsCount": 0
   }
-  ]
+]
