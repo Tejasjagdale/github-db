@@ -8,6 +8,14 @@
     "workLifeRating": "4.5",
     "prevJobsCount": 0,
     "currJobsCount": 272,
-    "jobsList":[]
+    "jobsList": []
+  },
+  {
+    "id": "2",
+    "name": "goldman sachs",
+    "logo": "",
+    "careerPage": "https://higher.gs.com/results?JOB_FUNCTION=Software%20Engineering&LOCATION=Bengaluru|Hyderabad|Mumbai&page=1&sort=RELEVANCE",
+    "industry": "fintech",
+    "workLifeRating": "4"
   }
 ]
