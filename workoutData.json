@@ -22,7 +22,7 @@
         {
           "name": "Standing Dumbbell Curl (15kg)",
           "sets": 4,
-          "reps": "8-12"
+          "reps": "8"
         },
         {
           "name": "Hammer Curl (15kg)",
@@ -53,27 +53,27 @@
           "reps": "8",
           "restSeconds": 60,
           "equipment": [
-            "15Kg dumble"
+            "10Kg dumble"
           ]
         },
         {
           "step": 2,
           "name": "Standing Dumbbell Curl (15kg)",
           "set": 2,
-          "reps": "8-12",
+          "reps": "8",
           "restSeconds": 60,
           "equipment": [
-            "15Kg dumble"
+            "10Kg dumble"
           ]
         },
         {
           "step": 3,
           "name": "Standing Dumbbell Curl (15kg)",
           "set": 3,
-          "reps": "8-12",
+          "reps": "8",
           "restSeconds": 60,
           "equipment": [
-            "15Kg dumble"
+            "10Kg dumble"
           ]
         },
         {
