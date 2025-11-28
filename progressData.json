@@ -1,9 +1,9 @@
 {
   "profile": {
-    "name": "",
-    "age": 0,
-    "gender": "",
-    "heightCm": 0
+    "name": "Tejas",
+    "age": 23,
+    "gender": "male",
+    "heightCm": 177
   },
   "goals": {
     "targetBMI": 22
