@@ -1,0 +1,6 @@
+{
+"profile": { "name": "", "age": 0, "gender": "", "heightCm": 0 },
+"goals": { "targetBMI": 22 },
+"dailyWeight": {},
+"measurements": {}
+}
