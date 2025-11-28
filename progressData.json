@@ -5,11 +5,113 @@
     "gender": "male",
     "heightCm": 177
   },
+
   "goals": {
     "targetBMI": 22
   },
+
   "dailyWeight": {
+    "2024-07-03": 62,
+    "2024-07-16": 62,
+    "2024-07-29": 62,
+    "2024-08-11": 60,
+    "2024-08-24": 59,
+    "2024-09-06": 59,
+    "2024-11-23": 61,
+    "2024-12-06": 58,
     "2025-11-29": 62.5
   },
-  "measurements": {}
+
+  "measurements": {
+    "2024-07-03": {
+      "unflexedArms": 10.4,
+      "flexedArms": 12.2,
+      "forearms": 10.2,
+      "thighs": 20.5,
+      "calf": 13.3,
+      "chest": 34,
+      "stomach": 31.4,
+      "waist": 32,
+      "neck": 13.1,
+      "bodyFat": 17.5
+    },
+
+    "2024-07-16": {
+      "unflexedArms": 10.5,
+      "flexedArms": 12.3,
+      "forearms": 10.1,
+      "thighs": 21,
+      "calf": 13.3,
+      "chest": 33.4,
+      "stomach": 31.2,
+      "waist": 31.5,
+      "neck": 13.2,
+      "bodyFat": 16.4
+    },
+
+    "2024-07-29": {
+      "unflexedArms": 10.6,
+      "flexedArms": 12.3,
+      "forearms": 10.2,
+      "thighs": 21.1,
+      "calf": 14,
+      "chest": 34,
+      "stomach": 31.6,
+      "waist": 31,
+      "neck": 13.2,
+      "bodyFat": 15.2
+    },
+
+    "2024-08-11": {
+      "unflexedArms": 10.6,
+      "flexedArms": 12.1,
+      "forearms": 10,
+      "thighs": 21,
+      "calf": 13.1,
+      "chest": 33.1,
+      "stomach": 29.5,
+      "waist": 30.3,
+      "neck": 13,
+      "bodyFat": 14.3
+    },
+
+    "2024-08-24": {
+      "unflexedArms": 10.7,
+      "flexedArms": 12.1,
+      "forearms": 10,
+      "thighs": 20.3,
+      "calf": 13.5,
+      "chest": 33.2,
+      "stomach": 29,
+      "waist": 30,
+      "neck": 13.2,
+      "bodyFat": 13.3
+    },
+
+    "2024-09-06": {
+      "unflexedArms": 10.7,
+      "flexedArms": 12,
+      "forearms": 10,
+      "thighs": 20.3,
+      "calf": 13.4,
+      "chest": 33.4,
+      "stomach": 30,
+      "waist": 30.4,
+      "neck": 12.7,
+      "bodyFat": 15.0
+    },
+
+    "2024-11-23": {
+      "unflexedArms": 11.1,
+      "flexedArms": 12.4,
+      "chest": 35.2,
+      "waist": 31,
+      "neck": 13.1,
+      "bodyFat": 15.4
+    },
+
+    "2024-12-06": {
+      "bodyFat": 11.4
+    }
+  }
 }
