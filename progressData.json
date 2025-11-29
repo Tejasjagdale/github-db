@@ -112,28 +112,16 @@
     }
   },
 
-  "workouts": {
-    "2025-01-03": [
-      { "variant": "Push Day", "completed": true },
-      { "variant": "Abs", "completed": false }
-    ],
-    "2025-01-05": [
-      { "variant": "Pull Day", "completed": true }
-    ],
-    "2025-01-08": [
-      { "variant": "Legs Day", "completed": false }
-    ],
-    "2025-01-12": [
-      { "variant": "Full Body", "completed": true }
-    ],
-    "2025-01-18": [
-      { "variant": "Push Day", "completed": true }
-    ],
-    "2025-01-24": [
-      { "variant": "Pull Day", "completed": false }
-    ],
-    "2025-01-27": [
-      { "variant": "Abs", "completed": true }
-    ]
-  }
+  "workouts": [
+    { "date": "2025-01-03", "variantName": "Arms Variant 1",  "completed": true  },
+    { "date": "2025-01-05", "variantName": "Chest Variant 1", "completed": false },
+    { "date": "2025-01-08", "variantName": "Arms Variant 2",  "completed": true  },
+    { "date": "2025-01-12", "variantName": "Chest Variant 2", "completed": true  },
+    { "date": "2025-01-18", "variantName": "Arms Variant 3",  "completed": false },
+    { "date": "2025-01-24", "variantName": "Chest Variant 3", "completed": true  },
+    { "date": "2025-02-02", "variantName": "Arms Variant 1",  "completed": true  },
+    { "date": "2025-02-05", "variantName": "Chest Variant 1", "completed": false },
+    { "date": "2025-02-11", "variantName": "Legs Variant 1", "completed": true  },
+    { "date": "2025-02-18", "variantName": "Full Body",       "completed": true  }
+  ]
 }
