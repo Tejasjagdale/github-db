@@ -1107,57 +1107,6 @@
           ]
         }
       ]
-    },
-    {
-      "variantName": "Legs variant 1",
-      "exercisesList": [
-        {
-          "name": "squat",
-          "sets": 3,
-          "reps": "5"
-        },
-        {
-          "name": "squat new",
-          "sets": 1,
-          "reps": "8-12"
-        }
-      ],
-      "exerciseOrder": [
-        {
-          "step": 1,
-          "name": "squat",
-          "set": 1,
-          "reps": "5",
-          "restSeconds": 60,
-          "equipment": [
-            "yoga mat"
-          ]
-        },
-        {
-          "step": 2,
-          "name": "squat",
-          "set": 2,
-          "reps": "8-12",
-          "restSeconds": 60,
-          "equipment": []
-        },
-        {
-          "step": 3,
-          "name": "squat",
-          "set": 3,
-          "reps": "8-12",
-          "restSeconds": 60,
-          "equipment": []
-        },
-        {
-          "step": 4,
-          "name": "squat new",
-          "set": 1,
-          "reps": "8-12",
-          "restSeconds": 60,
-          "equipment": []
-        }
-      ]
     }
   ]
 }
