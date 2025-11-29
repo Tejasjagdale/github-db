@@ -23,7 +23,7 @@
         {
           "name": "Overhead Tricep Extension",
           "sets": 3,
-          "reps": "10-12"
+          "reps": "8"
         },
         {
           "name": "Close-Grip Push-ups",
@@ -33,7 +33,7 @@
         {
           "name": "Reverse Curl",
           "sets": 3,
-          "reps": "12"
+          "reps": "10"
         }
       ],
       "exerciseOrder": [
@@ -143,9 +143,7 @@
           "set": 1,
           "reps": "max",
           "restSeconds": 90,
-          "equipment": [
-            "chair"
-          ]
+          "equipment": []
         },
         {
           "step": 12,
@@ -153,9 +151,7 @@
           "set": 2,
           "reps": "max",
           "restSeconds": 90,
-          "equipment": [
-            "chair"
-          ]
+          "equipment": []
         },
         {
           "step": 13,
@@ -163,9 +159,7 @@
           "set": 3,
           "reps": "max",
           "restSeconds": 120,
-          "equipment": [
-            "chair"
-          ]
+          "equipment": []
         },
         {
           "step": 14,
