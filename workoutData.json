@@ -206,7 +206,8 @@
             "10Kg dumble"
           ]
         }
-      ]
+      ],
+      "id": "74594616-43ca-4dc1-ba9f-eeee8b1c9b90"
     },
     {
       "variantName": "Chest Variant 1",
@@ -408,7 +409,8 @@
             "pull up bar"
           ]
         }
-      ]
+      ],
+      "id": "740d73c3-5b5d-489e-9282-7f98de5c6d0a"
     },
     {
       "variantName": "Arms Variant 2",
@@ -580,7 +582,8 @@
             "10Kg dumble"
           ]
         }
-      ]
+      ],
+      "id": "05f9d948-0b70-470b-bd4a-7fb113990cbf"
     },
     {
       "variantName": "Chest Variant 2",
@@ -762,7 +765,8 @@
             "table"
           ]
         }
-      ]
+      ],
+      "id": "f06c84d1-c154-48fd-a917-b355a1e7a8d0"
     },
     {
       "variantName": "Arms Variant 3",
@@ -944,7 +948,8 @@
             "10Kg dumble"
           ]
         }
-      ]
+      ],
+      "id": "69a4920d-4a5c-410f-b996-781c9873c159"
     },
     {
       "variantName": "Chest Variant 3",
@@ -1106,7 +1111,14 @@
             "chair"
           ]
         }
-      ]
+      ],
+      "id": "a0021e8d-8353-451d-ba7a-59e637739eb4"
+    },
+    {
+      "id": "8f94bbfd-f576-4248-9414-e3096d65ac17",
+      "variantName": "New Variant 7",
+      "exercisesList": [],
+      "exerciseOrder": []
     }
   ]
 }
