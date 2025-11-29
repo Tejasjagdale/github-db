@@ -19,6 +19,10 @@
     "2024-09-06": 59,
     "2024-11-23": 61,
     "2024-12-06": 58,
+    "2025-01-15": 60.2,
+    "2025-01-22": 61.1,
+    "2025-01-29": 60.8,
+    "2025-02-05": 60.3,
     "2025-11-29": 62.5
   },
 
@@ -35,7 +39,6 @@
       "neck": 13.1,
       "bodyFat": 17.5
     },
-
     "2024-07-16": {
       "unflexedArms": 10.5,
       "flexedArms": 12.3,
@@ -48,7 +51,6 @@
       "neck": 13.2,
       "bodyFat": 16.4
     },
-
     "2024-07-29": {
       "unflexedArms": 10.6,
       "flexedArms": 12.3,
@@ -61,7 +63,6 @@
       "neck": 13.2,
       "bodyFat": 15.2
     },
-
     "2024-08-11": {
       "unflexedArms": 10.6,
       "flexedArms": 12.1,
@@ -74,7 +75,6 @@
       "neck": 13,
       "bodyFat": 14.3
     },
-
     "2024-08-24": {
       "unflexedArms": 10.7,
       "flexedArms": 12.1,
@@ -87,7 +87,6 @@
       "neck": 13.2,
       "bodyFat": 13.3
     },
-
     "2024-09-06": {
       "unflexedArms": 10.7,
       "flexedArms": 12,
@@ -100,7 +99,6 @@
       "neck": 12.7,
       "bodyFat": 15.0
     },
-
     "2024-11-23": {
       "unflexedArms": 11.1,
       "flexedArms": 12.4,
@@ -109,9 +107,33 @@
       "neck": 13.1,
       "bodyFat": 15.4
     },
-
     "2024-12-06": {
       "bodyFat": 11.4
     }
+  },
+
+  "workouts": {
+    "2025-01-03": [
+      { "variant": "Push Day", "completed": true },
+      { "variant": "Abs", "completed": false }
+    ],
+    "2025-01-05": [
+      { "variant": "Pull Day", "completed": true }
+    ],
+    "2025-01-08": [
+      { "variant": "Legs Day", "completed": false }
+    ],
+    "2025-01-12": [
+      { "variant": "Full Body", "completed": true }
+    ],
+    "2025-01-18": [
+      { "variant": "Push Day", "completed": true }
+    ],
+    "2025-01-24": [
+      { "variant": "Pull Day", "completed": false }
+    ],
+    "2025-01-27": [
+      { "variant": "Abs", "completed": true }
+    ]
   }
 }
