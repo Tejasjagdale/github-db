@@ -4,7 +4,6 @@
     "15Kg dumble",
     "pull up bar",
     "chair",
-    "table",
     "yoga mat"
   ],
   "variants": [
@@ -12,17 +11,17 @@
       "variantName": "Arms Variant 1",
       "exercisesList": [
         {
-          "name": "Standing Dumbbell Curl (15kg)",
+          "name": "Standing Dumbbell Curl",
           "sets": 4,
           "reps": "10"
         },
         {
-          "name": "Hammer Curl (15kg)",
+          "name": "Hammer Curl",
           "sets": 3,
           "reps": "8"
         },
         {
-          "name": "Overhead Tricep Extension (15kg)",
+          "name": "Overhead Tricep Extension",
           "sets": 3,
           "reps": "10-12"
         },
@@ -32,7 +31,7 @@
           "reps": "max"
         },
         {
-          "name": "Reverse Curl (10kg)",
+          "name": "Reverse Curl",
           "sets": 3,
           "reps": "12"
         }
@@ -40,7 +39,7 @@
       "exerciseOrder": [
         {
           "step": 1,
-          "name": "Standing Dumbbell Curl (15kg)",
+          "name": "Standing Dumbbell Curl",
           "set": 1,
           "reps": "10",
           "restSeconds": 60,
@@ -50,7 +49,7 @@
         },
         {
           "step": 2,
-          "name": "Standing Dumbbell Curl (15kg)",
+          "name": "Standing Dumbbell Curl",
           "set": 2,
           "reps": "10",
           "restSeconds": 60,
@@ -60,7 +59,7 @@
         },
         {
           "step": 3,
-          "name": "Standing Dumbbell Curl (15kg)",
+          "name": "Standing Dumbbell Curl",
           "set": 3,
           "reps": "10",
           "restSeconds": 60,
@@ -70,7 +69,7 @@
         },
         {
           "step": 4,
-          "name": "Standing Dumbbell Curl (15kg)",
+          "name": "Standing Dumbbell Curl",
           "set": 4,
           "reps": "10",
           "restSeconds": 90,
@@ -80,7 +79,7 @@
         },
         {
           "step": 5,
-          "name": "Hammer Curl (15kg)",
+          "name": "Hammer Curl",
           "set": 1,
           "reps": "8",
           "restSeconds": 60,
@@ -90,7 +89,7 @@
         },
         {
           "step": 6,
-          "name": "Hammer Curl (15kg)",
+          "name": "Hammer Curl",
           "set": 2,
           "reps": "8",
           "restSeconds": 60,
@@ -100,7 +99,7 @@
         },
         {
           "step": 7,
-          "name": "Hammer Curl (15kg)",
+          "name": "Hammer Curl",
           "set": 3,
           "reps": "8",
           "restSeconds": 90,
@@ -110,7 +109,7 @@
         },
         {
           "step": 8,
-          "name": "Overhead Tricep Extension (15kg)",
+          "name": "Overhead Tricep Extension",
           "set": 1,
           "reps": "10-12",
           "restSeconds": 60,
@@ -120,7 +119,7 @@
         },
         {
           "step": 9,
-          "name": "Overhead Tricep Extension (15kg)",
+          "name": "Overhead Tricep Extension",
           "set": 2,
           "reps": "10-12",
           "restSeconds": 60,
@@ -130,7 +129,7 @@
         },
         {
           "step": 10,
-          "name": "Overhead Tricep Extension (15kg)",
+          "name": "Overhead Tricep Extension",
           "set": 3,
           "reps": "10-12",
           "restSeconds": 90,
@@ -170,7 +169,7 @@
         },
         {
           "step": 14,
-          "name": "Reverse Curl (10kg)",
+          "name": "Reverse Curl",
           "set": 1,
           "reps": "12",
           "restSeconds": 60,
@@ -180,7 +179,7 @@
         },
         {
           "step": 15,
-          "name": "Reverse Curl (10kg)",
+          "name": "Reverse Curl",
           "set": 2,
           "reps": "12",
           "restSeconds": 60,
@@ -190,7 +189,7 @@
         },
         {
           "step": 16,
-          "name": "Reverse Curl (10kg)",
+          "name": "Reverse Curl",
           "set": 3,
           "reps": "12",
           "restSeconds": 90,
@@ -210,12 +209,12 @@
           "reps": "max"
         },
         {
-          "name": "Dumbbell Floor Press (15kg)",
+          "name": "Dumbbell Floor Press",
           "sets": 4,
           "reps": "8-12"
         },
         {
-          "name": "Dumbbell Fly (10kg)",
+          "name": "Dumbbell Fly",
           "sets": 3,
           "reps": "10-12"
         },
@@ -273,7 +272,7 @@
         },
         {
           "step": 5,
-          "name": "Dumbbell Floor Press (15kg)",
+          "name": "Dumbbell Floor Press",
           "set": 1,
           "reps": "8-12",
           "restSeconds": 60,
@@ -283,7 +282,7 @@
         },
         {
           "step": 6,
-          "name": "Dumbbell Floor Press (15kg)",
+          "name": "Dumbbell Floor Press",
           "set": 2,
           "reps": "8-12",
           "restSeconds": 60,
@@ -293,7 +292,7 @@
         },
         {
           "step": 7,
-          "name": "Dumbbell Floor Press (15kg)",
+          "name": "Dumbbell Floor Press",
           "set": 3,
           "reps": "8-12",
           "restSeconds": 60,
@@ -303,7 +302,7 @@
         },
         {
           "step": 8,
-          "name": "Dumbbell Floor Press (15kg)",
+          "name": "Dumbbell Floor Press",
           "set": 4,
           "reps": "8-12",
           "restSeconds": 90,
@@ -313,7 +312,7 @@
         },
         {
           "step": 9,
-          "name": "Dumbbell Fly (10kg)",
+          "name": "Dumbbell Fly",
           "set": 1,
           "reps": "10-12",
           "restSeconds": 60,
@@ -323,7 +322,7 @@
         },
         {
           "step": 10,
-          "name": "Dumbbell Fly (10kg)",
+          "name": "Dumbbell Fly",
           "set": 2,
           "reps": "10-12",
           "restSeconds": 60,
@@ -333,7 +332,7 @@
         },
         {
           "step": 11,
-          "name": "Dumbbell Fly (10kg)",
+          "name": "Dumbbell Fly",
           "set": 3,
           "reps": "10-12",
           "restSeconds": 90,
@@ -764,12 +763,12 @@
       "variantName": "Arms Variant 3",
       "exercisesList": [
         {
-          "name": "Alternating Dumbbell Curl (15kg)",
+          "name": "Alternating Dumbbell Curl",
           "sets": 4,
           "reps": "8-10"
         },
         {
-          "name": "Zottman Curl (10kg)",
+          "name": "Zottman Curl",
           "sets": 3,
           "reps": "10"
         },
@@ -784,7 +783,7 @@
           "reps": "10"
         },
         {
-          "name": "Hammer Curl Burnout (10kg)",
+          "name": "Hammer Curl Burnout",
           "sets": 1,
           "reps": "20 rapid reps"
         }
@@ -792,7 +791,7 @@
       "exerciseOrder": [
         {
           "step": 1,
-          "name": "Alternating Dumbbell Curl (15kg)",
+          "name": "Alternating Dumbbell Curl",
           "set": 1,
           "reps": "8-10",
           "restSeconds": 60,
@@ -802,7 +801,7 @@
         },
         {
           "step": 2,
-          "name": "Alternating Dumbbell Curl (15kg)",
+          "name": "Alternating Dumbbell Curl",
           "set": 2,
           "reps": "8-10",
           "restSeconds": 60,
@@ -812,7 +811,7 @@
         },
         {
           "step": 3,
-          "name": "Alternating Dumbbell Curl (15kg)",
+          "name": "Alternating Dumbbell Curl",
           "set": 3,
           "reps": "8-10",
           "restSeconds": 60,
@@ -822,7 +821,7 @@
         },
         {
           "step": 4,
-          "name": "Alternating Dumbbell Curl (15kg)",
+          "name": "Alternating Dumbbell Curl",
           "set": 4,
           "reps": "8-10",
           "restSeconds": 90,
@@ -832,7 +831,7 @@
         },
         {
           "step": 5,
-          "name": "Zottman Curl (10kg)",
+          "name": "Zottman Curl",
           "set": 1,
           "reps": "10",
           "restSeconds": 60,
@@ -842,7 +841,7 @@
         },
         {
           "step": 6,
-          "name": "Zottman Curl (10kg)",
+          "name": "Zottman Curl",
           "set": 2,
           "reps": "10",
           "restSeconds": 60,
@@ -852,7 +851,7 @@
         },
         {
           "step": 7,
-          "name": "Zottman Curl (10kg)",
+          "name": "Zottman Curl",
           "set": 3,
           "reps": "10",
           "restSeconds": 90,
@@ -932,7 +931,7 @@
         },
         {
           "step": 15,
-          "name": "Hammer Curl Burnout (10kg)",
+          "name": "Hammer Curl Burnout",
           "set": 1,
           "reps": "20 rapid reps",
           "restSeconds": 120,
@@ -952,7 +951,7 @@
           "reps": "8 each"
         },
         {
-          "name": "Floor Press (15kg)",
+          "name": "Floor Press",
           "sets": 3,
           "reps": "10"
         },
@@ -1005,7 +1004,7 @@
         },
         {
           "step": 4,
-          "name": "Floor Press (15kg)",
+          "name": "Floor Press",
           "set": 1,
           "reps": "10",
           "restSeconds": 60,
@@ -1015,7 +1014,7 @@
         },
         {
           "step": 5,
-          "name": "Floor Press (15kg)",
+          "name": "Floor Press",
           "set": 2,
           "reps": "10",
           "restSeconds": 60,
@@ -1025,7 +1024,7 @@
         },
         {
           "step": 6,
-          "name": "Floor Press (15kg)",
+          "name": "Floor Press",
           "set": 3,
           "reps": "10",
           "restSeconds": 90,
