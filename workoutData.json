@@ -14,12 +14,12 @@
         {
           "name": "Standing Dumbbell Curl (15kg)",
           "sets": 4,
-          "reps": "8"
+          "reps": "10"
         },
         {
           "name": "Hammer Curl (15kg)",
           "sets": 3,
-          "reps": "10"
+          "reps": "8"
         },
         {
           "name": "Overhead Tricep Extension (15kg)",
@@ -42,7 +42,7 @@
           "step": 1,
           "name": "Standing Dumbbell Curl (15kg)",
           "set": 1,
-          "reps": "8",
+          "reps": "10",
           "restSeconds": 60,
           "equipment": [
             "10Kg dumble"
@@ -52,7 +52,7 @@
           "step": 2,
           "name": "Standing Dumbbell Curl (15kg)",
           "set": 2,
-          "reps": "8",
+          "reps": "10",
           "restSeconds": 60,
           "equipment": [
             "10Kg dumble"
@@ -62,7 +62,7 @@
           "step": 3,
           "name": "Standing Dumbbell Curl (15kg)",
           "set": 3,
-          "reps": "8",
+          "reps": "10",
           "restSeconds": 60,
           "equipment": [
             "10Kg dumble"
@@ -72,17 +72,17 @@
           "step": 4,
           "name": "Standing Dumbbell Curl (15kg)",
           "set": 4,
-          "reps": "8-12",
+          "reps": "10",
           "restSeconds": 90,
           "equipment": [
-            "15Kg dumble"
+            "10Kg dumble"
           ]
         },
         {
           "step": 5,
           "name": "Hammer Curl (15kg)",
           "set": 1,
-          "reps": "10",
+          "reps": "8",
           "restSeconds": 60,
           "equipment": [
             "15Kg dumble"
@@ -92,7 +92,7 @@
           "step": 6,
           "name": "Hammer Curl (15kg)",
           "set": 2,
-          "reps": "10",
+          "reps": "8",
           "restSeconds": 60,
           "equipment": [
             "15Kg dumble"
@@ -102,7 +102,7 @@
           "step": 7,
           "name": "Hammer Curl (15kg)",
           "set": 3,
-          "reps": "10",
+          "reps": "8",
           "restSeconds": 90,
           "equipment": [
             "15Kg dumble"
