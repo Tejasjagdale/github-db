@@ -12,7 +12,7 @@
       "exercisesList": [
         {
           "name": "Standing Dumbbell Curl",
-          "sets": 4,
+          "sets": 3,
           "reps": "10"
         },
         {
@@ -62,25 +62,25 @@
           "name": "Standing Dumbbell Curl",
           "set": 3,
           "reps": "10",
-          "restSeconds": 60,
-          "equipment": [
-            "10Kg dumble"
-          ]
-        },
-        {
-          "step": 4,
-          "name": "Standing Dumbbell Curl",
-          "set": 4,
-          "reps": "10",
           "restSeconds": 90,
           "equipment": [
             "10Kg dumble"
           ]
         },
         {
-          "step": 5,
+          "step": 4,
           "name": "Hammer Curl",
           "set": 1,
+          "reps": "8",
+          "restSeconds": 60,
+          "equipment": [
+            "15Kg dumble"
+          ]
+        },
+        {
+          "step": 5,
+          "name": "Hammer Curl",
+          "set": 2,
           "reps": "8",
           "restSeconds": 60,
           "equipment": [
@@ -90,16 +90,6 @@
         {
           "step": 6,
           "name": "Hammer Curl",
-          "set": 2,
-          "reps": "8",
-          "restSeconds": 60,
-          "equipment": [
-            "15Kg dumble"
-          ]
-        },
-        {
-          "step": 7,
-          "name": "Hammer Curl",
           "set": 3,
           "reps": "8",
           "restSeconds": 90,
@@ -108,9 +98,19 @@
           ]
         },
         {
-          "step": 8,
+          "step": 7,
           "name": "Overhead Tricep Extension",
           "set": 1,
+          "reps": "8",
+          "restSeconds": 60,
+          "equipment": [
+            "15Kg dumble"
+          ]
+        },
+        {
+          "step": 8,
+          "name": "Overhead Tricep Extension",
+          "set": 2,
           "reps": "8",
           "restSeconds": 60,
           "equipment": [
@@ -120,16 +120,6 @@
         {
           "step": 9,
           "name": "Overhead Tricep Extension",
-          "set": 2,
-          "reps": "8",
-          "restSeconds": 60,
-          "equipment": [
-            "15Kg dumble"
-          ]
-        },
-        {
-          "step": 10,
-          "name": "Overhead Tricep Extension",
           "set": 3,
           "reps": "8",
           "restSeconds": 90,
@@ -138,9 +128,17 @@
           ]
         },
         {
-          "step": 11,
+          "step": 10,
           "name": "Close-Grip Push-ups",
           "set": 1,
+          "reps": "max",
+          "restSeconds": 90,
+          "equipment": []
+        },
+        {
+          "step": 11,
+          "name": "Close-Grip Push-ups",
+          "set": 2,
           "reps": "max",
           "restSeconds": 90,
           "equipment": []
@@ -148,23 +146,25 @@
         {
           "step": 12,
           "name": "Close-Grip Push-ups",
-          "set": 2,
-          "reps": "max",
-          "restSeconds": 90,
-          "equipment": []
-        },
-        {
-          "step": 13,
-          "name": "Close-Grip Push-ups",
           "set": 3,
           "reps": "max",
           "restSeconds": 120,
           "equipment": []
         },
         {
-          "step": 14,
+          "step": 13,
           "name": "Reverse Curl",
           "set": 1,
+          "reps": "10",
+          "restSeconds": 60,
+          "equipment": [
+            "10Kg dumble"
+          ]
+        },
+        {
+          "step": 14,
+          "name": "Reverse Curl",
+          "set": 2,
           "reps": "10",
           "restSeconds": 60,
           "equipment": [
@@ -173,16 +173,6 @@
         },
         {
           "step": 15,
-          "name": "Reverse Curl",
-          "set": 2,
-          "reps": "10",
-          "restSeconds": 60,
-          "equipment": [
-            "10Kg dumble"
-          ]
-        },
-        {
-          "step": 16,
           "name": "Reverse Curl",
           "set": 3,
           "reps": "10",
