@@ -111,7 +111,7 @@
           "step": 8,
           "name": "Overhead Tricep Extension",
           "set": 1,
-          "reps": "10-12",
+          "reps": "8",
           "restSeconds": 60,
           "equipment": [
             "15Kg dumble"
@@ -121,7 +121,7 @@
           "step": 9,
           "name": "Overhead Tricep Extension",
           "set": 2,
-          "reps": "10-12",
+          "reps": "8",
           "restSeconds": 60,
           "equipment": [
             "15Kg dumble"
@@ -131,7 +131,7 @@
           "step": 10,
           "name": "Overhead Tricep Extension",
           "set": 3,
-          "reps": "10-12",
+          "reps": "8",
           "restSeconds": 90,
           "equipment": [
             "15Kg dumble"
@@ -171,7 +171,7 @@
           "step": 14,
           "name": "Reverse Curl",
           "set": 1,
-          "reps": "12",
+          "reps": "10",
           "restSeconds": 60,
           "equipment": [
             "10Kg dumble"
@@ -181,7 +181,7 @@
           "step": 15,
           "name": "Reverse Curl",
           "set": 2,
-          "reps": "12",
+          "reps": "10",
           "restSeconds": 60,
           "equipment": [
             "10Kg dumble"
@@ -191,7 +191,7 @@
           "step": 16,
           "name": "Reverse Curl",
           "set": 3,
-          "reps": "12",
+          "reps": "10",
           "restSeconds": 90,
           "equipment": [
             "10Kg dumble"
