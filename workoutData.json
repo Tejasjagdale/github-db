@@ -360,9 +360,7 @@
           "set": 1,
           "reps": "max",
           "restSeconds": 90,
-          "equipment": [
-            "pull up bar"
-          ]
+          "equipment": []
         },
         {
           "step": 16,
@@ -370,9 +368,7 @@
           "set": 2,
           "reps": "max",
           "restSeconds": 90,
-          "equipment": [
-            "pull up bar"
-          ]
+          "equipment": []
         },
         {
           "step": 17,
@@ -380,9 +376,7 @@
           "set": 3,
           "reps": "max",
           "restSeconds": 120,
-          "equipment": [
-            "pull up bar"
-          ]
+          "equipment": []
         }
       ],
       "id": "740d73c3-5b5d-489e-9282-7f98de5c6d0a"
