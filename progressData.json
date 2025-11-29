@@ -165,6 +165,12 @@
       "variantId": "74594616-43ca-4dc1-ba9f-eeee8b1c9b90",
       "variantName": "Arms Variant 1",
       "completed": true
+    },
+    {
+      "date": "2025-11-29",
+      "variantId": "a0021e8d-8353-451d-ba7a-59e637739eb4",
+      "variantName": "Chest Variant 3",
+      "completed": false
     }
   ]
 }
