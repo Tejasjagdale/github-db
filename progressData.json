@@ -3,10 +3,9 @@
     "name": "Tejas",
     "age": 23,
     "gender": "male",
-    "heightCm": 177
-  },
-  "goals": {
-    "targetBMI": 22
+    "heightCm": 177,
+    "goalWeight":70,
+    "targetBMI": 22.3
   },
   "dailyWeight": {
     "2024-07-03": 59,
