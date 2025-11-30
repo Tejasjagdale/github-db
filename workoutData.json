@@ -203,7 +203,7 @@
           "reps": "10"
         },
         {
-          "name": "Dumbbell Pullover (10–15kg)",
+          "name": "Dumbbell Pullover",
           "sets": 3,
           "reps": "10"
         },
@@ -305,7 +305,7 @@
         },
         {
           "step": 10,
-          "name": "Dumbbell Pullover (10–15kg)",
+          "name": "Dumbbell Pullover",
           "set": 1,
           "reps": "10",
           "restSeconds": 60,
@@ -315,7 +315,7 @@
         },
         {
           "step": 11,
-          "name": "Dumbbell Pullover (10–15kg)",
+          "name": "Dumbbell Pullover",
           "set": 2,
           "reps": "10",
           "restSeconds": 60,
@@ -325,7 +325,7 @@
         },
         {
           "step": 12,
-          "name": "Dumbbell Pullover (10–15kg)",
+          "name": "Dumbbell Pullover",
           "set": 3,
           "reps": "10",
           "restSeconds": 90,
@@ -542,7 +542,7 @@
           "reps": "max"
         },
         {
-          "name": "Dumbbell Squeeze Press (10–15kg)",
+          "name": "Dumbbell Squeeze Press",
           "sets": 3,
           "reps": "12"
         },
@@ -605,7 +605,7 @@
         },
         {
           "step": 5,
-          "name": "Dumbbell Squeeze Press (10–15kg)",
+          "name": "Dumbbell Squeeze Press",
           "set": 1,
           "reps": "12",
           "restSeconds": 60,
@@ -615,7 +615,7 @@
         },
         {
           "step": 6,
-          "name": "Dumbbell Squeeze Press (10–15kg)",
+          "name": "Dumbbell Squeeze Press",
           "set": 2,
           "reps": "12",
           "restSeconds": 60,
@@ -625,7 +625,7 @@
         },
         {
           "step": 7,
-          "name": "Dumbbell Squeeze Press (10–15kg)",
+          "name": "Dumbbell Squeeze Press",
           "set": 3,
           "reps": "12",
           "restSeconds": 90,
@@ -735,7 +735,7 @@
           "reps": "10-12"
         },
         {
-          "name": "Overhead Dumbbell Tricep Extension (10–15kg)",
+          "name": "Overhead Dumbbell Tricep Extension",
           "sets": 3,
           "reps": "10"
         },
@@ -858,7 +858,7 @@
         },
         {
           "step": 12,
-          "name": "Overhead Dumbbell Tricep Extension (10–15kg)",
+          "name": "Overhead Dumbbell Tricep Extension",
           "set": 1,
           "reps": "10",
           "restSeconds": 60,
@@ -868,7 +868,7 @@
         },
         {
           "step": 13,
-          "name": "Overhead Dumbbell Tricep Extension (10–15kg)",
+          "name": "Overhead Dumbbell Tricep Extension",
           "set": 2,
           "reps": "10",
           "restSeconds": 60,
@@ -878,7 +878,7 @@
         },
         {
           "step": 14,
-          "name": "Overhead Dumbbell Tricep Extension (10–15kg)",
+          "name": "Overhead Dumbbell Tricep Extension",
           "set": 3,
           "reps": "10",
           "restSeconds": 90,
