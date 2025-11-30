@@ -208,7 +208,7 @@
           "reps": "10"
         },
         {
-          "name": "Close-Grip Push-ups or Dips",
+          "name": "Close-Grip Push-ups",
           "sets": 3,
           "reps": "max"
         }
@@ -335,7 +335,7 @@
         },
         {
           "step": 13,
-          "name": "Close-Grip Push-ups or Dips",
+          "name": "Close-Grip Push-ups",
           "set": 1,
           "reps": "max",
           "restSeconds": 90,
@@ -343,7 +343,7 @@
         },
         {
           "step": 14,
-          "name": "Close-Grip Push-ups or Dips",
+          "name": "Close-Grip Push-ups",
           "set": 2,
           "reps": "max",
           "restSeconds": 90,
@@ -351,7 +351,7 @@
         },
         {
           "step": 15,
-          "name": "Close-Grip Push-ups or Dips",
+          "name": "Close-Grip Push-ups",
           "set": 3,
           "reps": "max",
           "restSeconds": 120,
