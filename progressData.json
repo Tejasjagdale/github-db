@@ -131,7 +131,50 @@
       "fatFreeMass": 53.59
     }
   },
-  "workoutLog": [],
+ "dailyHealth": {
+  "2025-01-12": {
+    "condition": "healthy",
+    "dietQuality": "adequate",
+    "mood": "happy",
+    "studied": true
+  },
+  "2025-01-13": {
+    "condition": "coldOrFever",
+    "dietQuality": "insufficient",
+    "mood": "sad",
+    "studied": false
+  },
+  "2025-01-14": {
+    "condition": "bodyPain",
+    "dietQuality": "adequate",
+    "mood": "neutral",
+    "studied": true
+  },
+  "2025-01-15": {
+    "condition": "healthy",
+    "dietQuality": "excess",
+    "mood": "happy",
+    "studied": true
+  },
+  "2025-01-16": {
+    "condition": "stomachIssue",
+    "dietQuality": "insufficient",
+    "mood": "sad",
+    "studied": false
+  },
+  "2025-01-17": {
+    "condition": "healthy",
+    "dietQuality": "adequate",
+    "mood": "neutral",
+    "studied": true
+  },
+  "2025-01-18": {
+    "condition": "healthy",
+    "dietQuality": "adequate",
+    "mood": "happy",
+    "studied": false
+  }
+},
   "workouts": [
     {
       "date": "2025-11-30",
