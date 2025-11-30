@@ -4,8 +4,8 @@
     "age": 23,
     "gender": "male",
     "heightCm": 177,
-    "goalWeight":70,
-    "targetBMI": 22.3
+    "goalWeight": 68,
+    "targetBMI": 21.7
   },
   "dailyWeight": {
     "2024-07-03": 59,
