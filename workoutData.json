@@ -200,7 +200,7 @@
         {
           "name": "Dumbbell Fly",
           "sets": 3,
-          "reps": "10-12"
+          "reps": "10"
         },
         {
           "name": "Dumbbell Pullover (10–15kg)",
@@ -275,27 +275,29 @@
           "step": 7,
           "name": "Dumbbell Fly",
           "set": 1,
-          "reps": "10-12",
+          "reps": "10",
           "restSeconds": 60,
           "equipment": [
-            "10Kg dumble"
+            "10Kg dumble",
+            "yoga mat"
           ]
         },
         {
           "step": 8,
           "name": "Dumbbell Fly",
           "set": 2,
-          "reps": "10-12",
+          "reps": "10",
           "restSeconds": 60,
           "equipment": [
-            "10Kg dumble"
+            "10Kg dumble",
+            "yoga mat"
           ]
         },
         {
           "step": 9,
           "name": "Dumbbell Fly",
           "set": 3,
-          "reps": "10-12",
+          "reps": "10",
           "restSeconds": 90,
           "equipment": [
             "10Kg dumble"
