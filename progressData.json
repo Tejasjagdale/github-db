@@ -131,5 +131,14 @@
       "fatFreeMass": 53.59
     }
   },
-  "workoutLog": []
+  "workoutLog": [],
+  "workouts": [
+    {
+      "date": "2025-11-30",
+      "timestamp": "2025-11-30T13:34:31.303Z",
+      "variantId": "74594616-43ca-4dc1-ba9f-eeee8b1c9b90",
+      "variantName": "Arms Variant 1",
+      "completed": true
+    }
+  ]
 }
