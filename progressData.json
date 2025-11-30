@@ -105,7 +105,17 @@
       "bodyFat": 15.4
     },
     "2024-12-06": {
-      "bodyFat": 11.4
+      "unflexedArms": 0,
+      "flexedArms": 0,
+      "forearms": 0,
+      "thighs": 0,
+      "calf": 0,
+      "chest": 0,
+      "stomach": 0,
+      "waist": 0,
+      "neck": 0,
+      "bodyFat": 13.4,
+      "fatFreeMass": 0
     },
     "2025-11-30": {
       "unflexedArms": 11.2,
