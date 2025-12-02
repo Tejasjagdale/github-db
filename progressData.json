@@ -165,6 +165,12 @@
       "dietQuality": "adequate",
       "mood": "sad",
       "studied": false
+    },
+    "2025-12-02": {
+      "condition": "stomachIssue",
+      "dietQuality": "adequate",
+      "mood": "sad",
+      "studied": false
     }
   }
 }
