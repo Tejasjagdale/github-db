@@ -175,8 +175,8 @@
       "studied": false
     },
     "2025-12-04": {
-      "condition": "healthy",
-      "dietQuality": "excess",
+      "condition": "stomachIssue",
+      "dietQuality": "insufficient",
       "mood": "neutral",
       "studied": false
     },
