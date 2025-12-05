@@ -186,6 +186,12 @@
       "dietQuality": "excess",
       "mood": "neutral",
       "studied": false
+    },
+    "2025-12-05": {
+      "condition": "bodyPain",
+      "dietQuality": "adequate",
+      "mood": "neutral",
+      "studied": false
     }
   }
 }
