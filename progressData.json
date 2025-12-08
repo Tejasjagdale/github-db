@@ -158,6 +158,12 @@
       "variantId": "740d73c3-5b5d-489e-9282-7f98de5c6d0a",
       "variantName": "Chest Variant 1",
       "completed": false
+    },
+    {
+      "date": "2025-12-08",
+      "variantId": "22fc7c99-0400-437e-b688-b25adfb482bd",
+      "variantName": "Pull day",
+      "completed": true
     }
   ],
   "dailyHealth": {
