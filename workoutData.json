@@ -1061,6 +1061,132 @@
         }
       ],
       "id": "a0021e8d-8353-451d-ba7a-59e637739eb4"
+    },
+    {
+      "id": "22fc7c99-0400-437e-b688-b25adfb482bd",
+      "variantName": "Pull day",
+      "exercisesList": [
+        {
+          "name": "pull ups",
+          "sets": 3,
+          "reps": "5"
+        },
+        {
+          "name": "dead hang",
+          "sets": 1,
+          "reps": "Max"
+        },
+        {
+          "name": "chin up",
+          "sets": 3,
+          "reps": "5"
+        },
+        {
+          "name": "hanging leg twist",
+          "sets": 3,
+          "reps": "8"
+        }
+      ],
+      "exerciseOrder": [
+        {
+          "step": 1,
+          "name": "pull ups",
+          "set": 1,
+          "reps": "5",
+          "restSeconds": 45,
+          "equipment": [
+            "pull up bar"
+          ]
+        },
+        {
+          "step": 2,
+          "name": "pull ups",
+          "set": 2,
+          "reps": "5",
+          "restSeconds": 45,
+          "equipment": [
+            "pull up bar"
+          ]
+        },
+        {
+          "step": 3,
+          "name": "pull ups",
+          "set": 3,
+          "reps": "5",
+          "restSeconds": 45,
+          "equipment": [
+            "pull up bar"
+          ]
+        },
+        {
+          "step": 4,
+          "name": "dead hang",
+          "set": 1,
+          "reps": "Max",
+          "restSeconds": 45,
+          "equipment": [
+            "pull up bar"
+          ]
+        },
+        {
+          "step": 5,
+          "name": "chin up",
+          "set": 1,
+          "reps": "5",
+          "restSeconds": 45,
+          "equipment": []
+        },
+        {
+          "step": 6,
+          "name": "chin up",
+          "set": 2,
+          "reps": "5",
+          "restSeconds": 45,
+          "equipment": [
+            "pull up bar"
+          ]
+        },
+        {
+          "step": 7,
+          "name": "chin up",
+          "set": 3,
+          "reps": "5",
+          "restSeconds": 45,
+          "equipment": [
+            "pull up bar"
+          ]
+        },
+        {
+          "step": 8,
+          "name": "hanging leg twist",
+          "set": 1,
+          "reps": "8",
+          "restSeconds": 30,
+          "equipment": [
+            "pull up bar"
+          ]
+        },
+        {
+          "step": 9,
+          "name": "hanging leg twist",
+          "set": 2,
+          "reps": "5",
+          "restSeconds": 45,
+          "equipment": [
+            "pull up bar"
+          ]
+        },
+        {
+          "step": 10,
+          "name": "hanging leg twist",
+          "set": 3,
+          "reps": "5",
+          "restSeconds": 45,
+          "equipment": [
+            "pull up bar"
+          ]
+        }
+      ]
     }
   ]
 }
