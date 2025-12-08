@@ -1,8 +1,8 @@
 {
   "equipments": [
-    "10Kg dumble",
-    "15Kg dumble",
-    "pull up bar",
+    "10Kg dumbbell",
+    "15Kg dumbbell",
+    "pull-up bar",
     "chair",
     "yoga mat"
   ],
@@ -911,7 +911,7 @@
           "set": 1,
           "reps": "30-45 sec",
           "restSeconds": 45,
-          "equipment": ["pull up bar"]
+          "equipment": ["pull-up bar"]
         },
         {
           "step": 2,
@@ -919,7 +919,7 @@
           "set": 2,
           "reps": "30-45 sec",
           "restSeconds": 60,
-          "equipment": ["pull up bar"]
+          "equipment": ["pull-up bar"]
         },
 
         {
@@ -928,7 +928,7 @@
           "set": 1,
           "reps": "3-5 (5-6 sec descent)",
           "restSeconds": 90,
-          "equipment": ["pull up bar"]
+          "equipment": ["pull-up bar"]
         },
         {
           "step": 4,
@@ -936,7 +936,7 @@
           "set": 2,
           "reps": "3-5 (5-6 sec descent)",
           "restSeconds": 90,
-          "equipment": ["pull up bar"]
+          "equipment": ["pull-up bar"]
         },
         {
           "step": 5,
@@ -944,7 +944,7 @@
           "set": 3,
           "reps": "3-5 (5-6 sec descent)",
           "restSeconds": 90,
-          "equipment": ["pull up bar"]
+          "equipment": ["pull-up bar"]
         },
         {
           "step": 6,
@@ -952,7 +952,7 @@
           "set": 4,
           "reps": "3-5 (5-6 sec descent)",
           "restSeconds": 120,
-          "equipment": ["pull up bar"]
+          "equipment": ["pull-up bar"]
         },
 
         {
@@ -961,7 +961,7 @@
           "set": 1,
           "reps": "3-6",
           "restSeconds": 90,
-          "equipment": ["pull up bar"]
+          "equipment": ["pull-up bar"]
         },
         {
           "step": 8,
@@ -969,7 +969,7 @@
           "set": 2,
           "reps": "3-6",
           "restSeconds": 90,
-          "equipment": ["pull up bar"]
+          "equipment": ["pull-up bar"]
         },
         {
           "step": 9,
@@ -977,7 +977,7 @@
           "set": 3,
           "reps": "3-6",
           "restSeconds": 120,
-          "equipment": ["pull up bar"]
+          "equipment": ["pull-up bar"]
         },
 
         {
@@ -986,7 +986,7 @@
           "set": 1,
           "reps": "8-12",
           "restSeconds": 60,
-          "equipment": ["pull up bar"]
+          "equipment": ["pull-up bar"]
         },
         {
           "step": 11,
@@ -994,7 +994,7 @@
           "set": 2,
           "reps": "8-12",
           "restSeconds": 60,
-          "equipment": ["pull up bar"]
+          "equipment": ["pull-up bar"]
         },
         {
           "step": 12,
@@ -1002,7 +1002,7 @@
           "set": 3,
           "reps": "8-12",
           "restSeconds": 90,
-          "equipment": ["pull up bar"]
+          "equipment": ["pull-up bar"]
         },
 
         {
@@ -1011,7 +1011,7 @@
           "set": 1,
           "reps": "8-12",
           "restSeconds": 60,
-          "equipment": ["pull up bar"]
+          "equipment": ["pull-up bar"]
         },
         {
           "step": 14,
@@ -1019,7 +1019,7 @@
           "set": 2,
           "reps": "8-12",
           "restSeconds": 60,
-          "equipment": ["pull up bar"]
+          "equipment": ["pull-up bar"]
         },
         {
           "step": 15,
@@ -1027,7 +1027,7 @@
           "set": 3,
           "reps": "8-12",
           "restSeconds": 120,
-          "equipment": ["pull up bar"]
+          "equipment": ["pull-up bar"]
         }
       ]
     }
