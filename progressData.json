@@ -164,6 +164,12 @@
       "variantId": "22fc7c99-0400-437e-b688-b25adfb482bd",
       "variantName": "Pull day",
       "completed": true
+    },
+    {
+      "date": "2025-12-09",
+      "variantId": "1d448ff4-8574-4c45-8259-373d37124b25",
+      "variantName": "Morning Pull Bar - Strength + Abs",
+      "completed": false
     }
   ],
   "dailyHealth": {
