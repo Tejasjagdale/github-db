@@ -171,6 +171,12 @@
       "variantId": "1d448ff4-8574-4c45-8259-373d37124b25",
       "variantName": "Morning Pull Bar - Strength + Abs",
       "completed": false
+    },
+    {
+      "date": "2025-12-09",
+      "variantId": "0a2a680e-2dce-47e6-95cb-015248593d91",
+      "variantName": "Arms A - Heavy Tension",
+      "completed": true
     }
   ],
   "dailyHealth": {
