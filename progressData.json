@@ -210,55 +210,55 @@
     },
     "2025-12-01": {
       "condition": "stomachIssue",
-      "dietQuality": "adequate",
+      "dietQuality": "normal",
       "mood": "sad",
       "studied": false
     },
     "2025-12-02": {
       "condition": "stomachIssue",
-      "dietQuality": "adequate",
+      "dietQuality": "normal",
       "mood": "sad",
       "studied": false
     },
     "2025-12-04": {
       "condition": "stomachIssue",
-      "dietQuality": "insufficient",
+      "dietQuality": "veryLow",
       "mood": "neutral",
       "studied": false
     },
     "2025-12-03": {
       "condition": "healthy",
-      "dietQuality": "excess",
+      "dietQuality": "veryHigh",
       "mood": "neutral",
       "studied": false
     },
     "2025-12-05": {
       "condition": "bodyPain",
-      "dietQuality": "adequate",
+      "dietQuality": "normal",
       "mood": "neutral",
       "studied": false
     },
     "2025-12-06": {
       "condition": "healthy",
-      "dietQuality": "adequate",
+      "dietQuality": "normal",
       "mood": "neutral",
       "studied": false
     },
     "2025-12-07": {
       "condition": "healthy",
-      "dietQuality": "adequate",
+      "dietQuality": "normal",
       "mood": "neutral",
       "studied": false
     },
     "2025-12-08": {
       "condition": "healthy",
-      "dietQuality": "adequate",
+      "dietQuality": "normal",
       "mood": "neutral",
       "studied": false
     },
     "2025-12-09": {
       "condition": "healthy",
-      "dietQuality": "adequate",
+      "dietQuality": "normal",
       "mood": "sad",
       "studied": false
     },
