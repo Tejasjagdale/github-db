@@ -264,19 +264,19 @@
     },
     "2025-12-10": {
       "condition": "healthy",
-      "dietQuality": "insufficient",
+      "dietQuality": "low",
       "mood": "neutral",
       "studied": false
     },
     "2025-12-11": {
       "condition": "healthy",
-      "dietQuality": "insufficient",
+      "dietQuality": "low",
       "mood": "neutral",
       "studied": false
     },
     "2025-12-12": {
       "condition": "healthy",
-      "dietQuality": "low",
+      "dietQuality": "veryLow",
       "mood": "verySad",
       "studied": false
     }
