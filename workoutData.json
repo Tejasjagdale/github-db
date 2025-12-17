@@ -408,7 +408,7 @@
           "reps": "10"
         },
         {
-          "name": "Skull Crushers on Floor",
+          "name": "Inclined dumbbell curls",
           "sets": 3,
           "reps": "10-12"
         },
@@ -486,18 +486,18 @@
         },
         {
           "step": 7,
-          "name": "Skull Crushers on Floor",
+          "name": "Inclined dumbbell curls",
           "set": 1,
           "reps": "10-12",
           "restSeconds": 75,
           "equipment": [
             "10Kg dumbbell",
-            "yoga mat"
+            "chair"
           ]
         },
         {
           "step": 8,
-          "name": "Skull Crushers on Floor",
+          "name": "Inclined dumbbell curls",
           "set": 2,
           "reps": "10-12",
           "restSeconds": 75,
@@ -508,7 +508,7 @@
         },
         {
           "step": 9,
-          "name": "Skull Crushers on Floor",
+          "name": "Inclined dumbbell curls",
           "set": 3,
           "reps": "10-12",
           "restSeconds": 100,
