@@ -589,7 +589,7 @@
           "reps": "10-15"
         },
         {
-          "name": "Single-Arm Incline Floor Press",
+          "name": "Incline dumbbell Press",
           "sets": 3,
           "reps": "6-8 each"
         },
@@ -652,18 +652,17 @@
         },
         {
           "step": 5,
-          "name": "Single-Arm Incline Floor Press",
+          "name": "Incline dumbbell Press",
           "set": 1,
           "reps": "6-8 each",
           "restSeconds": 90,
           "equipment": [
-            "yoga mat",
-            "10Kg dumbbell"
+            "15Kg dumbbell"
           ]
         },
         {
           "step": 6,
-          "name": "Single-Arm Incline Floor Press",
+          "name": "Incline dumbbell Press",
           "set": 2,
           "reps": "6-8 each",
           "restSeconds": 90,
@@ -674,7 +673,7 @@
         },
         {
           "step": 7,
-          "name": "Single-Arm Incline Floor Press",
+          "name": "Incline dumbbell Press",
           "set": 3,
           "reps": "6-8 each",
           "restSeconds": 120,
