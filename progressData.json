@@ -329,6 +329,12 @@
       "dietQuality": "normal",
       "mood": "sad",
       "studied": false
+    },
+    "2025-12-18": {
+      "condition": "coldOrFever",
+      "dietQuality": "normal",
+      "mood": "sad",
+      "studied": false
     }
   }
 }
