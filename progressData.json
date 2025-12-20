@@ -167,6 +167,19 @@
       "thighs": 21.6,
       "neck": 13.2,
       "fatFreeMass": 54.82
+    },
+    "2025-12-20": {
+      "unflexedArms": 11.2,
+      "bodyFat": 15.6,
+      "flexedArms": 12.55,
+      "forearms": 10.1,
+      "thighs": 22,
+      "calf": 13.2,
+      "chest": 34.5,
+      "stomach": 31.2,
+      "waist": 31,
+      "neck": 13,
+      "fatFreeMass": 53.85
     }
   },
   "workouts": [
