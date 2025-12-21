@@ -1338,6 +1338,132 @@
         }
       ],
       "id": "1d448ff4-8574-4c45-8259-373d37124b25"
+    },
+    {
+  "variantName": "Morning Abs - Elite 6 Pack Builder",
+  "goal": "Thick, deep, visible abs (hypertrophy + definition)",
+  "durationMinutes": "20-25",
+  "exercisesList": [
+    {
+      "name": "Hanging Leg Raise Progression",
+      "sets": 3,
+      "reps": "8-15"
+    },
+    {
+      "name": "Weighted Crunch (Dumbbell)",
+      "sets": 3,
+      "reps": "10-15"
+    },
+    {
+      "name": "Slow Lying Leg Raises (Posterior Pelvic Tilt)",
+      "sets": 3,
+      "reps": "8-12"
+    },
+    {
+      "name": "Long-Lever Plank (Posterior Pelvic Tilt)",
+      "sets": 3,
+      "reps": "40-60 sec"
     }
+  ],
+  "exerciseOrder": [
+    {
+      "step": 1,
+      "name": "Hanging Leg Raise Progression",
+      "set": 1,
+      "reps": "8-15",
+      "restSeconds": 60,
+      "equipment": ["pull-up bar"]
+    },
+    {
+      "step": 2,
+      "name": "Hanging Leg Raise Progression",
+      "set": 2,
+      "reps": "8-15",
+      "restSeconds": 60,
+      "equipment": ["pull-up bar"]
+    },
+    {
+      "step": 3,
+      "name": "Hanging Leg Raise Progression",
+      "set": 3,
+      "reps": "8-15",
+      "restSeconds": 90,
+      "equipment": ["pull-up bar"]
+    },
+    {
+      "step": 4,
+      "name": "Weighted Crunch (Dumbbell)",
+      "set": 1,
+      "reps": "10-15",
+      "restSeconds": 60,
+      "equipment": ["10Kg dumbbell", "yoga mat"]
+    },
+    {
+      "step": 5,
+      "name": "Weighted Crunch (Dumbbell)",
+      "set": 2,
+      "reps": "10-15",
+      "restSeconds": 60,
+      "equipment": ["10Kg dumbbell", "yoga mat"]
+    },
+    {
+      "step": 6,
+      "name": "Weighted Crunch (Dumbbell)",
+      "set": 3,
+      "reps": "10-15",
+      "restSeconds": 90,
+      "equipment": ["10Kg dumbbell", "yoga mat"]
+    },
+    {
+      "step": 7,
+      "name": "Slow Lying Leg Raises (Posterior Pelvic Tilt)",
+      "set": 1,
+      "reps": "8-12 (3 sec down)",
+      "restSeconds": 60,
+      "equipment": ["yoga mat"]
+    },
+    {
+      "step": 8,
+      "name": "Slow Lying Leg Raises (Posterior Pelvic Tilt)",
+      "set": 2,
+      "reps": "8-12 (3 sec down)",
+      "restSeconds": 60,
+      "equipment": ["yoga mat"]
+    },
+    {
+      "step": 9,
+      "name": "Slow Lying Leg Raises (Posterior Pelvic Tilt)",
+      "set": 3,
+      "reps": "8-12 (3 sec down)",
+      "restSeconds": 90,
+      "equipment": ["yoga mat"]
+    },
+    {
+      "step": 10,
+      "name": "Long-Lever Plank (Posterior Pelvic Tilt)",
+      "set": 1,
+      "reps": "40-60 sec",
+      "restSeconds": 45,
+      "equipment": ["yoga mat"]
+    },
+    {
+      "step": 11,
+      "name": "Long-Lever Plank (Posterior Pelvic Tilt)",
+      "set": 2,
+      "reps": "40-60 sec",
+      "restSeconds": 45,
+      "equipment": ["yoga mat"]
+    },
+    {
+      "step": 12,
+      "name": "Long-Lever Plank (Posterior Pelvic Tilt)",
+      "set": 3,
+      "reps": "40-60 sec",
+      "restSeconds": 90,
+      "equipment": ["yoga mat"]
+    }
+  ],
+}
+
   ]
 }
