@@ -377,6 +377,12 @@
       "dietQuality": "normal",
       "mood": "sad",
       "studied": false
+    },
+    "2025-12-23": {
+      "condition": "healthy",
+      "dietQuality": "normal",
+      "mood": "neutral",
+      "studied": false
     }
   }
 }
