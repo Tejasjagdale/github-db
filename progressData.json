@@ -404,6 +404,12 @@
       "dietQuality": "low",
       "mood": "neutral",
       "studied": false
+    },
+    "2025-12-26": {
+      "condition": "healthy",
+      "dietQuality": "normal",
+      "mood": "verySad",
+      "studied": false
     }
   }
 }
