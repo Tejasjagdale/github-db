@@ -25,10 +25,9 @@
     {
       "id": "t-001",
       "title": "Finish system design prep",
-      "groupId": "completed",
+      "groupId": "important",
       "priority": "HIGH",
-      "dueDate": "2025-01-05T23:59:00Z",
-      "originalGroupId": "important"
+      "dueDate": "2025-01-05T23:59:00Z"
     },
     {
       "id": "t-002",
