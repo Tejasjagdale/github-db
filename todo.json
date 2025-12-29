@@ -1,0 +1,41 @@
+{
+  "meta": {
+    "version": 1,
+    "lastUpdated": "2025-01-01T00:00:00Z"
+  },
+
+  "groups": [
+    {
+      "id": "daily",
+      "name": "Daily Activity",
+      "type": "USER"
+    },
+    {
+      "id": "important",
+      "name": "Important",
+      "type": "USER"
+    },
+    {
+      "id": "completed",
+      "name": "Completed Tasks",
+      "type": "SYSTEM",
+      "locked": true
+    }
+  ],
+
+  "tasks": [
+    {
+      "id": "t-001",
+      "title": "Finish system design prep",
+      "groupId": "important",
+      "priority": "HIGH",
+      "dueDate": "2025-01-05T23:59:00Z"
+    },
+    {
+      "id": "t-002",
+      "title": "Workout",
+      "groupId": "daily",
+      "priority": "MEDIUM"
+    }
+  ]
+}
