@@ -33,8 +33,9 @@
     {
       "id": "t-002",
       "title": "Workout",
-      "groupId": "daily",
-      "priority": "MEDIUM"
+      "groupId": "completed",
+      "priority": "MEDIUM",
+      "originalGroupId": "daily"
     }
   ]
 }
