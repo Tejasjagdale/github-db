@@ -34,6 +34,12 @@
       "title": "Workout",
       "groupId": "daily",
       "priority": "MEDIUM"
+    },
+    {
+      "id": "9693be71-8519-4ddb-949e-b8cabb6c05c7",
+      "title": "Something",
+      "groupId": "daily",
+      "priority": "MEDIUM"
     }
   ]
 }
