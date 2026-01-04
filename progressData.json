@@ -281,6 +281,12 @@
       "variantId": "6ea4cfa6-695a-4bd5-b7c5-0c687d21d975",
       "variantName": "Morning Abs",
       "completed": true
+    },
+    {
+      "date": "2026-01-04",
+      "variantId": "c666982e-8750-4af2-b910-3abc56525b68",
+      "variantName": "Chest B - Upper Chest Strength",
+      "completed": true
     }
   ],
   "dailyHealth": {
