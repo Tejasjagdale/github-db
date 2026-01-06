@@ -522,7 +522,7 @@
     },
     "2026-01-06": {
       "condition": "healthy",
-      "dietQuality": "high",
+      "dietQuality": "normal",
       "mood": "sad",
       "studied": false
     },
