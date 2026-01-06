@@ -507,6 +507,12 @@
       "dietQuality": "veryLow",
       "mood": "verySad",
       "studied": false
+    },
+    "2026-01-04": {
+      "condition": "healthy",
+      "dietQuality": "veryLow",
+      "mood": "verySad",
+      "studied": false
     }
   }
 }
