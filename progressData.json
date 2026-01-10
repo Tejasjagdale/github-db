@@ -325,6 +325,12 @@
       "variantId": "4fa54c53-c316-4426-88ed-1f36b20aee1a",
       "variantName": "Chest C - Lower Chest & Shape",
       "completed": true
+    },
+    {
+      "date": "2026-01-10",
+      "variantId": "0a2a680e-2dce-47e6-95cb-015248593d91",
+      "variantName": "Arms A - Heavy Tension",
+      "completed": true
     }
   ],
   "dailyHealth": {
