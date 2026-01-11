@@ -596,7 +596,7 @@
     "2026-01-11": {
       "condition": "bodyPain",
       "dietQuality": "veryLow",
-      "mood": "verySad",
+      "mood": "sad",
       "studied": false
     }
   }
