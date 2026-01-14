@@ -611,7 +611,7 @@
     "2026-01-14": {
       "condition": "healthy",
       "dietQuality": "normal",
-      "mood": "sad",
+      "mood": "neutral",
       "studied": false
     }
   }
