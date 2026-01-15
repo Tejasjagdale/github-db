@@ -336,6 +336,13 @@
       "variantId": "0a2a680e-2dce-47e6-95cb-015248593d91",
       "variantName": "Arms A - Heavy Tension",
       "completed": true
+    },
+    {
+      "date": "2026-01-15",
+      "timestamp": "2026-01-15T16:33:53.783Z",
+      "variantId": "8599b31a-cca6-4fda-9d99-fb3c0c10ed64",
+      "variantName": "Chest A - Mid Chest Strength",
+      "completed": true
     }
   ],
   "dailyHealth": {
