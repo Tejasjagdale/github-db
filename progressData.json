@@ -343,6 +343,12 @@
       "variantId": "8599b31a-cca6-4fda-9d99-fb3c0c10ed64",
       "variantName": "Chest A - Mid Chest Strength",
       "completed": true
+    },
+    {
+      "date": "2026-01-16",
+      "variantId": "1d448ff4-8574-4c45-8259-373d37124b25",
+      "variantName": "Morning Pull Bar",
+      "completed": true
     }
   ],
   "dailyHealth": {
