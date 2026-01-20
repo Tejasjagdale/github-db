@@ -656,6 +656,12 @@
       "dietQuality": "low",
       "mood": "verySad",
       "studied": false
+    },
+    "2026-01-18": {
+      "condition": "bodyPain",
+      "dietQuality": "low",
+      "mood": "neutral",
+      "studied": false
     }
   }
 }
