@@ -78,7 +78,8 @@
     "2026-01-18": 63.5,
     "2026-01-19": 64,
     "2026-01-20": 63.7,
-    "2026-01-21": 63.8
+    "2026-01-21": 63.8,
+    "2026-01-22": 63.9
   },
   "measurements": {
     "2024-07-03": {
@@ -686,6 +687,12 @@
     "2026-01-21": {
       "condition": "healthy",
       "dietQuality": "low",
+      "mood": "neutral",
+      "studied": false
+    },
+    "2026-01-22": {
+      "condition": "healthy",
+      "dietQuality": "normal",
       "mood": "neutral",
       "studied": false
     }
