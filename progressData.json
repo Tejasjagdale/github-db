@@ -376,6 +376,12 @@
       "variantId": "2f4b8722-9ea0-406d-8e4b-e5012ff8de67",
       "variantName": "Arms B - Volume & Shape",
       "completed": true
+    },
+    {
+      "date": "2026-01-23",
+      "variantId": "c666982e-8750-4af2-b910-3abc56525b68",
+      "variantName": "Chest B - Upper Chest Strength",
+      "completed": true
     }
   ],
   "dailyHealth": {
