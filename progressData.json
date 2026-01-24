@@ -389,22 +389,6 @@
       "variantId": "1d448ff4-8574-4c45-8259-373d37124b25",
       "variantName": "Morning Pull Bar",
       "completed": true
-    },
-    {
-      "date": "2026-01-24",
-      "startTime": "2026-01-24T20:36:09.290Z",
-      "endTime": "2026-01-24T20:36:24.322Z",
-      "variantId": "2a7d6c90-5f31-4b3f-9c62-1e8a4d0b73af",
-      "variantName": "Morning Pull-up Skill & Progression",
-      "completed": false
-    },
-    {
-      "date": "2026-01-25",
-      "startTime": "2026-01-24T20:40:56.558Z",
-      "endTime": "2026-01-24T20:41:02.707Z",
-      "variantId": "2a7d6c90-5f31-4b3f-9c62-1e8a4d0b73af",
-      "variantName": "Morning Pull-up Skill & Progression",
-      "completed": false
     }
   ],
   "dailyHealth": {
