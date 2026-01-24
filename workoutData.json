@@ -34,7 +34,7 @@
         {
           "name": "Farmer Hold",
           "sets": 3,
-          "reps": "40-60 sec"
+          "reps": "40 sec"
         }
       ],
       "exerciseOrder": [
@@ -154,7 +154,7 @@
           "step": 15,
           "name": "Farmer Hold",
           "set": 1,
-          "reps": "40-60 sec",
+          "reps": "40 sec",
           "restSeconds": 90,
           "equipment": ["15Kg dumbbell"]
         },
@@ -162,7 +162,7 @@
           "step": 16,
           "name": "Farmer Hold",
           "set": 2,
-          "reps": "40-60 sec",
+          "reps": "40 sec",
           "restSeconds": 90,
           "equipment": ["15Kg dumbbell"]
         },
@@ -170,7 +170,7 @@
           "step": 17,
           "name": "Farmer Hold",
           "set": 3,
-          "reps": "40-60 sec",
+          "reps": "40 sec",
           "restSeconds": 120,
           "equipment": ["15Kg dumbbell"]
         }
@@ -468,7 +468,7 @@
           "step": 14,
           "name": "Plank Shoulder Taps",
           "set": 1,
-          "reps": "45-60 sec",
+          "reps": "45 sec",
           "restSeconds": 60,
           "equipment": ["yoga mat"]
         },
@@ -476,7 +476,7 @@
           "step": 15,
           "name": "Plank Shoulder Taps",
           "set": 2,
-          "reps": "45-60 sec",
+          "reps": "45 sec",
           "restSeconds": 60,
           "equipment": ["yoga mat"]
         },
@@ -484,7 +484,7 @@
           "step": 16,
           "name": "Plank Shoulder Taps",
           "set": 3,
-          "reps": "45-60 sec",
+          "reps": "45 sec",
           "restSeconds": 120,
           "equipment": ["yoga mat"]
         }
@@ -716,7 +716,7 @@
           "step": 8,
           "name": "Isometric Push-up Hold (Bottom)",
           "set": 1,
-          "reps": "30-40 sec",
+          "reps": "30 sec",
           "restSeconds": 60,
           "equipment": []
         },
@@ -724,7 +724,7 @@
           "step": 9,
           "name": "Isometric Push-up Hold (Bottom)",
           "set": 2,
-          "reps": "30-40 sec",
+          "reps": "30 sec",
           "restSeconds": 60,
           "equipment": []
         },
@@ -732,7 +732,7 @@
           "step": 10,
           "name": "Isometric Push-up Hold (Bottom)",
           "set": 3,
-          "reps": "30-40 sec",
+          "reps": "30 sec",
           "restSeconds": 90,
           "equipment": []
         },
@@ -784,7 +784,7 @@
         {
           "name": "Dumbbell Pullover Iso Hold",
           "sets": 3,
-          "reps": "30-40 sec"
+          "reps": "30 sec"
         }
       ],
       "exerciseOrder": [
@@ -872,7 +872,7 @@
           "step": 11,
           "name": "Dumbbell Pullover Iso Hold",
           "set": 1,
-          "reps": "30-40 sec",
+          "reps": "30 sec",
           "restSeconds": 60,
           "equipment": ["15Kg dumbbell", "yoga mat"]
         },
@@ -880,7 +880,7 @@
           "step": 12,
           "name": "Dumbbell Pullover Iso Hold",
           "set": 2,
-          "reps": "30-40 sec",
+          "reps": "30 sec",
           "restSeconds": 60,
           "equipment": ["15Kg dumbbell", "yoga mat"]
         },
@@ -888,7 +888,7 @@
           "step": 13,
           "name": "Dumbbell Pullover Iso Hold",
           "set": 3,
-          "reps": "30-40 sec",
+          "reps": "30 sec",
           "restSeconds": 120,
           "equipment": ["15Kg dumbbell", "yoga mat"]
         }
@@ -901,7 +901,7 @@
         {
           "name": "Dead Hang",
           "sets": 2,
-          "reps": "30-45 sec"
+          "reps": "30 sec"
         },
         {
           "name": "Scapular Pull-ups",
@@ -924,7 +924,7 @@
           "step": 1,
           "name": "Dead Hang",
           "set": 1,
-          "reps": "30-45 sec",
+          "reps": "30 sec",
           "restSeconds": 45,
           "equipment": ["pull-up bar"]
         },
@@ -932,7 +932,7 @@
           "step": 2,
           "name": "Dead Hang",
           "set": 2,
-          "reps": "30-45 sec",
+          "reps": "30 sec",
           "restSeconds": 60,
           "equipment": ["pull-up bar"]
         },
@@ -1177,7 +1177,7 @@
         {
           "name": "Long-Lever Plank",
           "sets": 3,
-          "reps": "40-60 sec"
+          "reps": "40 sec"
         }
       ],
       "exerciseOrder": [
@@ -1281,7 +1281,7 @@
           "step": 13,
           "name": "Long-Lever Plank",
           "set": 1,
-          "reps": "40-60 sec",
+          "reps": "40 sec",
           "restSeconds": 45,
           "equipment": ["yoga mat"]
         },
@@ -1289,7 +1289,7 @@
           "step": 14,
           "name": "Long-Lever Plank",
           "set": 2,
-          "reps": "40-60 sec",
+          "reps": "40 sec",
           "restSeconds": 45,
           "equipment": ["yoga mat"]
         },
@@ -1297,7 +1297,7 @@
           "step": 15,
           "name": "Long-Lever Plank",
           "set": 3,
-          "reps": "40-60 sec",
+          "reps": "40 sec",
           "restSeconds": 90,
           "equipment": ["yoga mat"]
         }
