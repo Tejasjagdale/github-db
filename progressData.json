@@ -389,14 +389,6 @@
       "variantId": "1d448ff4-8574-4c45-8259-373d37124b25",
       "variantName": "Morning Pull Bar",
       "completed": true
-    },
-    {
-      "date": "2026-01-25",
-      "startTime": "2026-01-24T20:50:30.254Z",
-      "endTime": "2026-01-24T20:50:47.454Z",
-      "variantId": "b1f3c0e4-3a92-4a4d-9b1e-8a2c7f5e9d42",
-      "variantName": "Arms B - Volume & Shape (Joint-Smart)",
-      "completed": false
     }
   ],
   "dailyHealth": {
