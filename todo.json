@@ -367,6 +367,22 @@
       "streak": null,
       "lastCompleted": null,
       "status": "pending"
+    },
+    {
+      "id": "104d3de1-fd28-4e19-9f5b-a8223177a0a5",
+      "title": "yes",
+      "priority": 3,
+      "groupIds": [],
+      "type": "repeat",
+      "deadline": null,
+      "repeatEveryDays": 1,
+      "trackStreak": true,
+      "streak": {
+        "current": 0,
+        "longest": 0
+      },
+      "lastCompleted": null,
+      "status": "pending"
     }
   ]
 }
