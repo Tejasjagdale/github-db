@@ -367,6 +367,19 @@
       "streak": null,
       "lastCompleted": null,
       "status": "pending"
+    },
+    {
+      "id": "352484e6-5330-469b-b2b9-de4f0824262c",
+      "title": "yes",
+      "priority": 3,
+      "groupIds": [],
+      "type": "deadline",
+      "deadline": "2002-05-11",
+      "repeatEveryDays": null,
+      "trackStreak": true,
+      "streak": null,
+      "lastCompleted": null,
+      "status": "pending"
     }
   ]
 }
