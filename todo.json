@@ -27,24 +27,6 @@
   ],
   "tasks": [
     {
-      "id": "task_001",
-      "title": "Morning Workout",
-      "priority": 5,
-      "groupIds": [
-        "grp_001"
-      ],
-      "type": "repeat",
-      "deadline": null,
-      "repeatEveryDays": 1,
-      "trackStreak": true,
-      "streak": {
-        "current": 21,
-        "longest": 30
-      },
-      "lastCompleted": "2026-01-24",
-      "status": "pending"
-    },
-    {
       "id": "task_002",
       "title": "Evening Walk",
       "priority": 3,
