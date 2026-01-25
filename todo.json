@@ -1,17 +1,4 @@
 {
-  "users": [
-    {
-      "id": "user_001",
-      "name": "Tejas",
-      "password": "abc123"
-    },
-    {
-      "id": "user_002",
-      "name": "Rahul",
-      "password": "pass456"
-    }
-  ],
-
   "groups": [
     {
       "id": "grp_001",
@@ -20,23 +7,14 @@
     {
       "id": "grp_002",
       "name": "Work"
-    },
-    {
-      "id": "grp_003",
-      "name": "Learning"
-    },
-    {
-      "id": "grp_004",
-      "name": "Finance"
     }
   ],
 
   "tasks": [
     {
       "id": "task_001",
-      "userId": "user_001",
 
-      "title": "Morning Workout",
+      "title": "Workout",
       "priority": 5,
 
       "groupIds": ["grp_001"],
@@ -49,150 +27,12 @@
       "trackStreak": true,
 
       "streak": {
-        "current": 14,
+        "current": 12,
         "longest": 20
       },
 
       "lastCompleted": "2026-01-24",
-      "status": "completed"
-    },
 
-    {
-      "id": "task_002",
-      "userId": "user_001",
-
-      "title": "Read Technical Book",
-      "priority": 3,
-
-      "groupIds": ["grp_003"],
-
-      "type": "repeat",
-      "deadline": null,
-
-      "repeatEveryDays": 3,
-
-      "trackStreak": true,
-
-      "streak": {
-        "current": 5,
-        "longest": 9
-      },
-
-      "lastCompleted": "2026-01-21",
-      "status": "pending"
-    },
-
-    {
-      "id": "task_003",
-      "userId": "user_001",
-
-      "title": "Pay Credit Card Bill",
-      "priority": 5,
-
-      "groupIds": ["grp_004"],
-
-      "type": "deadline",
-      "deadline": "2026-02-05",
-
-      "repeatEveryDays": null,
-
-      "trackStreak": false,
-      "streak": null,
-
-      "lastCompleted": null,
-      "status": "pending"
-    },
-
-    {
-      "id": "task_004",
-      "userId": "user_001",
-
-      "title": "Meditation",
-      "priority": 2,
-
-      "groupIds": ["grp_001"],
-
-      "type": "repeat",
-      "deadline": null,
-
-      "repeatEveryDays": 1,
-
-      "trackStreak": false,
-
-      "streak": null,
-
-      "lastCompleted": "2026-01-24",
-      "status": "completed"
-    },
-
-    {
-      "id": "task_005",
-      "userId": "user_001",
-
-      "title": "Side Project Coding",
-      "priority": 4,
-
-      "groupIds": ["grp_002", "grp_003"],
-
-      "type": "repeat",
-      "deadline": null,
-
-      "repeatEveryDays": 7,
-
-      "trackStreak": true,
-
-      "streak": {
-        "current": 2,
-        "longest": 6
-      },
-
-      "lastCompleted": "2026-01-18",
-      "status": "pending"
-    },
-
-    {
-      "id": "task_006",
-      "userId": "user_002",
-
-      "title": "Gym Session",
-      "priority": 4,
-
-      "groupIds": ["grp_001"],
-
-      "type": "repeat",
-      "deadline": null,
-
-      "repeatEveryDays": 2,
-
-      "trackStreak": true,
-
-      "streak": {
-        "current": 8,
-        "longest": 15
-      },
-
-      "lastCompleted": "2026-01-23",
-      "status": "completed"
-    },
-
-    {
-      "id": "task_007",
-      "userId": "user_002",
-
-      "title": "Prepare Resume",
-      "priority": 5,
-
-      "groupIds": ["grp_002"],
-
-      "type": "deadline",
-      "deadline": "2026-01-30",
-
-      "repeatEveryDays": null,
-
-      "trackStreak": false,
-      "streak": null,
-
-      "lastCompleted": "2026-01-20",
       "status": "completed"
     }
   ]
