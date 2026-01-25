@@ -1,117 +1,164 @@
 {
   "groups": [
-    { "id": "grp_001", "name": "Health" },
-    { "id": "grp_002", "name": "Work" },
-    { "id": "grp_003", "name": "Learning" },
-    { "id": "grp_004", "name": "Finance" },
-    { "id": "grp_005", "name": "Personal" },
-    { "id": "grp_006", "name": "Social" }
+    {
+      "id": "grp_001",
+      "name": "Health"
+    },
+    {
+      "id": "grp_002",
+      "name": "Work"
+    },
+    {
+      "id": "grp_003",
+      "name": "Learning"
+    },
+    {
+      "id": "grp_004",
+      "name": "Finance"
+    },
+    {
+      "id": "grp_005",
+      "name": "Personal"
+    },
+    {
+      "id": "grp_006",
+      "name": "Social"
+    }
   ],
-
   "tasks": [
     {
       "id": "task_001",
       "title": "Morning Workout",
       "priority": 5,
-      "groupIds": ["grp_001"],
+      "groupIds": [
+        "grp_001"
+      ],
       "type": "repeat",
       "deadline": null,
       "repeatEveryDays": 1,
       "trackStreak": true,
-      "streak": { "current": 21, "longest": 30 },
+      "streak": {
+        "current": 21,
+        "longest": 30
+      },
       "lastCompleted": "2026-01-24",
-      "status": "completed"
+      "status": "pending"
     },
-
     {
       "id": "task_002",
       "title": "Evening Walk",
       "priority": 3,
-      "groupIds": ["grp_001"],
+      "groupIds": [
+        "grp_001"
+      ],
       "type": "repeat",
       "deadline": null,
       "repeatEveryDays": 2,
       "trackStreak": true,
-      "streak": { "current": 4, "longest": 12 },
-      "lastCompleted": "2026-01-22",
-      "status": "pending"
+      "streak": {
+        "current": 5,
+        "longest": 12
+      },
+      "lastCompleted": "2026-01-26",
+      "status": "completed"
     },
-
     {
       "id": "task_003",
       "title": "Meditation",
       "priority": 2,
-      "groupIds": ["grp_001", "grp_005"],
+      "groupIds": [
+        "grp_001",
+        "grp_005"
+      ],
       "type": "repeat",
       "deadline": null,
       "repeatEveryDays": 1,
       "trackStreak": false,
       "streak": null,
       "lastCompleted": "2026-01-24",
-      "status": "completed"
+      "status": "pending"
     },
-
     {
       "id": "task_004",
       "title": "Read Technical Book",
       "priority": 4,
-      "groupIds": ["grp_003"],
+      "groupIds": [
+        "grp_003"
+      ],
       "type": "repeat",
       "deadline": null,
       "repeatEveryDays": 5,
       "trackStreak": true,
-      "streak": { "current": 3, "longest": 7 },
+      "streak": {
+        "current": 3,
+        "longest": 7
+      },
       "lastCompleted": "2026-01-19",
       "status": "pending"
     },
-
     {
       "id": "task_005",
       "title": "Side Project Coding",
       "priority": 5,
-      "groupIds": ["grp_002", "grp_003"],
+      "groupIds": [
+        "grp_002",
+        "grp_003"
+      ],
       "type": "repeat",
       "deadline": null,
       "repeatEveryDays": 7,
       "trackStreak": true,
-      "streak": { "current": 1, "longest": 9 },
+      "streak": {
+        "current": 1,
+        "longest": 9
+      },
       "lastCompleted": "2026-01-17",
       "status": "pending"
     },
-
     {
       "id": "task_006",
       "title": "Review Monthly Expenses",
       "priority": 4,
-      "groupIds": ["grp_004"],
+      "groupIds": [
+        "grp_004"
+      ],
       "type": "repeat",
       "deadline": null,
       "repeatEveryDays": 30,
       "trackStreak": true,
-      "streak": { "current": 0, "longest": 4 },
+      "streak": {
+        "current": 0,
+        "longest": 4
+      },
       "lastCompleted": "2025-12-20",
       "status": "pending"
     },
-
     {
       "id": "task_007",
       "title": "Call Parents",
       "priority": 5,
-      "groupIds": ["grp_006", "grp_005"],
+      "groupIds": [
+        "grp_006",
+        "grp_005"
+      ],
       "type": "repeat",
       "deadline": null,
       "repeatEveryDays": 3,
       "trackStreak": true,
-      "streak": { "current": 6, "longest": 6 },
+      "streak": {
+        "current": 6,
+        "longest": 6
+      },
       "lastCompleted": "2026-01-23",
-      "status": "completed"
+      "status": "pending"
     },
-
     {
       "id": "task_008",
       "title": "Pay Credit Card Bill",
       "priority": 5,
-      "groupIds": ["grp_004"],
+      "groupIds": [
+        "grp_004"
+      ],
       "type": "deadline",
       "deadline": "2026-02-05",
       "repeatEveryDays": null,
@@ -120,12 +167,13 @@
       "lastCompleted": null,
       "status": "pending"
     },
-
     {
       "id": "task_009",
       "title": "Submit Tax Documents",
       "priority": 5,
-      "groupIds": ["grp_004"],
+      "groupIds": [
+        "grp_004"
+      ],
       "type": "deadline",
       "deadline": "2025-12-31",
       "repeatEveryDays": null,
@@ -134,12 +182,13 @@
       "lastCompleted": null,
       "status": "pending"
     },
-
     {
       "id": "task_010",
       "title": "Update Resume",
       "priority": 4,
-      "groupIds": ["grp_002"],
+      "groupIds": [
+        "grp_002"
+      ],
       "type": "deadline",
       "deadline": "2026-01-20",
       "repeatEveryDays": null,
@@ -148,68 +197,83 @@
       "lastCompleted": "2026-01-18",
       "status": "completed"
     },
-
     {
       "id": "task_011",
       "title": "Learn React Hooks",
       "priority": 3,
-      "groupIds": ["grp_003"],
+      "groupIds": [
+        "grp_003"
+      ],
       "type": "repeat",
       "deadline": null,
       "repeatEveryDays": 10,
       "trackStreak": true,
-      "streak": { "current": 2, "longest": 5 },
+      "streak": {
+        "current": 2,
+        "longest": 5
+      },
       "lastCompleted": "2026-01-15",
       "status": "pending"
     },
-
     {
       "id": "task_012",
       "title": "Journal Writing",
       "priority": 2,
-      "groupIds": ["grp_005"],
+      "groupIds": [
+        "grp_005"
+      ],
       "type": "repeat",
       "deadline": null,
       "repeatEveryDays": 1,
       "trackStreak": true,
-      "streak": { "current": 0, "longest": 14 },
+      "streak": {
+        "current": 0,
+        "longest": 14
+      },
       "lastCompleted": "2026-01-05",
       "status": "pending"
     },
-
     {
       "id": "task_013",
       "title": "Clean Workspace",
       "priority": 1,
-      "groupIds": ["grp_005"],
+      "groupIds": [
+        "grp_005"
+      ],
       "type": "repeat",
       "deadline": null,
       "repeatEveryDays": 5,
       "trackStreak": false,
       "streak": null,
       "lastCompleted": "2026-01-21",
-      "status": "completed"
+      "status": "pending"
     },
-
     {
       "id": "task_014",
       "title": "Weekly Planning",
       "priority": 4,
-      "groupIds": ["grp_002", "grp_005"],
+      "groupIds": [
+        "grp_002",
+        "grp_005"
+      ],
       "type": "repeat",
       "deadline": null,
       "repeatEveryDays": 7,
       "trackStreak": true,
-      "streak": { "current": 5, "longest": 11 },
+      "streak": {
+        "current": 5,
+        "longest": 11
+      },
       "lastCompleted": "2026-01-20",
       "status": "pending"
     },
-
     {
       "id": "task_015",
       "title": "Backup Laptop Data",
       "priority": 3,
-      "groupIds": ["grp_002"],
+      "groupIds": [
+        "grp_002"
+      ],
       "type": "repeat",
       "deadline": null,
       "repeatEveryDays": 30,
@@ -218,12 +282,13 @@
       "lastCompleted": "2025-12-28",
       "status": "pending"
     },
-
     {
       "id": "task_016",
       "title": "Prepare Presentation",
       "priority": 5,
-      "groupIds": ["grp_002"],
+      "groupIds": [
+        "grp_002"
+      ],
       "type": "deadline",
       "deadline": "2026-01-28",
       "repeatEveryDays": null,
@@ -232,54 +297,69 @@
       "lastCompleted": null,
       "status": "pending"
     },
-
     {
       "id": "task_017",
       "title": "Drink 3L Water",
       "priority": 4,
-      "groupIds": ["grp_001"],
+      "groupIds": [
+        "grp_001"
+      ],
       "type": "repeat",
       "deadline": null,
       "repeatEveryDays": 1,
       "trackStreak": true,
-      "streak": { "current": 9, "longest": 16 },
+      "streak": {
+        "current": 9,
+        "longest": 16
+      },
       "lastCompleted": "2026-01-24",
-      "status": "completed"
+      "status": "pending"
     },
-
     {
       "id": "task_018",
       "title": "Practice DSA",
       "priority": 5,
-      "groupIds": ["grp_003", "grp_002"],
+      "groupIds": [
+        "grp_003",
+        "grp_002"
+      ],
       "type": "repeat",
       "deadline": null,
       "repeatEveryDays": 2,
       "trackStreak": true,
-      "streak": { "current": 7, "longest": 10 },
+      "streak": {
+        "current": 7,
+        "longest": 10
+      },
       "lastCompleted": "2026-01-23",
-      "status": "completed"
+      "status": "pending"
     },
-
     {
       "id": "task_019",
       "title": "Update Investment Portfolio",
       "priority": 4,
-      "groupIds": ["grp_004"],
+      "groupIds": [
+        "grp_004"
+      ],
       "type": "repeat",
       "deadline": null,
       "repeatEveryDays": 15,
       "trackStreak": true,
-      "streak": { "current": 1, "longest": 3 },
+      "streak": {
+        "current": 1,
+        "longest": 3
+      },
       "lastCompleted": "2026-01-10",
       "status": "pending"
     },
-
     {
       "id": "task_020",
       "title": "Plan Weekend Trip",
       "priority": 2,
-      "groupIds": ["grp_006", "grp_005"],
+      "groupIds": [
+        "grp_006",
+        "grp_005"
+      ],
       "type": "deadline",
       "deadline": "2026-02-15",
       "repeatEveryDays": null,
