@@ -104,6 +104,60 @@
       "streak": null,
       "lastCompleted": null,
       "status": "pending"
+    },
+    {
+      "id": "9c57d2fd-b74e-4ce3-8eb8-d388856a3b10",
+      "title": "Proper sleep",
+      "priority": 4,
+      "groupIds": [
+        "grp_001"
+      ],
+      "type": "repeat",
+      "deadline": null,
+      "repeatEveryDays": 1,
+      "trackStreak": true,
+      "streak": {
+        "current": 0,
+        "longest": 0
+      },
+      "lastCompleted": null,
+      "status": "pending"
+    },
+    {
+      "id": "7729f78f-b0b0-4219-bedf-af2d9d705179",
+      "title": "Hairline track",
+      "priority": 4,
+      "groupIds": [
+        "grp_001"
+      ],
+      "type": "repeat",
+      "deadline": null,
+      "repeatEveryDays": 15,
+      "trackStreak": true,
+      "streak": {
+        "current": 0,
+        "longest": 0
+      },
+      "lastCompleted": null,
+      "status": "pending"
+    },
+    {
+      "id": "f36d8804-3df1-4922-b5a7-61295739305b",
+      "title": "Study",
+      "priority": 5,
+      "groupIds": [
+        "grp_002"
+      ],
+      "type": "repeat",
+      "deadline": null,
+      "repeatEveryDays": 1,
+      "trackStreak": true,
+      "streak": {
+        "current": 0,
+        "longest": 0
+      },
+      "lastCompleted": null,
+      "status": "pending"
     }
   ]
 }
