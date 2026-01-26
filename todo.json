@@ -73,11 +73,11 @@
       "repeatEveryDays": 5,
       "trackStreak": true,
       "streak": {
-        "current": 3,
+        "current": 4,
         "longest": 7
       },
-      "lastCompleted": "2026-01-19",
-      "status": "pending"
+      "lastCompleted": "2026-01-26",
+      "status": "completed"
     },
     {
       "id": "task_005",
