@@ -129,11 +129,11 @@
       "repeatEveryDays": 3,
       "trackStreak": true,
       "streak": {
-        "current": 6,
-        "longest": 6
+        "current": 7,
+        "longest": 7
       },
-      "lastCompleted": "2026-01-23",
-      "status": "pending"
+      "lastCompleted": "2026-01-26",
+      "status": "completed"
     },
     {
       "id": "task_008",
