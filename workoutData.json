@@ -612,7 +612,7 @@
           "reps": "8-10"
         },
         {
-          "name": "Low-to-High Push-ups",
+          "name": "Low-to-High Push-ups (optional)",
           "sets": 2,
           "reps": "8"
         }
@@ -770,7 +770,7 @@
         },
         {
           "step": 15,
-          "name": "Low-to-High Push-ups",
+          "name": "Low-to-High Push-ups (optional)",
           "set": 1,
           "reps": "8",
           "restSeconds": 60,
@@ -778,7 +778,7 @@
         },
         {
           "step": 16,
-          "name": "Low-to-High Push-ups",
+          "name": "Low-to-High Push-ups (optional)",
           "set": 2,
           "reps": "10",
           "restSeconds": 60,
@@ -1003,6 +1003,11 @@
           "name": "Dumbbell Pullover Iso Hold",
           "sets": 3,
           "reps": "30 sec"
+        },
+        {
+          "name": "Low-to-High Push-ups (optional)",
+          "sets": 2,
+          "reps": "10"
         }
       ],
       "exerciseOrder": [
@@ -1140,6 +1145,26 @@
           "restSeconds": 120,
           "equipment": [
             "15Kg dumbbell",
+            "yoga mat"
+          ]
+        },
+        {
+          "step": 14,
+          "name": "Low-to-High Push-ups (optional)",
+          "set": 1,
+          "reps": "10",
+          "restSeconds": 60,
+          "equipment": [
+            "yoga mat"
+          ]
+        },
+        {
+          "step": 15,
+          "name": "Low-to-High Push-ups (optional)",
+          "set": 2,
+          "reps": "10",
+          "restSeconds": 60,
+          "equipment": [
             "yoga mat"
           ]
         }
