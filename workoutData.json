@@ -1,6 +1,5 @@
 {
   "equipments": [
-    "body weight",
     "10Kg dumbbell",
     "15Kg dumbbell",
     "pull-up bar",
@@ -402,17 +401,17 @@
         {
           "name": "Single-Arm Dumbbell Clean & Press",
           "sets": 4,
-          "reps": "5-6 each"
+          "reps": "8"
         },
         {
           "name": "Cross-Body Hammer Curl",
           "sets": 3,
-          "reps": "8-10"
+          "reps": "8"
         },
         {
           "name": "Concentration Curl",
           "sets": 3,
-          "reps": "10-12"
+          "reps": "5"
         },
         {
           "name": "Triceps Kickback (Strict)",
@@ -422,7 +421,7 @@
         {
           "name": "Plank Shoulder Taps",
           "sets": 3,
-          "reps": "45-60 sec"
+          "reps": "45 sec"
         }
       ],
       "exerciseOrder": [
@@ -430,8 +429,8 @@
           "step": 1,
           "name": "Single-Arm Dumbbell Clean & Press",
           "set": 1,
-          "reps": "5-6 each",
-          "restSeconds": 120,
+          "reps": "8",
+          "restSeconds": 100,
           "equipment": [
             "10Kg dumbbell"
           ]
@@ -440,18 +439,18 @@
           "step": 2,
           "name": "Single-Arm Dumbbell Clean & Press",
           "set": 2,
-          "reps": "5-6 each",
-          "restSeconds": 120,
+          "reps": "7",
+          "restSeconds": 100,
           "equipment": [
-            "10Kg dumbbell"
+            "15Kg dumbbell"
           ]
         },
         {
           "step": 3,
           "name": "Single-Arm Dumbbell Clean & Press",
           "set": 3,
-          "reps": "5-6 each",
-          "restSeconds": 120,
+          "reps": "7",
+          "restSeconds": 100,
           "equipment": [
             "15Kg dumbbell"
           ]
@@ -460,8 +459,8 @@
           "step": 4,
           "name": "Single-Arm Dumbbell Clean & Press",
           "set": 4,
-          "reps": "5-6 each",
-          "restSeconds": 150,
+          "reps": "7",
+          "restSeconds": 130,
           "equipment": [
             "15Kg dumbbell"
           ]
@@ -470,7 +469,7 @@
           "step": 5,
           "name": "Cross-Body Hammer Curl",
           "set": 1,
-          "reps": "8-10",
+          "reps": "8",
           "restSeconds": 75,
           "equipment": [
             "15Kg dumbbell"
@@ -480,7 +479,7 @@
           "step": 6,
           "name": "Cross-Body Hammer Curl",
           "set": 2,
-          "reps": "8-10",
+          "reps": "8",
           "restSeconds": 75,
           "equipment": [
             "15Kg dumbbell"
@@ -490,7 +489,7 @@
           "step": 7,
           "name": "Cross-Body Hammer Curl",
           "set": 3,
-          "reps": "8-10",
+          "reps": "8",
           "restSeconds": 100,
           "equipment": [
             "15Kg dumbbell"
@@ -500,7 +499,7 @@
           "step": 8,
           "name": "Concentration Curl",
           "set": 1,
-          "reps": "10-12",
+          "reps": "5",
           "restSeconds": 75,
           "equipment": [
             "10Kg dumbbell"
@@ -510,7 +509,7 @@
           "step": 9,
           "name": "Concentration Curl",
           "set": 2,
-          "reps": "10-12",
+          "reps": "4",
           "restSeconds": 75,
           "equipment": [
             "10Kg dumbbell"
@@ -520,7 +519,7 @@
           "step": 10,
           "name": "Concentration Curl",
           "set": 3,
-          "reps": "10-12",
+          "reps": "4",
           "restSeconds": 100,
           "equipment": [
             "10Kg dumbbell"
