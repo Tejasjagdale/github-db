@@ -803,12 +803,17 @@
         {
           "name": "Isometric Push-up Hold (Bottom)",
           "sets": 3,
-          "reps": "30-40 sec"
+          "reps": "30 sec"
         },
         {
           "name": "Dumbbell Squeeze Press (Both Arms)",
           "sets": 3,
           "reps": "10-12"
+        },
+        {
+          "name": "Incline Push-ups (optional)",
+          "sets": 3,
+          "reps": "10"
         }
       ],
       "exerciseOrder": [
@@ -941,6 +946,36 @@
           "equipment": [
             "10Kg dumbbell",
             "yoga mat"
+          ]
+        },
+        {
+          "step": 14,
+          "name": "Incline Push-ups (optional)",
+          "set": 1,
+          "reps": "10",
+          "restSeconds": 60,
+          "equipment": [
+            "chair"
+          ]
+        },
+        {
+          "step": 15,
+          "name": "Incline Push-ups (optional)",
+          "set": 2,
+          "reps": "10",
+          "restSeconds": 60,
+          "equipment": [
+            "chair"
+          ]
+        },
+        {
+          "step": 16,
+          "name": "Incline Push-ups (optional)",
+          "set": 3,
+          "reps": "10",
+          "restSeconds": 60,
+          "equipment": [
+            "chair"
           ]
         }
       ],
