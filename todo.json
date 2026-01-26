@@ -38,11 +38,11 @@
       "repeatEveryDays": 2,
       "trackStreak": true,
       "streak": {
-        "current": 5,
+        "current": 6,
         "longest": 12
       },
       "lastCompleted": "2026-01-26",
-      "status": "pending",
+      "status": "completed",
       "groupId": "completed"
     },
     {
