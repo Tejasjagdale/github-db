@@ -17,5 +17,24 @@
       "name": "Wishlist"
     }
   ],
-  "tasks": []
+  "tasks": [
+    {
+      "id": "821dffbb-7d87-4244-9f33-7aff5958e48a",
+      "title": "Drink water (3L)",
+      "priority": 2,
+      "groupIds": [
+        "grp_001"
+      ],
+      "type": "repeat",
+      "deadline": null,
+      "repeatEveryDays": 1,
+      "trackStreak": true,
+      "streak": {
+        "current": 0,
+        "longest": 0
+      },
+      "lastCompleted": null,
+      "status": "pending"
+    }
+  ]
 }
