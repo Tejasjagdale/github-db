@@ -15,6 +15,10 @@
     {
       "id": "a458bb54-9123-491c-8ed6-236c6da1e937",
       "name": "Wishlist"
+    },
+    {
+      "id": "18146edc-f1e6-4252-a773-7249a0c1f276",
+      "name": "Personal"
     }
   ],
   "tasks": [
@@ -95,7 +99,7 @@
       "title": "Mail to MSCI",
       "priority": 5,
       "groupIds": [
-        "grp_002"
+        "18146edc-f1e6-4252-a773-7249a0c1f276"
       ],
       "type": "deadline",
       "deadline": "2026-01-27",
@@ -133,11 +137,8 @@
       "type": "repeat",
       "deadline": null,
       "repeatEveryDays": 15,
-      "trackStreak": true,
-      "streak": {
-        "current": 0,
-        "longest": 0
-      },
+      "trackStreak": false,
+      "streak": null,
       "lastCompleted": null,
       "status": "pending"
     },
@@ -146,7 +147,7 @@
       "title": "Study",
       "priority": 5,
       "groupIds": [
-        "grp_002"
+        "18146edc-f1e6-4252-a773-7249a0c1f276"
       ],
       "type": "repeat",
       "deadline": null,
@@ -156,6 +157,81 @@
         "current": 0,
         "longest": 0
       },
+      "lastCompleted": null,
+      "status": "pending"
+    },
+    {
+      "id": "03ddd502-9204-49db-a56c-95a845f964da",
+      "title": "Bridge dev release header empty",
+      "priority": 5,
+      "groupIds": [
+        "grp_002"
+      ],
+      "type": "deadline",
+      "deadline": "2026-01-27",
+      "repeatEveryDays": null,
+      "trackStreak": true,
+      "streak": null,
+      "lastCompleted": null,
+      "status": "pending"
+    },
+    {
+      "id": "8dd9743d-a2e5-4ca1-a34c-59996d87e930",
+      "title": "Terminated entity validation",
+      "priority": 5,
+      "groupIds": [
+        "grp_002"
+      ],
+      "type": "deadline",
+      "deadline": "2026-01-27",
+      "repeatEveryDays": null,
+      "trackStreak": true,
+      "streak": null,
+      "lastCompleted": null,
+      "status": "pending"
+    },
+    {
+      "id": "8f70954b-d36d-4c41-866e-e892688f4025",
+      "title": "Bridge environment kickstart",
+      "priority": 3,
+      "groupIds": [
+        "grp_002"
+      ],
+      "type": "deadline",
+      "deadline": "2026-01-29",
+      "repeatEveryDays": null,
+      "trackStreak": true,
+      "streak": null,
+      "lastCompleted": null,
+      "status": "pending"
+    },
+    {
+      "id": "23ce93a2-5427-4c03-83d9-abd5ddf26722",
+      "title": "Bridge reverse dev",
+      "priority": 4,
+      "groupIds": [
+        "grp_002"
+      ],
+      "type": "deadline",
+      "deadline": "2026-01-29",
+      "repeatEveryDays": null,
+      "trackStreak": true,
+      "streak": null,
+      "lastCompleted": null,
+      "status": "pending"
+    },
+    {
+      "id": "113d2873-cec9-406a-b7b8-ac1cc5a0f6aa",
+      "title": "Process screen",
+      "priority": 3,
+      "groupIds": [
+        "grp_002"
+      ],
+      "type": "deadline",
+      "deadline": "2026-01-28",
+      "repeatEveryDays": null,
+      "trackStreak": true,
+      "streak": null,
       "lastCompleted": null,
       "status": "pending"
     }
