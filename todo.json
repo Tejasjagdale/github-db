@@ -53,6 +53,57 @@
       },
       "lastCompleted": null,
       "status": "pending"
+    },
+    {
+      "id": "a9d32037-da57-4dce-b19d-bcf88a5b3595",
+      "title": "Minoxidil",
+      "priority": 3,
+      "groupIds": [
+        "grp_001"
+      ],
+      "type": "repeat",
+      "deadline": null,
+      "repeatEveryDays": 1,
+      "trackStreak": true,
+      "streak": {
+        "current": 0,
+        "longest": 0
+      },
+      "lastCompleted": null,
+      "status": "pending"
+    },
+    {
+      "id": "03f9dbbb-c83d-40dd-94c3-affe587b187c",
+      "title": "Skin care",
+      "priority": 3,
+      "groupIds": [
+        "grp_001"
+      ],
+      "type": "repeat",
+      "deadline": null,
+      "repeatEveryDays": 1,
+      "trackStreak": true,
+      "streak": {
+        "current": 1,
+        "longest": 1
+      },
+      "lastCompleted": "2026-01-26",
+      "status": "pending"
+    },
+    {
+      "id": "396adf61-271b-4963-9b7d-74fd47291a3c",
+      "title": "Mail to MSCI",
+      "priority": 5,
+      "groupIds": [
+        "grp_002"
+      ],
+      "type": "deadline",
+      "deadline": "2026-01-27",
+      "repeatEveryDays": null,
+      "trackStreak": true,
+      "streak": null,
+      "lastCompleted": null,
+      "status": "pending"
     }
   ]
 }
