@@ -42,7 +42,8 @@
         "longest": 12
       },
       "lastCompleted": "2026-01-26",
-      "status": "completed"
+      "status": "completed",
+      "groupId": "completed"
     },
     {
       "id": "task_003",
