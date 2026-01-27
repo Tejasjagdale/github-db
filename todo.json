@@ -34,11 +34,11 @@
       "repeatEveryDays": 1,
       "trackStreak": true,
       "streak": {
-        "current": 0,
-        "longest": 0
+        "current": 1,
+        "longest": 1
       },
-      "lastCompleted": null,
-      "status": "pending"
+      "lastCompleted": "2026-01-27",
+      "status": "completed"
     },
     {
       "id": "7f63c97b-4dcb-4300-9566-df12c5570fb0",
@@ -70,11 +70,11 @@
       "repeatEveryDays": 1,
       "trackStreak": true,
       "streak": {
-        "current": 0,
-        "longest": 0
+        "current": 1,
+        "longest": 1
       },
-      "lastCompleted": null,
-      "status": "pending"
+      "lastCompleted": "2026-01-27",
+      "status": "completed"
     },
     {
       "id": "03f9dbbb-c83d-40dd-94c3-affe587b187c",
@@ -172,8 +172,8 @@
       "repeatEveryDays": null,
       "trackStreak": true,
       "streak": null,
-      "lastCompleted": null,
-      "status": "pending"
+      "lastCompleted": "2026-01-27",
+      "status": "completed"
     },
     {
       "id": "8dd9743d-a2e5-4ca1-a34c-59996d87e930",
@@ -187,8 +187,8 @@
       "repeatEveryDays": null,
       "trackStreak": true,
       "streak": null,
-      "lastCompleted": null,
-      "status": "pending"
+      "lastCompleted": "2026-01-27",
+      "status": "completed"
     },
     {
       "id": "8f70954b-d36d-4c41-866e-e892688f4025",
