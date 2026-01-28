@@ -34,10 +34,10 @@
       "repeatEveryDays": 1,
       "trackStreak": true,
       "streak": {
-        "current": 1,
-        "longest": 1
+        "current": 2,
+        "longest": 2
       },
-      "lastCompleted": "2026-01-27",
+      "lastCompleted": "2026-01-28",
       "status": "completed"
     },
     {
@@ -70,10 +70,10 @@
       "repeatEveryDays": 1,
       "trackStreak": true,
       "streak": {
-        "current": 1,
-        "longest": 1
+        "current": 2,
+        "longest": 2
       },
-      "lastCompleted": "2026-01-27",
+      "lastCompleted": "2026-01-28",
       "status": "completed"
     },
     {
