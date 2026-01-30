@@ -38,7 +38,7 @@
         "longest": 2
       },
       "lastCompleted": "2026-01-28",
-      "status": "completed"
+      "status": "pending"
     },
     {
       "id": "7f63c97b-4dcb-4300-9566-df12c5570fb0",
@@ -74,7 +74,7 @@
         "longest": 2
       },
       "lastCompleted": "2026-01-28",
-      "status": "completed"
+      "status": "pending"
     },
     {
       "id": "03f9dbbb-c83d-40dd-94c3-affe587b187c",
@@ -229,6 +229,51 @@
       ],
       "type": "deadline",
       "deadline": "2026-01-28",
+      "repeatEveryDays": null,
+      "trackStreak": true,
+      "streak": null,
+      "lastCompleted": null,
+      "status": "pending"
+    },
+    {
+      "id": "6b5c6122-2157-423e-949a-2f8a21468a9a",
+      "title": "DSB reverse dev",
+      "priority": 4,
+      "groupIds": [
+        "grp_002"
+      ],
+      "type": "deadline",
+      "deadline": "2026-02-02",
+      "repeatEveryDays": null,
+      "trackStreak": true,
+      "streak": null,
+      "lastCompleted": null,
+      "status": "pending"
+    },
+    {
+      "id": "fb0308bb-ae08-4946-8cd1-32d390814cf8",
+      "title": "Reverse Array",
+      "priority": 4,
+      "groupIds": [
+        "grp_002"
+      ],
+      "type": "deadline",
+      "deadline": "2026-02-02",
+      "repeatEveryDays": null,
+      "trackStreak": true,
+      "streak": null,
+      "lastCompleted": null,
+      "status": "pending"
+    },
+    {
+      "id": "4e932e2e-ee6c-4a78-82b7-b28f02428a6f",
+      "title": "Rms header bug fix ",
+      "priority": 5,
+      "groupIds": [
+        "grp_002"
+      ],
+      "type": "deadline",
+      "deadline": "2026-02-02",
       "repeatEveryDays": null,
       "trackStreak": true,
       "streak": null,
