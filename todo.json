@@ -279,6 +279,21 @@
       "streak": null,
       "lastCompleted": null,
       "status": "pending"
+    },
+    {
+      "id": "123cc4db-688f-4632-bde2-056afa8d5cc0",
+      "title": "Demat reverse dev",
+      "priority": 4,
+      "groupIds": [
+        "grp_002"
+      ],
+      "type": "deadline",
+      "deadline": "2026-02-02",
+      "repeatEveryDays": null,
+      "trackStreak": true,
+      "streak": null,
+      "lastCompleted": null,
+      "status": "pending"
     }
   ]
 }
