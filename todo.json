@@ -298,6 +298,51 @@
       "streak": null,
       "lastCompleted": null,
       "status": "pending"
+    },
+    {
+      "id": "2f50d122-2077-4d17-81bd-c9be592204fe",
+      "title": "Laptop table",
+      "priority": 3,
+      "groupIds": [
+        "ac72ec0b-d926-4308-ba10-93178e43b723"
+      ],
+      "type": "deadline",
+      "deadline": "2026-05-31",
+      "repeatEveryDays": null,
+      "trackStreak": true,
+      "streak": null,
+      "lastCompleted": null,
+      "status": "pending"
+    },
+    {
+      "id": "157f4ad3-e332-45ae-b2f3-e23976549466",
+      "title": "Scooty",
+      "priority": 3,
+      "groupIds": [
+        "ac72ec0b-d926-4308-ba10-93178e43b723"
+      ],
+      "type": "deadline",
+      "deadline": "2026-05-31",
+      "repeatEveryDays": null,
+      "trackStreak": true,
+      "streak": null,
+      "lastCompleted": null,
+      "status": "pending"
+    },
+    {
+      "id": "65eff6a6-e334-4b0d-90f3-977dd989c6ed",
+      "title": "1-2 Formals",
+      "priority": 3,
+      "groupIds": [
+        "ac72ec0b-d926-4308-ba10-93178e43b723"
+      ],
+      "type": "deadline",
+      "deadline": "2026-02-28",
+      "repeatEveryDays": null,
+      "trackStreak": true,
+      "streak": null,
+      "lastCompleted": null,
+      "status": "pending"
     }
   ]
 }
