@@ -343,6 +343,37 @@
       "streak": null,
       "lastCompleted": null,
       "status": "pending"
+    },
+    {
+      "id": "81e57fd0-13c8-419d-8246-b615f76c25ad",
+      "title": "2 Mail follow up msci",
+      "priority": 5,
+      "groupIds": [
+        "18146edc-f1e6-4252-a773-7249a0c1f276",
+        "a458bb54-9123-491c-8ed6-236c6da1e937"
+      ],
+      "type": "deadline",
+      "deadline": "2026-02-05",
+      "repeatEveryDays": null,
+      "trackStreak": true,
+      "streak": null,
+      "lastCompleted": null,
+      "status": "pending"
+    },
+    {
+      "id": "c3f0e576-d12b-489a-9fd4-ca28711c738f",
+      "title": "Kitchen renovation",
+      "priority": 4,
+      "groupIds": [
+        "18146edc-f1e6-4252-a773-7249a0c1f276"
+      ],
+      "type": "deadline",
+      "deadline": "2026-04-30",
+      "repeatEveryDays": null,
+      "trackStreak": true,
+      "streak": null,
+      "lastCompleted": null,
+      "status": "pending"
     }
   ]
 }
