@@ -23,6 +23,10 @@
     {
       "id": "ac72ec0b-d926-4308-ba10-93178e43b723",
       "name": "Shopping"
+    },
+    {
+      "id": "a436e20f-7ae0-4724-a8ed-effc250794e1",
+      "name": "Home"
     }
   ],
   "tasks": [
@@ -369,6 +373,22 @@
       ],
       "type": "deadline",
       "deadline": "2026-04-30",
+      "repeatEveryDays": null,
+      "trackStreak": true,
+      "streak": null,
+      "lastCompleted": null,
+      "status": "pending"
+    },
+    {
+      "id": "8e84488b-24a8-4fa3-bd95-e12724d47319",
+      "title": "Alibaug family trip",
+      "priority": 5,
+      "groupIds": [
+        "a436e20f-7ae0-4724-a8ed-effc250794e1",
+        "a458bb54-9123-491c-8ed6-236c6da1e937"
+      ],
+      "type": "deadline",
+      "deadline": "2026-05-31",
       "repeatEveryDays": null,
       "trackStreak": true,
       "streak": null,
