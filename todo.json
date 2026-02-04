@@ -19,6 +19,10 @@
     {
       "id": "18146edc-f1e6-4252-a773-7249a0c1f276",
       "name": "Personal"
+    },
+    {
+      "id": "ac72ec0b-d926-4308-ba10-93178e43b723",
+      "name": "Shopping"
     }
   ],
   "tasks": [
@@ -92,7 +96,7 @@
         "longest": 2
       },
       "lastCompleted": "2026-01-30",
-      "status": "completed"
+      "status": "pending"
     },
     {
       "id": "396adf61-271b-4963-9b7d-74fd47291a3c",
