@@ -42,11 +42,11 @@
       "repeatEveryDays": 1,
       "trackStreak": true,
       "streak": {
-        "current": 2,
-        "longest": 2
+        "current": 3,
+        "longest": 3
       },
-      "lastCompleted": "2026-01-28",
-      "status": "pending"
+      "lastCompleted": "2026-02-10",
+      "status": "completed"
     },
     {
       "id": "7f63c97b-4dcb-4300-9566-df12c5570fb0",
