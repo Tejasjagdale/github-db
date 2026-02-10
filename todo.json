@@ -42,8 +42,8 @@
       "repeatEveryDays": 1,
       "trackStreak": true,
       "streak": {
-        "current": 3,
-        "longest": 3
+        "current": 4,
+        "longest": 4
       },
       "lastCompleted": "2026-02-10",
       "status": "completed"
