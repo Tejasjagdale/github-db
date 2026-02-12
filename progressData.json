@@ -289,6 +289,19 @@
       "stomach": 30.5,
       "neck": 13.1,
       "fatFreeMass": 54.56
+    },
+    "2026-02-12": {
+      "unflexedArms": 10.5,
+      "bodyFat": 14.78,
+      "flexedArms": 12.6,
+      "forearms": 10.2,
+      "thighs": 22,
+      "calf": 13.25,
+      "chest": 34.7,
+      "stomach": 30.7,
+      "waist": 30.6,
+      "neck": 13,
+      "fatFreeMass": 54.5
     }
   },
   "workouts": [
