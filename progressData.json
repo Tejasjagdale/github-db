@@ -774,6 +774,12 @@
       "dietQuality": "low",
       "mood": "neutral",
       "studied": false
+    },
+    "2026-02-16": {
+      "condition": "coldOrFever",
+      "dietQuality": "normal",
+      "mood": "sad",
+      "studied": false
     }
   }
 }
