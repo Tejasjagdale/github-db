@@ -63,6 +63,22 @@
         "longest": 0
       },
       "lastCompleted": null
+    },
+    {
+      "id": "37f91360-45a4-4e0b-a049-9f97a1bd7a4d",
+      "title": "study",
+      "priority": "high",
+      "groupIds": [
+        "grp_personal"
+      ],
+      "repeatEveryDays": 1,
+      "completeByTime": "09:44",
+      "trackStreak": true,
+      "streak": {
+        "current": 0,
+        "longest": 0
+      },
+      "lastCompleted": null
     }
   ],
   "todos": [
