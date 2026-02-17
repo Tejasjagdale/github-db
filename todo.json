@@ -1,173 +1,123 @@
-import {
-  Dialog,
-  DialogContent,
-  DialogTitle,
-  Stack,
-  TextField,
-  Button,
-  Chip,
-  Box
-} from "@mui/material";
-
-import { DatePicker, TimePicker } from "@mui/x-date-pickers";
-import { LocalizationProvider } from "@mui/x-date-pickers/LocalizationProvider";
-import { AdapterDayjs } from "@mui/x-date-pickers/AdapterDayjs";
-
-import dayjs from "dayjs";
-import { useState, useEffect } from "react";
-
-import {
-  Routine,
-  Todo,
-  Group,
-  Priority
-} from "../../types/todoModels";
-
-interface Props{
-  open:boolean;
-  mode:"routine"|"todo";
-  item:Routine|Todo|null;
-  groups:Group[];
-  onClose:()=>void;
-  onSave:(item:any)=>void;
-}
-
-export default function TaskEditorModal({
-  open,mode,item,groups,onClose,onSave
-}:Props){
-
-  const [title,setTitle]=useState("");
-  const [priority,setPriority]=useState<Priority>("medium");
-  const [groupIds,setGroupIds]=useState<string[]>([]);
-  const [deadline,setDeadline]=useState<any>(null);
-  const [time,setTime]=useState<any>(null);
-
-  useEffect(()=>{
-    setTitle(item?.title ?? "");
-    setPriority((item as any)?.priority ?? "medium");
-    setGroupIds((item as any)?.groupIds ?? []);
-
-    if(mode==="todo" && (item as Todo)?.deadline){
-      setDeadline(dayjs((item as Todo).deadline));
+{
+  "groups": [
+    {
+      "id": "grp_health",
+      "name": "Health"
+    },
+    {
+      "id": "grp_work",
+      "name": "Work"
+    },
+    {
+      "id": "grp_personal",
+      "name": "Personal"
+    },
+    {
+      "id": "fa570703-1cd1-4140-b822-2fe7c72f409c",
+      "name": "some"
     }
-
-    if(mode==="routine" && (item as Routine)?.completeByTime){
-      setTime(dayjs(`2020-01-01T${(item as Routine).completeByTime}`));
+  ],
+  "routines": [
+    {
+      "id": "routine_001",
+      "title": "Drink 3L Water",
+      "priority": "medium",
+      "groupIds": [
+        "grp_health"
+      ],
+      "repeatEveryDays": 1,
+      "completeByTime": "03:10",
+      "trackStreak": true,
+      "streak": {
+        "current": 0,
+        "longest": 0
+      },
+      "lastCompleted": null
+    },
+    {
+      "id": "routine_002",
+      "title": "Workout",
+      "priority": "high",
+      "groupIds": [
+        "grp_health"
+      ],
+      "repeatEveryDays": 1,
+      "trackStreak": true,
+      "streak": {
+        "current": 0,
+        "longest": 3
+      },
+      "lastCompleted": null
+    },
+    {
+      "id": "e440fdf1-8459-49d9-ade5-7abfb4f9d136",
+      "title": "wake up",
+      "priority": "medium",
+      "groupIds": [
+        "grp_personal"
+      ],
+      "repeatEveryDays": 1,
+      "completeByTime": "07:30",
+      "trackStreak": true,
+      "streak": {
+        "current": 0,
+        "longest": 0
+      },
+      "lastCompleted": null
+    },
+    {
+      "id": "37f91360-45a4-4e0b-a049-9f97a1bd7a4d",
+      "title": "study",
+      "priority": "high",
+      "groupIds": [
+        "grp_personal"
+      ],
+      "repeatEveryDays": 1,
+      "completeByTime": "09:44",
+      "trackStreak": true,
+      "streak": {
+        "current": 0,
+        "longest": 0
+      },
+      "lastCompleted": null
     }
-
-  },[item,mode]);
-
-  const toggleGroup=(id:string)=>{
-    setGroupIds(prev =>
-      prev.includes(id)
-        ? prev.filter(g=>g!==id)
-        : [...prev,id]
-    );
-  };
-
-  const handleSave=()=>{
-
-    if(mode==="routine"){
-      onSave({
-        id:item?.id ?? crypto.randomUUID(),
-        title,
-        priority,
-        groupIds,
-        repeatEveryDays:1,
-        completeByTime: time ? time.format("HH:mm") : null,
-        trackStreak:true,
-        streak:{current:0,longest:0},
-        lastCompleted:null
-      });
-    }else{
-      onSave({
-        id:item?.id ?? crypto.randomUUID(),
-        title,
-        priority,
-        groupIds,
-        deadline: deadline ? deadline.format("YYYY-MM-DD") : null,
-        createdAt:new Date().toISOString(),
-        completedAt:null,
-        status:"pending"
-      });
+  ],
+  "todos": [
+    {
+      "id": "todo_001",
+      "title": "Bridge reverse dev",
+      "priority": "high",
+      "groupIds": [
+        "grp_work"
+      ],
+      "deadline": "2026-02-20",
+      "createdAt": "2026-02-15",
+      "completedAt": null,
+      "status": "pending"
+    },
+    {
+      "id": "todo_002",
+      "title": "Buy laptop table",
+      "priority": "medium",
+      "groupIds": [
+        "grp_personal"
+      ],
+      "deadline": "2026-03-01",
+      "createdAt": "2026-02-10",
+      "completedAt": null,
+      "status": "pending"
+    },
+    {
+      "id": "9338b4c9-4231-4622-af9b-893c56a97398",
+      "title": "sdgsdg",
+      "priority": "medium",
+      "groupIds": [
+        "grp_work"
+      ],
+      "deadline": "2026-03-05",
+      "createdAt": "2026-02-17T16:35:03.714Z",
+      "completedAt": null,
+      "status": "pending"
     }
-  };
-
-  return(
-    <LocalizationProvider dateAdapter={AdapterDayjs}>
-      <Dialog open={open} onClose={onClose} fullScreen>
-
-        <DialogTitle sx={{ fontWeight:700 }}>
-          {mode==="routine"?"Routine":"Todo"}
-        </DialogTitle>
-
-        <DialogContent>
-
-          <Stack spacing={3} mt={1}>
-
-            <TextField
-              label="Title"
-              fullWidth
-              value={title}
-              onChange={e=>setTitle(e.target.value)}
-            />
-
-            <TextField
-              select
-              label="Priority"
-              value={priority}
-              onChange={e=>setPriority(e.target.value as Priority)}
-            >
-              <option value="low">Low</option>
-              <option value="medium">Medium</option>
-              <option value="high">High</option>
-            </TextField>
-
-            {/* GROUP PICKER */}
-
-            <Box>
-              <Stack direction="row" spacing={1} flexWrap="wrap">
-                {groups.map(g=>(
-                  <Chip
-                    key={g.id}
-                    label={g.name}
-                    onClick={()=>toggleGroup(g.id)}
-                    color={groupIds.includes(g.id)?"primary":"default"}
-                  />
-                ))}
-              </Stack>
-            </Box>
-
-            {mode==="routine" && (
-              <TimePicker
-                label="Complete by"
-                value={time}
-                onChange={setTime}
-              />
-            )}
-
-            {mode==="todo" && (
-              <DatePicker
-                label="Deadline"
-                value={deadline}
-                onChange={setDeadline}
-              />
-            )}
-
-            <Button
-              variant="contained"
-              size="large"
-              sx={{ borderRadius:3 }}
-              onClick={handleSave}
-            >
-              Save
-            </Button>
-
-          </Stack>
-
-        </DialogContent>
-
-      </Dialog>
-    </LocalizationProvider>
-  );
+  ]
 }
