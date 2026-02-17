@@ -42,12 +42,13 @@
         "grp_health"
       ],
       "repeatEveryDays": 1,
+      "completeByTime": "11:50 PM",
       "trackStreak": true,
       "streak": {
         "current": 0,
         "longest": 3
       },
-      "lastCompleted": null
+      "completedToday": null
     },
     {
       "id": "e440fdf1-8459-49d9-ade5-7abfb4f9d136",
