@@ -42,7 +42,7 @@
         "grp_health"
       ],
       "repeatEveryDays": 1,
-      "completeByTime": "11:50 PM",
+      "completeByTime": "01:00 AM",
       "trackStreak": true,
       "streak": {
         "current": 0,
