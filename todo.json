@@ -47,6 +47,22 @@
         "longest": 3
       },
       "lastCompleted": null
+    },
+    {
+      "id": "e440fdf1-8459-49d9-ade5-7abfb4f9d136",
+      "title": "wake up",
+      "priority": "medium",
+      "groupIds": [
+        "grp_personal"
+      ],
+      "repeatEveryDays": 1,
+      "completeByTime": "07:30",
+      "trackStreak": true,
+      "streak": {
+        "current": 0,
+        "longest": 0
+      },
+      "lastCompleted": null
     }
   ],
   "todos": [
