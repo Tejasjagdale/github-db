@@ -1,39 +1,62 @@
 {
   "groups": [
-    { "id": "grp_health", "name": "Health" },
-    { "id": "grp_work", "name": "Work" },
-    { "id": "grp_personal", "name": "Personal" }
+    {
+      "id": "grp_health",
+      "name": "Health"
+    },
+    {
+      "id": "grp_work",
+      "name": "Work"
+    },
+    {
+      "id": "grp_personal",
+      "name": "Personal"
+    },
+    {
+      "id": "fa570703-1cd1-4140-b822-2fe7c72f409c",
+      "name": "some"
+    }
   ],
-
   "routines": [
     {
       "id": "routine_001",
       "title": "Drink 3L Water",
       "priority": "medium",
-      "groupIds": ["grp_health"],
+      "groupIds": [
+        "grp_health"
+      ],
       "repeatEveryDays": 1,
       "trackStreak": true,
-      "streak": { "current": 4, "longest": 7 },
+      "streak": {
+        "current": 4,
+        "longest": 7
+      },
       "lastCompleted": "2026-02-16"
     },
     {
       "id": "routine_002",
       "title": "Workout",
       "priority": "high",
-      "groupIds": ["grp_health"],
+      "groupIds": [
+        "grp_health"
+      ],
       "repeatEveryDays": 1,
       "trackStreak": true,
-      "streak": { "current": 0, "longest": 3 },
+      "streak": {
+        "current": 0,
+        "longest": 3
+      },
       "lastCompleted": null
     }
   ],
-
   "todos": [
     {
       "id": "todo_001",
       "title": "Bridge reverse dev",
       "priority": "high",
-      "groupIds": ["grp_work"],
+      "groupIds": [
+        "grp_work"
+      ],
       "deadline": "2026-02-20",
       "createdAt": "2026-02-15",
       "completedAt": null,
@@ -43,7 +66,9 @@
       "id": "todo_002",
       "title": "Buy laptop table",
       "priority": "medium",
-      "groupIds": ["grp_personal"],
+      "groupIds": [
+        "grp_personal"
+      ],
       "deadline": "2026-03-01",
       "createdAt": "2026-02-10",
       "completedAt": null,
