@@ -91,7 +91,7 @@
       "groupIds": [
         "grp_work"
       ],
-      "deadline": "2026-02-20",
+      "deadline": "2026-02-17",
       "createdAt": "2026-02-15",
       "completedAt": null,
       "status": "pending"
@@ -103,7 +103,7 @@
       "groupIds": [
         "grp_personal"
       ],
-      "deadline": "2026-03-01",
+      "deadline": "2026-02-20",
       "createdAt": "2026-02-10",
       "completedAt": null,
       "status": "pending"
