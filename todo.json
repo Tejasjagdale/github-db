@@ -81,6 +81,20 @@
         "longest": 0
       },
       "lastCompleted": null
+    },
+    {
+      "id": "afb3f627-2165-4ae4-8409-e50112e880f7",
+      "title": "asfasfa",
+      "priority": "medium",
+      "groupIds": [],
+      "repeatEveryDays": 1,
+      "completeByTime": "11:45 PM",
+      "trackStreak": true,
+      "streak": {
+        "current": 0,
+        "longest": 0
+      },
+      "completedToday": "2026-02-18"
     }
   ],
   "todos": [
@@ -93,8 +107,8 @@
       ],
       "deadline": "2026-02-17",
       "createdAt": "2026-02-15",
-      "completedAt": null,
-      "status": "pending"
+      "completedAt": "2026-02-18T18:10:37.828Z",
+      "status": "completed"
     },
     {
       "id": "todo_002",
