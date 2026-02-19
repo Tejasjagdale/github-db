@@ -25,10 +25,10 @@
       "completeByTime": "18:00",
       "trackStreak": true,
       "streak": {
-        "current": 7,
+        "current": 2,
         "longest": 7
       },
-      "completedToday": "2026-02-19",
+      "completedToday": "2026-02-18",
       "history": [
         "2026-02-13",
         "2026-02-14",
@@ -36,7 +36,6 @@
         "2026-02-16",
         "2026-02-17",
         "2026-02-18",
-        "2026-02-19"
       ],
       "isUrgent": false
     },
