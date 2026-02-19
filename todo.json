@@ -59,7 +59,7 @@
         "grp_personal"
       ],
       "repeatEveryDays": 1,
-      "completeByTime": "09:10 PM",
+      "completeByTime": "09:14 AM",
       "trackStreak": true,
       "streak": {
         "current": 3,
@@ -90,6 +90,23 @@
       "groupIds": [],
       "repeatEveryDays": 1,
       "completeByTime": "07:25 PM",
+      "trackStreak": true,
+      "streak": {
+        "current": 0,
+        "longest": 0
+      },
+      "completedToday": null,
+      "isUrgent": false
+    },
+    {
+      "id": "80309565-8bf0-49c6-9616-a24c57a5a4da",
+      "title": "Testing",
+      "priority": "medium",
+      "groupIds": [
+        "grp_work"
+      ],
+      "repeatEveryDays": 1,
+      "completeByTime": "08:44 PM",
       "trackStreak": true,
       "streak": {
         "current": 0,
