@@ -1,44 +1,80 @@
 {
   "groups": [
-    { "id": "grp_health", "name": "Health" },
-    { "id": "grp_work", "name": "Work" },
-    { "id": "grp_personal", "name": "Personal" }
+    {
+      "id": "grp_health",
+      "name": "Health"
+    },
+    {
+      "id": "grp_work",
+      "name": "Work"
+    },
+    {
+      "id": "grp_personal",
+      "name": "Personal"
+    }
   ],
   "routines": [
     {
       "id": "routine_water",
       "title": "Drink 3L Water",
       "priority": "medium",
-      "groupIds": ["grp_health"],
+      "groupIds": [
+        "grp_health"
+      ],
       "repeatEveryDays": 1,
       "completeByTime": "18:00",
       "trackStreak": true,
-      "streak": { "current": 7, "longest": 21 },
-      "completedToday": "2026-02-19",
+      "streak": {
+        "current": 0,
+        "longest": 6
+      },
+      "completedToday": null,
       "history": [
-        { "date": "2026-02-13" },
-        { "date": "2026-02-14" },
-        { "date": "2026-02-15" },
-        { "date": "2026-02-16" },
-        { "date": "2026-02-17" },
-        { "date": "2026-02-18" },
-        { "date": "2026-02-19" }
-      ]
+        {
+          "date": "2026-02-13"
+        },
+        {
+          "date": "2026-02-14"
+        },
+        {
+          "date": "2026-02-15"
+        },
+        {
+          "date": "2026-02-16"
+        },
+        {
+          "date": "2026-02-17"
+        },
+        {
+          "date": "2026-02-18"
+        }
+      ],
+      "isUrgent": false
     },
     {
       "id": "routine_study",
       "title": "Study",
       "priority": "high",
-      "groupIds": ["grp_personal"],
+      "groupIds": [
+        "grp_personal"
+      ],
       "repeatEveryDays": 1,
       "completeByTime": "21:00",
       "trackStreak": true,
-      "streak": { "current": 3, "longest": 9 },
+      "streak": {
+        "current": 3,
+        "longest": 9
+      },
       "completedToday": null,
       "history": [
-        { "date": "2026-02-17" },
-        { "date": "2026-02-18" }
-      ]
+        {
+          "date": "2026-02-17"
+        },
+        {
+          "date": "2026-02-18"
+        }
+      ],
+      "isUrgent": false
     }
   ],
   "todos": [
@@ -46,31 +82,52 @@
       "id": "todo_dev",
       "title": "Finish Bridge UI",
       "priority": "high",
-      "groupIds": ["grp_work"],
+      "groupIds": [
+        "grp_work"
+      ],
       "deadline": "2026-02-19",
       "createdAt": "2026-02-15",
       "completedAt": null,
-      "status": "pending"
+      "status": "pending",
+      "isOverdue": false
     },
     {
       "id": "todo_laptop",
       "title": "Buy laptop table",
       "priority": "medium",
-      "groupIds": ["grp_personal"],
+      "groupIds": [
+        "grp_personal"
+      ],
       "deadline": "2026-02-20",
       "createdAt": "2026-02-10",
       "completedAt": null,
-      "status": "pending"
+      "status": "pending",
+      "isOverdue": false
     },
     {
       "id": "todo_done",
       "title": "Gym Shoes",
       "priority": "low",
-      "groupIds": ["grp_health"],
+      "groupIds": [
+        "grp_health"
+      ],
       "deadline": "2026-02-18",
       "createdAt": "2026-02-10",
-      "completedAt": "2026-02-18T18:10:37.828Z",
-      "status": "completed"
+      "completedAt": null,
+      "status": "pending",
+      "isOverdue": true
+    },
+    {
+      "id": "b07f5b10-72bc-4510-8100-0eceede6322f",
+      "title": "asasf",
+      "priority": "medium",
+      "groupIds": [
+        "grp_work"
+      ],
+      "deadline": "2026-02-27",
+      "createdAt": "2026-02-19T11:34:00.703Z",
+      "completedAt": null,
+      "status": "pending"
     }
   ]
 }
