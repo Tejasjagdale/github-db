@@ -82,6 +82,21 @@
       },
       "completedToday": null,
       "isUrgent": false
+    },
+    {
+      "id": "f7c497da-5c56-457b-9878-5fa4fc4c9519",
+      "title": "New",
+      "priority": "medium",
+      "groupIds": [],
+      "repeatEveryDays": 1,
+      "completeByTime": "07:25 PM",
+      "trackStreak": true,
+      "streak": {
+        "current": 0,
+        "longest": 0
+      },
+      "completedToday": null,
+      "isUrgent": true
     }
   ],
   "todos": [
