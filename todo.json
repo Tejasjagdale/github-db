@@ -50,12 +50,14 @@
       "completeByTime": "09:14 AM",
       "trackStreak": true,
       "streak": {
-        "current": 0,
-        "longest": 0
+        "current": 1,
+        "longest": 1
       },
-      "completedToday": null,
+      "completedToday": "2026-02-19",
       "isUrgent": false,
-      "history": []
+      "history": [
+        "2026-02-19"
+      ]
     },
     {
       "id": "c6515552-6691-49f0-9be2-bdb2c8d2264b",
