@@ -59,21 +59,13 @@
         "grp_personal"
       ],
       "repeatEveryDays": 1,
-      "completeByTime": "21:00",
+      "completeByTime": "09:10 PM",
       "trackStreak": true,
       "streak": {
         "current": 3,
         "longest": 9
       },
       "completedToday": null,
-      "history": [
-        {
-          "date": "2026-02-17"
-        },
-        {
-          "date": "2026-02-18"
-        }
-      ],
       "isUrgent": false
     },
     {
