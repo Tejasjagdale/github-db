@@ -106,7 +106,7 @@
         "grp_work"
       ],
       "repeatEveryDays": 1,
-      "completeByTime": "08:44 PM",
+      "completeByTime": "08:46 PM",
       "trackStreak": true,
       "streak": {
         "current": 0,
