@@ -75,6 +75,21 @@
         }
       ],
       "isUrgent": false
+    },
+    {
+      "id": "c6515552-6691-49f0-9be2-bdb2c8d2264b",
+      "title": "idk",
+      "priority": "medium",
+      "groupIds": [],
+      "repeatEveryDays": 1,
+      "completeByTime": "05:25 PM",
+      "trackStreak": true,
+      "streak": {
+        "current": 0,
+        "longest": 0
+      },
+      "completedToday": null,
+      "isUrgent": true
     }
   ],
   "todos": [
@@ -113,8 +128,8 @@
       ],
       "deadline": "2026-02-18",
       "createdAt": "2026-02-10",
-      "completedAt": null,
-      "status": "pending",
+      "completedAt": "2026-02-19T11:42:49.095Z",
+      "status": "completed",
       "isOverdue": true
     },
     {
