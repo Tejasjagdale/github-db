@@ -25,10 +25,10 @@
       "completeByTime": "18:00",
       "trackStreak": true,
       "streak": {
-        "current": 7,
-        "longest": 7
+        "current": 0,
+        "longest": 6
       },
-      "completedToday": "2026-02-19",
+      "completedToday": null,
       "history": [
         {
           "date": "2026-02-13"
@@ -47,9 +47,6 @@
         },
         {
           "date": "2026-02-18"
-        },
-        {
-          "date": "2026-02-19"
         }
       ],
       "isUrgent": false
@@ -85,16 +82,12 @@
       "completeByTime": "05:25 PM",
       "trackStreak": true,
       "streak": {
-        "current": 1,
-        "longest": 1
+        "current": 0,
+        "longest": 0
       },
-      "completedToday": "2026-02-19",
+      "completedToday": null,
       "isUrgent": false,
-      "history": [
-        {
-          "date": "2026-02-19"
-        }
-      ]
+      "history": []
     },
     {
       "id": "f7c497da-5c56-457b-9878-5fa4fc4c9519",
@@ -105,16 +98,12 @@
       "completeByTime": "07:25 PM",
       "trackStreak": true,
       "streak": {
-        "current": 1,
-        "longest": 1
+        "current": 0,
+        "longest": 0
       },
-      "completedToday": "2026-02-19",
+      "completedToday": null,
       "isUrgent": false,
-      "history": [
-        {
-          "date": "2026-02-19"
-        }
-      ]
+      "history": []
     },
     {
       "id": "80309565-8bf0-49c6-9616-a24c57a5a4da",
@@ -127,16 +116,12 @@
       "completeByTime": "08:50 PM",
       "trackStreak": true,
       "streak": {
-        "current": 1,
-        "longest": 1
+        "current": 0,
+        "longest": 0
       },
-      "completedToday": "2026-02-19",
+      "completedToday": null,
       "isUrgent": false,
-      "history": [
-        {
-          "date": "2026-02-19"
-        }
-      ]
+      "history": []
     },
     {
       "id": "bba95345-ce37-491c-8ed0-e44f70365635",
@@ -147,16 +132,12 @@
       "completeByTime": "09:10 PM",
       "trackStreak": true,
       "streak": {
-        "current": 1,
-        "longest": 1
+        "current": 0,
+        "longest": 0
       },
-      "completedToday": "2026-02-19",
-      "isUrgent": true,
-      "history": [
-        {
-          "date": "2026-02-19"
-        }
-      ]
+      "completedToday": null,
+      "isUrgent": false,
+      "history": []
     },
     {
       "id": "9b07c6fe-117d-4105-90d2-f5061975d6c2",
@@ -167,16 +148,12 @@
       "completeByTime": "09:28 PM",
       "trackStreak": true,
       "streak": {
-        "current": 1,
-        "longest": 1
+        "current": 0,
+        "longest": 0
       },
-      "completedToday": "2026-02-19",
+      "completedToday": null,
       "isUrgent": false,
-      "history": [
-        {
-          "date": "2026-02-19"
-        }
-      ]
+      "history": []
     },
     {
       "id": "27acc960-2c55-4aa8-b9a3-7fa621754d11",
@@ -187,16 +164,12 @@
       "completeByTime": "10:02 PM",
       "trackStreak": true,
       "streak": {
-        "current": 1,
-        "longest": 1
+        "current": 0,
+        "longest": 0
       },
-      "completedToday": "2026-02-19",
+      "completedToday": null,
       "isUrgent": false,
-      "history": [
-        {
-          "date": "2026-02-19"
-        }
-      ]
+      "history": []
     }
   ],
   "todos": [
