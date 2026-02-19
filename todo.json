@@ -25,7 +25,7 @@
       "completeByTime": "18:00",
       "trackStreak": true,
       "streak": {
-        "current": 0,
+        "current": 2,
         "longest": 6
       },
       "completedToday": null,
@@ -50,7 +50,7 @@
       "completeByTime": "09:14 AM",
       "trackStreak": true,
       "streak": {
-        "current": 1,
+        "current": 2,
         "longest": 1
       },
       "completedToday": "2026-02-19",
@@ -68,7 +68,7 @@
       "completeByTime": "05:25 PM",
       "trackStreak": true,
       "streak": {
-        "current": 0,
+        "current": 1,
         "longest": 0
       },
       "completedToday": null,
