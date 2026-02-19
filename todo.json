@@ -32,7 +32,8 @@
         "current": 0,
         "longest": 0
       },
-      "lastCompleted": null
+      "lastCompleted": null,
+      "isUrgent": false
     },
     {
       "id": "routine_002",
@@ -48,7 +49,8 @@
         "current": 0,
         "longest": 3
       },
-      "completedToday": null
+      "completedToday": null,
+      "isUrgent": false
     },
     {
       "id": "e440fdf1-8459-49d9-ade5-7abfb4f9d136",
@@ -64,7 +66,8 @@
         "current": 0,
         "longest": 0
       },
-      "lastCompleted": null
+      "lastCompleted": null,
+      "isUrgent": false
     },
     {
       "id": "37f91360-45a4-4e0b-a049-9f97a1bd7a4d",
@@ -80,7 +83,8 @@
         "current": 0,
         "longest": 0
       },
-      "lastCompleted": null
+      "lastCompleted": null,
+      "isUrgent": false
     },
     {
       "id": "afb3f627-2165-4ae4-8409-e50112e880f7",
@@ -94,7 +98,23 @@
         "current": 0,
         "longest": 0
       },
-      "completedToday": "2026-02-18"
+      "completedToday": "2026-02-18",
+      "isUrgent": false
+    },
+    {
+      "id": "6e5d175c-1598-4a35-9449-27a4a586eea1",
+      "title": "yes",
+      "priority": "medium",
+      "groupIds": [],
+      "repeatEveryDays": 1,
+      "completeByTime": "04:20 PM",
+      "trackStreak": true,
+      "streak": {
+        "current": 0,
+        "longest": 0
+      },
+      "completedToday": null,
+      "isUrgent": true
     }
   ],
   "todos": [
@@ -120,7 +140,8 @@
       "deadline": "2026-02-20",
       "createdAt": "2026-02-10",
       "completedAt": null,
-      "status": "pending"
+      "status": "pending",
+      "isOverdue": false
     },
     {
       "id": "9338b4c9-4231-4622-af9b-893c56a97398",
