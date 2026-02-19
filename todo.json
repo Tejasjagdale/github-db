@@ -29,25 +29,13 @@
         "longest": 6
       },
       "completedToday": null,
-      "history": [
-        {
-          "date": "2026-02-13"
-        },
-        {
-          "date": "2026-02-14"
-        },
-        {
-          "date": "2026-02-15"
-        },
-        {
-          "date": "2026-02-16"
-        },
-        {
-          "date": "2026-02-17"
-        },
-        {
-          "date": "2026-02-18"
-        }
+      "history": [  
+           "2026-02-13",
+           "2026-02-14",
+           "2026-02-15",
+           "2026-02-16",
+           "2026-02-17",
+           "2026-02-18"
       ],
       "isUrgent": false
     },
@@ -67,11 +55,7 @@
       },
       "completedToday": "2026-02-19",
       "isUrgent": false,
-      "history": [
-        {
-          "date": "2026-02-19"
-        }
-      ]
+      "history": ["2026-02-19"]
     },
     {
       "id": "c6515552-6691-49f0-9be2-bdb2c8d2264b",
@@ -87,7 +71,7 @@
       },
       "completedToday": null,
       "isUrgent": false,
-      "history": []
+      "history": ["2026-02-19" ]
     },
     {
       "id": "f7c497da-5c56-457b-9878-5fa4fc4c9519",
@@ -103,7 +87,7 @@
       },
       "completedToday": null,
       "isUrgent": false,
-      "history": []
+      "history": ["2026-02-19", "2026-02-18"]
     },
     {
       "id": "80309565-8bf0-49c6-9616-a24c57a5a4da",
@@ -121,7 +105,7 @@
       },
       "completedToday": null,
       "isUrgent": false,
-      "history": []
+      "history": ["2026-02-19", "2026-02-18", "2026-02-17"]
     },
     {
       "id": "bba95345-ce37-491c-8ed0-e44f70365635",
@@ -137,7 +121,7 @@
       },
       "completedToday": null,
       "isUrgent": false,
-      "history": []
+      "history": ["2026-02-19", "2026-02-18", "2026-02-17"]
     },
     {
       "id": "9b07c6fe-117d-4105-90d2-f5061975d6c2",
@@ -153,7 +137,7 @@
       },
       "completedToday": null,
       "isUrgent": false,
-      "history": []
+      "history": ["2026-02-19", "2026-02-18", "2026-02-17"]
     },
     {
       "id": "27acc960-2c55-4aa8-b9a3-7fa621754d11",
@@ -169,7 +153,7 @@
       },
       "completedToday": null,
       "isUrgent": false,
-      "history": []
+      "history": ["2026-02-19", "2026-02-18", "2026-02-17"]
     }
   ],
   "todos": [
