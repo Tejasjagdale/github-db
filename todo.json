@@ -294,8 +294,8 @@
       "groupIds": [],
       "deadline": "2026-02-02",
       "createdAt": "2026-02-19T21:33:27.028Z",
-      "completedAt": null,
-      "status": "pending",
+      "completedAt": "2026-02-19T21:50:49.000Z",
+      "status": "completed",
       "isOverdue": true
     },
     {
