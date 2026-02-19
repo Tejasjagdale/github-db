@@ -113,7 +113,27 @@
         "longest": 0
       },
       "completedToday": null,
-      "isUrgent": true
+      "isUrgent": false
+    },
+    {
+      "id": "bba95345-ce37-491c-8ed0-e44f70365635",
+      "title": "test2",
+      "priority": "medium",
+      "groupIds": [],
+      "repeatEveryDays": 1,
+      "completeByTime": "09:10 PM",
+      "trackStreak": true,
+      "streak": {
+        "current": 1,
+        "longest": 1
+      },
+      "completedToday": "2026-02-19",
+      "isUrgent": true,
+      "history": [
+        {
+          "date": "2026-02-19"
+        }
+      ]
     }
   ],
   "todos": [
