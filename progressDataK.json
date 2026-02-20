@@ -1,0 +1,15 @@
+{
+  "profile": {
+    "name": "Komal",
+    "age": 26,
+    "gender": "female",
+    "heightCm": 160,
+    "goalWeight": 55,
+    "targetBMI": 0
+  },
+  "dailyWeight": {
+  },
+  "measurements": {},
+  "workouts": [],
+  "dailyHealth": {}
+}
