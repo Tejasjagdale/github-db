@@ -23,6 +23,18 @@
     {
       "id": "6b397706-3adf-4c3d-a611-aeaa7c69299e",
       "name": "Wishlist"
+    },
+    {
+      "id": "a6294fc4-f132-4cfb-8342-b5548e37e9cb",
+      "name": "Movies"
+    },
+    {
+      "id": "92e389b2-7e2e-4985-8b60-4d58aef3d265",
+      "name": "Finance"
+    },
+    {
+      "id": "b177bad7-3316-41b7-952a-10802396001d",
+      "name": "Research"
     }
   ],
   "routines": [
