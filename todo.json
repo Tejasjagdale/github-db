@@ -15,51 +15,6 @@
   ],
   "routines": [
     {
-      "id": "routine_water",
-      "title": "Drink 3L Water",
-      "priority": "medium",
-      "groupIds": [
-        "grp_health"
-      ],
-      "repeatEveryDays": 1,
-      "completeByTime": "18:00",
-      "trackStreak": true,
-      "streak": {
-        "current": 0,
-        "longest": 6
-      },
-      "completedToday": null,
-      "history": [
-        "2026-02-13",
-        "2026-02-14",
-        "2026-02-15",
-        "2026-02-16",
-        "2026-02-17",
-        "2026-02-18"
-      ],
-      "isUrgent": false
-    },
-    {
-      "id": "routine_study",
-      "title": "Study",
-      "priority": "high",
-      "groupIds": [
-        "grp_personal"
-      ],
-      "repeatEveryDays": 1,
-      "completeByTime": "09:14 AM",
-      "trackStreak": true,
-      "streak": {
-        "current": 1,
-        "longest": 1
-      },
-      "completedToday": "2026-02-19",
-      "isUrgent": false,
-      "history": [
-        "2026-02-19"
-      ]
-    },
-    {
       "id": "30ea84b1-ecc2-4626-8b52-926b3188fad2",
       "title": "Sleep on time",
       "priority": "high",
