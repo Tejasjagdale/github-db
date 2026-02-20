@@ -167,11 +167,10 @@
       "groupIds": [
         "grp_work"
       ],
-      "deadline": "2026-02-20",
+      "deadline": "2026-02-28",
       "createdAt": "2026-02-20T17:45:15.490Z",
       "completedAt": null,
-      "status": "pending",
-      "isOverdue": false
+      "status": "pending"
     },
     {
       "id": "2693ee18-7df4-4682-bd29-34eb95effce8",
@@ -180,11 +179,10 @@
       "groupIds": [
         "grp_work"
       ],
-      "deadline": "2026-02-20",
+      "deadline": "2026-02-28",
       "createdAt": "2026-02-20T17:45:20.016Z",
       "completedAt": null,
-      "status": "pending",
-      "isOverdue": false
+      "status": "pending"
     },
     {
       "id": "1ccc323a-a386-471d-bc08-fafe3865e04b",
@@ -193,11 +191,10 @@
       "groupIds": [
         "grp_work"
       ],
-      "deadline": "2026-02-20",
+      "deadline": "2026-02-28",
       "createdAt": "2026-02-20T17:45:24.816Z",
       "completedAt": null,
-      "status": "pending",
-      "isOverdue": false
+      "status": "pending"
     }
   ]
 }
