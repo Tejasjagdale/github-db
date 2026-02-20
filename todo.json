@@ -68,14 +68,14 @@
   ],
   "todos": [
     {
-      "id": "b07f5b10-72bc-4510-8100-0eceede6322f",
-      "title": "asasf",
-      "priority": "medium",
+      "id": "8e14faeb-5998-44a1-b443-1f56f6d03382",
+      "title": "New clothes",
+      "priority": "high",
       "groupIds": [
-        "grp_work"
+        "223cd08f-cac3-4b79-b3fa-483c1b9dd5b9"
       ],
-      "deadline": "2026-02-27",
-      "createdAt": "2026-02-19T11:34:00.703Z",
+      "deadline": "2026-03-06",
+      "createdAt": "2026-02-20T04:12:54.680Z",
       "completedAt": null,
       "status": "pending"
     }
