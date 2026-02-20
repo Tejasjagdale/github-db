@@ -153,42 +153,6 @@
       "status": "pending"
     },
     {
-      "id": "e76f79d0-9d9f-44cb-b846-2204f3c8b62a",
-      "title": "assafasf",
-      "priority": "medium",
-      "groupIds": [
-        "grp_health"
-      ],
-      "deadline": "2026-02-28",
-      "createdAt": "2026-02-20T17:34:24.656Z",
-      "completedAt": null,
-      "status": "pending"
-    },
-    {
-      "id": "3f2e2366-7639-42c7-ba0d-fd2151f503b1",
-      "title": "assafasfafasfasf",
-      "priority": "medium",
-      "groupIds": [
-        "grp_health"
-      ],
-      "deadline": "2026-02-28",
-      "createdAt": "2026-02-20T17:34:29.632Z",
-      "completedAt": null,
-      "status": "pending"
-    },
-    {
-      "id": "2c0a3b2f-8009-4918-a21f-99dd40441023",
-      "title": "fasf",
-      "priority": "medium",
-      "groupIds": [
-        "grp_health"
-      ],
-      "deadline": "2026-02-28",
-      "createdAt": "2026-02-20T17:34:35.784Z",
-      "completedAt": null,
-      "status": "pending"
-    },
-    {
       "id": "bee5e428-5b5d-4457-86c7-98f917e57a00",
       "title": "afafa",
       "priority": "medium",
@@ -200,42 +164,6 @@
       "completedAt": null,
       "status": "pending",
       "isOverdue": true
-    },
-    {
-      "id": "3c78af94-aa95-4e83-8f25-decd1c762010",
-      "title": "afafa",
-      "priority": "medium",
-      "groupIds": [
-        "grp_work"
-      ],
-      "deadline": "2026-02-28",
-      "createdAt": "2026-02-20T17:45:15.490Z",
-      "completedAt": null,
-      "status": "pending"
-    },
-    {
-      "id": "2693ee18-7df4-4682-bd29-34eb95effce8",
-      "title": "afafa 2",
-      "priority": "medium",
-      "groupIds": [
-        "grp_work"
-      ],
-      "deadline": "2026-02-28",
-      "createdAt": "2026-02-20T17:45:20.016Z",
-      "completedAt": null,
-      "status": "pending"
-    },
-    {
-      "id": "1ccc323a-a386-471d-bc08-fafe3865e04b",
-      "title": "a5",
-      "priority": "medium",
-      "groupIds": [
-        "grp_work"
-      ],
-      "deadline": "2026-02-28",
-      "createdAt": "2026-02-20T17:45:24.816Z",
-      "completedAt": null,
-      "status": "pending"
     }
   ]
 }
