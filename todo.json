@@ -92,6 +92,23 @@
       },
       "completedToday": null,
       "isUrgent": false
+    },
+    {
+      "id": "d2b1c66e-4f8f-45cc-9017-bb8e4fb29f91",
+      "title": "Morning exercise",
+      "priority": "medium",
+      "groupIds": [
+        "grp_health"
+      ],
+      "repeatEveryDays": 1,
+      "completeByTime": "08:00 AM",
+      "trackStreak": true,
+      "streak": {
+        "current": 0,
+        "longest": 0
+      },
+      "completedToday": null,
+      "isUrgent": false
     }
   ],
   "todos": [
