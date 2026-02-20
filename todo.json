@@ -93,19 +93,6 @@
       "isOverdue": false
     },
     {
-      "id": "todo_done",
-      "title": "Gym Shoes",
-      "priority": "low",
-      "groupIds": [
-        "grp_health"
-      ],
-      "deadline": "2026-02-18",
-      "createdAt": "2026-02-10",
-      "completedAt": "2026-02-19T11:42:49.095Z",
-      "status": "completed",
-      "isOverdue": true
-    },
-    {
       "id": "b07f5b10-72bc-4510-8100-0eceede6322f",
       "title": "asasf",
       "priority": "medium",
@@ -149,17 +136,6 @@
       "completedAt": null,
       "status": "pending",
       "isOverdue": false
-    },
-    {
-      "id": "c3d3a3b3-5a7b-480f-b06a-a79af5abdf96",
-      "title": "tetsung askdhaf askfgashkf khgaasfkgafkgasfkg",
-      "priority": "medium",
-      "groupIds": [],
-      "deadline": "2026-02-02",
-      "createdAt": "2026-02-19T21:33:27.028Z",
-      "completedAt": "2026-02-19T21:50:49.000Z",
-      "status": "completed",
-      "isOverdue": true
     }
   ]
 }
