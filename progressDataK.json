@@ -5,10 +5,9 @@
     "gender": "female",
     "heightCm": 160,
     "goalWeight": 55,
-    "targetBMI": 0
+    "targetBMI": 21.5
   },
-  "dailyWeight": {
-  },
+  "dailyWeight": {},
   "measurements": {},
   "workouts": [],
   "dailyHealth": {}
