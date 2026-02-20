@@ -110,7 +110,8 @@
       "priority": "high",
       "groupIds": [
         "db8c2269-eaf9-4428-a70b-76594d014845",
-        "f1123565-6beb-4eb4-b93e-b3dda51a58eb"
+        "f1123565-6beb-4eb4-b93e-b3dda51a58eb",
+        "grp_health"
       ],
       "deadline": "2026-02-28",
       "createdAt": "2026-02-20T04:16:58.977Z",
