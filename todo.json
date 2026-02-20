@@ -182,19 +182,6 @@
   ],
   "todos": [
     {
-      "id": "todo_dev",
-      "title": "Finish Bridge UI",
-      "priority": "high",
-      "groupIds": [
-        "grp_work"
-      ],
-      "deadline": "2026-02-19",
-      "createdAt": "2026-02-15",
-      "completedAt": null,
-      "status": "pending",
-      "isOverdue": true
-    },
-    {
       "id": "todo_laptop",
       "title": "Buy laptop table",
       "priority": "medium",
@@ -244,17 +231,6 @@
       "isOverdue": false
     },
     {
-      "id": "2e47f691-3c8a-444b-aea9-2cdb6ccb57d5",
-      "title": "testin2",
-      "priority": "medium",
-      "groupIds": [],
-      "deadline": "2026-02-19",
-      "createdAt": "2026-02-19T21:29:11.908Z",
-      "completedAt": null,
-      "status": "pending",
-      "isOverdue": true
-    },
-    {
       "id": "edc05752-bc90-41e4-b5d5-095ba055abc9",
       "title": "testin3",
       "priority": "medium",
@@ -277,17 +253,6 @@
       "isOverdue": false
     },
     {
-      "id": "90c6a326-b964-41fd-a9d9-6b4c45bb004d",
-      "title": "tetsung askdhaf askfgashkf khgasfkgasfkgafkgasfkg",
-      "priority": "medium",
-      "groupIds": [],
-      "deadline": "2026-02-18",
-      "createdAt": "2026-02-19T21:33:18.300Z",
-      "completedAt": null,
-      "status": "pending",
-      "isOverdue": true
-    },
-    {
       "id": "c3d3a3b3-5a7b-480f-b06a-a79af5abdf96",
       "title": "tetsung askdhaf askfgashkf khgaasfkgafkgasfkg",
       "priority": "medium",
@@ -296,17 +261,6 @@
       "createdAt": "2026-02-19T21:33:27.028Z",
       "completedAt": "2026-02-19T21:50:49.000Z",
       "status": "completed",
-      "isOverdue": true
-    },
-    {
-      "id": "85c072a1-a8d3-487a-99f4-3aa541ecc38c",
-      "title": "tetsung askdhaf afdfdsgsdgsdgsdsdgsdg sd gsdgdsgsdgsdgsdgsdgdsg",
-      "priority": "medium",
-      "groupIds": [],
-      "deadline": "2026-02-10",
-      "createdAt": "2026-02-19T21:33:36.549Z",
-      "completedAt": null,
-      "status": "pending",
       "isOverdue": true
     }
   ]
