@@ -162,19 +162,6 @@
       "createdAt": "2026-02-20T04:16:58.977Z",
       "completedAt": null,
       "status": "pending"
-    },
-    {
-      "id": "bee5e428-5b5d-4457-86c7-98f917e57a00",
-      "title": "afafa",
-      "priority": "medium",
-      "groupIds": [
-        "grp_work"
-      ],
-      "deadline": "2026-02-19",
-      "createdAt": "2026-02-20T17:44:29.338Z",
-      "completedAt": null,
-      "status": "pending",
-      "isOverdue": true
     }
   ]
 }
