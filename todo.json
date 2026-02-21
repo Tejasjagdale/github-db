@@ -85,10 +85,13 @@
       "title": "Switch preparation",
       "priority": "medium",
       "groupIds": [
-        "a242adb3-484a-4a98-9970-55cb0dc428c8"
+        "a242adb3-484a-4a98-9970-55cb0dc428c8",
+        "grp_personal",
+        "6b397706-3adf-4c3d-a611-aeaa7c69299e",
+        "grp_work"
       ],
       "repeatEveryDays": 1,
-      "completeByTime": "10:00 PM",
+      "completeByTime": "Invalid Date",
       "trackStreak": true,
       "streak": {
         "current": 0,
