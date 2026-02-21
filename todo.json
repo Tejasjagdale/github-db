@@ -235,8 +235,8 @@
       ],
       "deadline": "2026-02-28",
       "createdAt": "2026-02-20T04:16:58.977Z",
-      "completedAt": "2026-02-21T18:06:26.000Z",
-      "status": "completed"
+      "completedAt": null,
+      "status": "pending"
     }
   ]
 }
