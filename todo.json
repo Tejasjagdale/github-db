@@ -91,7 +91,7 @@
         "grp_work"
       ],
       "repeatEveryDays": 1,
-      "completeByTime": "Invalid Date",
+      "completeByTime": "10:00 PM",
       "trackStreak": true,
       "streak": {
         "current": 0,
