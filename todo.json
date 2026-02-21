@@ -109,6 +109,40 @@
       },
       "completedToday": null,
       "isUrgent": false
+    },
+    {
+      "id": "7f3a45de-32b2-4fa2-8e7f-b54a67c24aea",
+      "title": "Morning warm water",
+      "priority": "medium",
+      "groupIds": [
+        "grp_health"
+      ],
+      "repeatEveryDays": 1,
+      "completeByTime": "07:00 AM",
+      "trackStreak": true,
+      "streak": {
+        "current": 0,
+        "longest": 0
+      },
+      "completedToday": null,
+      "isUrgent": false
+    },
+    {
+      "id": "53e0af72-97bb-477a-9d62-ccbbfa025392",
+      "title": "Daily workout",
+      "priority": "high",
+      "groupIds": [
+        "grp_health"
+      ],
+      "repeatEveryDays": 1,
+      "completeByTime": "07:00 PM",
+      "trackStreak": true,
+      "streak": {
+        "current": 0,
+        "longest": 0
+      },
+      "completedToday": null,
+      "isUrgent": false
     }
   ],
   "todos": [
