@@ -3,9 +3,9 @@
     "name": "Komal",
     "age": 26,
     "gender": "female",
-    "heightCm": 160,
+    "heightCm": 155,
     "goalWeight": 55,
-    "targetBMI": 21.5
+    "targetBMI": 22.9
   },
   "dailyWeight": {
     "2024-07-03": 59,
