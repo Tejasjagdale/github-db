@@ -114,10 +114,9 @@
         "current": 1,
         "longest": 1
       },
-      "completedToday": "2026-02-21",
+      "completedToday": null,
       "isUrgent": false,
       "history": [
-        "2026-02-21"
       ]
     },
     {
