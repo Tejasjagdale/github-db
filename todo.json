@@ -268,6 +268,23 @@
       },
       "completedToday": null,
       "isUrgent": false
+    },
+    {
+      "id": "bd0ccfef-1db4-4a5b-bbd6-b266a422a3d2",
+      "title": "Water alert",
+      "priority": "high",
+      "groupIds": [
+        "grp_health"
+      ],
+      "repeatEveryDays": 1,
+      "completeByTime": "03:30 PM",
+      "trackStreak": true,
+      "streak": {
+        "current": 0,
+        "longest": 0
+      },
+      "completedToday": null,
+      "isUrgent": false
     }
   ],
   "todos": [
