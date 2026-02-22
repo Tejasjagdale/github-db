@@ -111,11 +111,14 @@
       "completeByTime": "08:00 AM",
       "trackStreak": true,
       "streak": {
-        "current": 0,
-        "longest": 0
+        "current": 1,
+        "longest": 1
       },
-      "completedToday": null,
-      "isUrgent": false
+      "completedToday": "2026-02-22",
+      "isUrgent": false,
+      "history": [
+        "2026-02-22"
+      ]
     },
     {
       "id": "7f3a45de-32b2-4fa2-8e7f-b54a67c24aea",
