@@ -4,5 +4,83 @@
     "yoga mat",
     "bed"
   ],
-  "variants": []
+  "variants": [
+    {
+      "id": "7a4e710e-83df-4017-98aa-0a2c74c76a5b",
+      "variantName": "Morning Meditation",
+      "exercisesList": [
+        {
+          "name": "push ups",
+          "sets": 2,
+          "reps": "5"
+        },
+        {
+          "name": "Pranayam",
+          "sets": 2,
+          "reps": "60 sec"
+        },
+        {
+          "name": "surya namaskar",
+          "sets": 2,
+          "reps": "5"
+        }
+      ],
+      "exerciseOrder": [
+        {
+          "step": 1,
+          "name": "push ups",
+          "set": 1,
+          "reps": "5",
+          "restSeconds": 60,
+          "equipment": [
+            "yoga mat"
+          ]
+        },
+        {
+          "step": 2,
+          "name": "push ups",
+          "set": 2,
+          "reps": "6",
+          "restSeconds": 60,
+          "equipment": []
+        },
+        {
+          "step": 3,
+          "name": "Pranayam",
+          "set": 1,
+          "reps": "60 sec",
+          "restSeconds": 60,
+          "equipment": [
+            "yoga mat"
+          ]
+        },
+        {
+          "step": 4,
+          "name": "Pranayam",
+          "set": 2,
+          "reps": "60 sec",
+          "restSeconds": 60,
+          "equipment": []
+        },
+        {
+          "step": 5,
+          "name": "surya namaskar",
+          "set": 1,
+          "reps": "5",
+          "restSeconds": 60,
+          "equipment": [
+            "yoga mat"
+          ]
+        },
+        {
+          "step": 6,
+          "name": "surya namaskar",
+          "set": 2,
+          "reps": "8",
+          "restSeconds": 60,
+          "equipment": []
+        }
+      ]
+    }
+  ]
 }
