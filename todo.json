@@ -274,6 +274,18 @@
       "completedAt": null,
       "status": "pending",
       "isOverdue": false
+    },
+    {
+      "id": "1b801bea-d1fa-4060-b683-db8e4b6b90ea",
+      "title": "Fit track update",
+      "priority": "medium",
+      "groupIds": [
+        "grp_personal"
+      ],
+      "deadline": "2026-02-28",
+      "createdAt": "2026-02-22T10:52:58.288Z",
+      "completedAt": null,
+      "status": "pending"
     }
   ]
 }
