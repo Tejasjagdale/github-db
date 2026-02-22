@@ -268,7 +268,7 @@
         "longest": 0
       },
       "completedToday": null,
-      "isUrgent": true
+      "isUrgent": false
     }
   ],
   "todos": [
@@ -369,6 +369,18 @@
       ],
       "deadline": "2026-02-28",
       "createdAt": "2026-02-22T10:52:58.288Z",
+      "completedAt": null,
+      "status": "pending"
+    },
+    {
+      "id": "db213cc3-0f46-49b6-8420-cb0376edbb2e",
+      "title": "Check salary",
+      "priority": "medium",
+      "groupIds": [
+        "92e389b2-7e2e-4985-8b60-4d58aef3d265"
+      ],
+      "deadline": "2026-02-28",
+      "createdAt": "2026-02-22T12:11:05.249Z",
       "completedAt": null,
       "status": "pending"
     }
