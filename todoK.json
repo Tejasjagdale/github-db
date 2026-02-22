@@ -106,6 +106,23 @@
       },
       "completedToday": null,
       "isUrgent": false
+    },
+    {
+      "id": "16bd7fcc-c0d8-40c8-8937-91619f3a4ab1",
+      "title": "PG preparation",
+      "priority": "high",
+      "groupIds": [
+        "ec95d6d1-5b2b-4df7-a361-76c0a0825639"
+      ],
+      "repeatEveryDays": 1,
+      "completeByTime": "09:45 PM",
+      "trackStreak": true,
+      "streak": {
+        "current": 0,
+        "longest": 0
+      },
+      "completedToday": null,
+      "isUrgent": false
     }
   ],
   "todos": [
