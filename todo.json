@@ -78,7 +78,7 @@
         "longest": 0
       },
       "completedToday": null,
-      "isUrgent": false
+      "isUrgent": true
     },
     {
       "id": "05f617e4-9e2d-4cad-8495-c855fa864f68",
@@ -90,7 +90,7 @@
         "grp_work"
       ],
       "repeatEveryDays": 1,
-      "completeByTime": "10:00 PM",
+      "completeByTime": "09:00 PM",
       "trackStreak": true,
       "streak": {
         "current": 0,
@@ -165,7 +165,7 @@
         "longest": 0
       },
       "completedToday": null,
-      "isUrgent": false
+      "isUrgent": true
     },
     {
       "id": "e5b66904-1ea6-4ba6-be7f-0cbd54fb3c71",
@@ -221,22 +221,18 @@
     {
       "id": "9d329d11-5ef6-497e-a8e4-d305e081d7c8",
       "title": "Dinner",
-      "priority": "high",
+      "priority": "medium",
       "groupIds": [
         "grp_health"
       ],
       "repeatEveryDays": 1,
-      "completeByTime": "09:00 PM",
+      "completeByTime": "08:30 AM",
       "trackStreak": true,
       "streak": {
         "current": 1,
         "longest": 1
       },
-      "completedToday": "2026-02-22",
-      "isUrgent": false,
-      "history": [
-        "2026-02-22"
-      ]
+      "completedToday": "2026-02-22"
     },
     {
       "id": "a86ffca7-b362-4d9c-9596-06af59f697fa",
