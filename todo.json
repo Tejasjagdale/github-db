@@ -54,7 +54,7 @@
         "grp_health"
       ],
       "repeatEveryDays": 1,
-      "completeByTime": "11:00 PM",
+      "completeByTime": "10:30 PM",
       "trackStreak": true,
       "streak": {
         "current": 0,
@@ -97,7 +97,7 @@
         "longest": 0
       },
       "completedToday": null,
-      "isUrgent": true
+      "isUrgent": false
     },
     {
       "id": "7f3a45de-32b2-4fa2-8e7f-b54a67c24aea",
