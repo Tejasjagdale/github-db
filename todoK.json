@@ -140,6 +140,23 @@
       },
       "completedToday": null,
       "isUrgent": true
+    },
+    {
+      "id": "52818349-61f7-4751-a80b-7570650e4d1e",
+      "title": "Fruits",
+      "priority": "medium",
+      "groupIds": [
+        "grp_health"
+      ],
+      "repeatEveryDays": 1,
+      "completeByTime": "09:00 AM",
+      "trackStreak": true,
+      "streak": {
+        "current": 0,
+        "longest": 0
+      },
+      "completedToday": null,
+      "isUrgent": true
     }
   ],
   "todos": [
