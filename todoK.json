@@ -128,57 +128,6 @@
       "isUrgent": false
     },
     {
-      "id": "c371b3af-c305-4c85-936b-f69a4d0c4bd0",
-      "title": "Fruits",
-      "priority": "medium",
-      "groupIds": [
-        "grp_health"
-      ],
-      "repeatEveryDays": 1,
-      "completeByTime": "09:00 AM",
-      "trackStreak": true,
-      "streak": {
-        "current": 0,
-        "longest": 0
-      },
-      "completedToday": null,
-      "isUrgent": true
-    },
-    {
-      "id": "52818349-61f7-4751-a80b-7570650e4d1e",
-      "title": "Fruits",
-      "priority": "medium",
-      "groupIds": [
-        "grp_health"
-      ],
-      "repeatEveryDays": 1,
-      "completeByTime": "09:00 AM",
-      "trackStreak": true,
-      "streak": {
-        "current": 0,
-        "longest": 0
-      },
-      "completedToday": null,
-      "isUrgent": true
-    },
-    {
-      "id": "4e46fc44-b9af-482f-8ae5-5394bc416717",
-      "title": "Fruits",
-      "priority": "medium",
-      "groupIds": [
-        "grp_health"
-      ],
-      "repeatEveryDays": 1,
-      "completeByTime": "09:00 AM",
-      "trackStreak": true,
-      "streak": {
-        "current": 0,
-        "longest": 0
-      },
-      "completedToday": null,
-      "isUrgent": true
-    },
-    {
       "id": "6b654c72-a5b1-498b-8cef-1ba615b65735",
       "title": "Fruits ",
       "priority": "medium",
@@ -189,11 +138,14 @@
       "completeByTime": "09:00 AM",
       "trackStreak": true,
       "streak": {
-        "current": 0,
-        "longest": 0
+        "current": 1,
+        "longest": 1
       },
-      "completedToday": null,
-      "isUrgent": true
+      "completedToday": "2026-02-23",
+      "isUrgent": true,
+      "history": [
+        "2026-02-23"
+      ]
     }
   ],
   "todos": [
