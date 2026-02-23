@@ -473,6 +473,19 @@
       "completedAt": null,
       "status": "pending",
       "isOverdue": false
+    },
+    {
+      "id": "45f7d2a9-645f-4945-8b98-744f60a43c6f",
+      "title": "Groceries restock",
+      "priority": "high",
+      "groupIds": [
+        "404eaef8-2fc8-428b-8453-9ab3ccba3a79"
+      ],
+      "deadline": "2026-02-23",
+      "createdAt": "2026-02-23T15:28:19.722Z",
+      "completedAt": null,
+      "status": "pending",
+      "isOverdue": false
     }
   ]
 }
