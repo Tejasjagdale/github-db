@@ -144,17 +144,13 @@
         "grp_health"
       ],
       "repeatEveryDays": 1,
-      "completeByTime": "08:00 AM",
+      "completeByTime": "07:30 AM",
       "trackStreak": true,
       "streak": {
         "current": 1,
         "longest": 1
       },
-      "completedToday": "2026-02-23",
-      "isUrgent": false,
-      "history": [
-        "2026-02-23"
-      ]
+      "completedToday": "2026-02-23"
     },
     {
       "id": "e4fe87b0-700d-41f7-a58f-05047ff0f9fa",
@@ -198,17 +194,13 @@
         "grp_health"
       ],
       "repeatEveryDays": 1,
-      "completeByTime": "08:00 AM",
+      "completeByTime": "07:45 AM",
       "trackStreak": true,
       "streak": {
         "current": 1,
         "longest": 1
       },
-      "completedToday": "2026-02-23",
-      "isUrgent": false,
-      "history": [
-        "2026-02-23"
-      ]
+      "completedToday": "2026-02-23"
     },
     {
       "id": "be86fcc6-72c5-43ed-8354-7d7209c0374a",
