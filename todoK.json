@@ -33,11 +33,14 @@
       "completeByTime": "11:00 PM",
       "trackStreak": true,
       "streak": {
-        "current": 0,
-        "longest": 0
+        "current": 1,
+        "longest": 1
       },
-      "completedToday": null,
-      "isUrgent": false
+      "completedToday": "2026-02-24",
+      "isUrgent": false,
+      "history": [
+        "2026-02-24"
+      ]
     },
     {
       "id": "3a002272-96e6-4b2a-b340-4eb20fe00961",
@@ -50,11 +53,14 @@
       "completeByTime": "10:00 PM",
       "trackStreak": true,
       "streak": {
-        "current": 0,
-        "longest": 0
+        "current": 1,
+        "longest": 1
       },
-      "completedToday": null,
-      "isUrgent": false
+      "completedToday": "2026-02-24",
+      "isUrgent": false,
+      "history": [
+        "2026-02-24"
+      ]
     },
     {
       "id": "95672eab-4621-4a93-b92a-bf78723b3aaa",
@@ -104,13 +110,14 @@
       "completeByTime": "05:00 PM",
       "trackStreak": true,
       "streak": {
-        "current": 1,
-        "longest": 1
+        "current": 2,
+        "longest": 2
       },
-      "completedToday": "2026-02-23",
+      "completedToday": "2026-02-24",
       "isUrgent": false,
       "history": [
-        "2026-02-23"
+        "2026-02-23",
+        "2026-02-24"
       ]
     },
     {
@@ -141,13 +148,14 @@
       "completeByTime": "09:00 AM",
       "trackStreak": true,
       "streak": {
-        "current": 1,
-        "longest": 1
+        "current": 2,
+        "longest": 2
       },
-      "completedToday": "2026-02-23",
+      "completedToday": "2026-02-24",
       "isUrgent": false,
       "history": [
-        "2026-02-23"
+        "2026-02-23",
+        "2026-02-24"
       ]
     },
     {
@@ -161,11 +169,14 @@
       "completeByTime": "01:30 PM",
       "trackStreak": true,
       "streak": {
-        "current": 0,
-        "longest": 0
+        "current": 1,
+        "longest": 1
       },
-      "completedToday": null,
-      "isUrgent": false
+      "completedToday": "2026-02-24",
+      "isUrgent": false,
+      "history": [
+        "2026-02-24"
+      ]
     }
   ],
   "todos": [
