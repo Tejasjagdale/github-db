@@ -277,13 +277,14 @@
       "completeByTime": "01:30 PM",
       "trackStreak": true,
       "streak": {
-        "current": 1,
-        "longest": 1
+        "current": 2,
+        "longest": 2
       },
-      "completedToday": "2026-02-23",
+      "completedToday": "2026-02-24",
       "isUrgent": false,
       "history": [
-        "2026-02-23"
+        "2026-02-23",
+        "2026-02-24"
       ]
     },
     {
@@ -510,8 +511,8 @@
       ],
       "deadline": "2026-02-23",
       "createdAt": "2026-02-23T15:28:19.722Z",
-      "completedAt": null,
-      "status": "pending",
+      "completedAt": "2026-02-24T09:24:38.000Z",
+      "status": "completed",
       "isOverdue": true
     }
   ]
