@@ -128,7 +128,7 @@
         "longest": 0
       },
       "completedToday": null,
-      "isUrgent": true
+      "isUrgent": false
     },
     {
       "id": "6b654c72-a5b1-498b-8cef-1ba615b65735",
@@ -145,10 +145,27 @@
         "longest": 1
       },
       "completedToday": "2026-02-23",
-      "isUrgent": true,
+      "isUrgent": false,
       "history": [
         "2026-02-23"
       ]
+    },
+    {
+      "id": "bf84328f-f9ac-4d34-a61d-e49f5ef46acf",
+      "title": "Lunch",
+      "priority": "high",
+      "groupIds": [
+        "grp_health"
+      ],
+      "repeatEveryDays": 1,
+      "completeByTime": "01:30 PM",
+      "trackStreak": true,
+      "streak": {
+        "current": 0,
+        "longest": 0
+      },
+      "completedToday": null,
+      "isUrgent": false
     }
   ],
   "todos": [
