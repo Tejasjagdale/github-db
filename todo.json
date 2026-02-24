@@ -160,8 +160,11 @@
         "current": 1,
         "longest": 1
       },
-      "completedToday": "2026-02-23",
-      "isUrgent": false
+      "completedToday": "2026-02-24",
+      "isUrgent": false,
+      "history": [
+        "2026-02-24"
+      ]
     },
     {
       "id": "e4fe87b0-700d-41f7-a58f-05047ff0f9fa",
