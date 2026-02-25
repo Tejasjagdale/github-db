@@ -599,12 +599,12 @@
         {
           "name": "Single-Arm Dumbbell Floor Press",
           "sets": 3,
-          "reps": "6-8 each"
+          "reps": "8"
         },
         {
           "name": "Incline Dumbbell Press",
           "sets": 4,
-          "reps": "8-10"
+          "reps": "6"
         },
         {
           "name": "Dumbbell Pullover",
@@ -662,7 +662,7 @@
           "step": 5,
           "name": "Single-Arm Dumbbell Floor Press",
           "set": 1,
-          "reps": "6-8 each",
+          "reps": "8",
           "restSeconds": 90,
           "equipment": [
             "10Kg dumbbell",
@@ -673,7 +673,7 @@
           "step": 6,
           "name": "Single-Arm Dumbbell Floor Press",
           "set": 2,
-          "reps": "6-8 each",
+          "reps": "8",
           "restSeconds": 90,
           "equipment": [
             "10Kg dumbbell",
@@ -684,7 +684,7 @@
           "step": 7,
           "name": "Single-Arm Dumbbell Floor Press",
           "set": 3,
-          "reps": "6-8 each",
+          "reps": "8",
           "restSeconds": 90,
           "equipment": [
             "10Kg dumbbell",
@@ -695,44 +695,44 @@
           "step": 8,
           "name": "Incline Dumbbell Press",
           "set": 1,
-          "reps": "8-10",
+          "reps": "6",
           "restSeconds": 75,
           "equipment": [
-            "10Kg dumbbell",
-            "yoga mat"
+            "yoga mat",
+            "15Kg dumbbell"
           ]
         },
         {
           "step": 9,
           "name": "Incline Dumbbell Press",
           "set": 2,
-          "reps": "8-10",
+          "reps": "6",
           "restSeconds": 75,
           "equipment": [
-            "10Kg dumbbell",
-            "yoga mat"
+            "yoga mat",
+            "15Kg dumbbell"
           ]
         },
         {
           "step": 10,
           "name": "Incline Dumbbell Press",
           "set": 3,
-          "reps": "8-10",
+          "reps": "6",
           "restSeconds": 75,
           "equipment": [
-            "10Kg dumbbell",
-            "yoga mat"
+            "yoga mat",
+            "15Kg dumbbell"
           ]
         },
         {
           "step": 11,
           "name": "Incline Dumbbell Press",
           "set": 4,
-          "reps": "8-10",
+          "reps": "6",
           "restSeconds": 100,
           "equipment": [
-            "10Kg dumbbell",
-            "yoga mat"
+            "yoga mat",
+            "15Kg dumbbell"
           ]
         },
         {
@@ -750,7 +750,7 @@
           "step": 13,
           "name": "Dumbbell Pullover",
           "set": 2,
-          "reps": "8-10",
+          "reps": "8",
           "restSeconds": 75,
           "equipment": [
             "15Kg dumbbell",
@@ -761,7 +761,7 @@
           "step": 14,
           "name": "Dumbbell Pullover",
           "set": 3,
-          "reps": "8-10",
+          "reps": "8",
           "restSeconds": 120,
           "equipment": [
             "15Kg dumbbell",
