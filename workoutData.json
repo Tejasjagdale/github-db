@@ -14,22 +14,22 @@
         {
           "name": "Single-Arm Dumbbell Curl",
           "sets": 4,
-          "reps": "5-7"
+          "reps": "12"
         },
         {
           "name": "Neutral-Grip Dumbbell Floor Press",
           "sets": 4,
-          "reps": "6-8"
+          "reps": "8"
         },
         {
           "name": "Hammer Curl",
           "sets": 3,
-          "reps": "8-10"
+          "reps": "8"
         },
         {
           "name": "Close-Grip Push-ups (Slow)",
           "sets": 3,
-          "reps": "10-15"
+          "reps": "12"
         },
         {
           "name": "Farmer Hold",
@@ -42,8 +42,8 @@
           "step": 1,
           "name": "Single-Arm Dumbbell Curl",
           "set": 1,
-          "reps": "5-7",
-          "restSeconds": 90,
+          "reps": "12",
+          "restSeconds": 85,
           "equipment": [
             "10Kg dumbbell"
           ]
@@ -52,8 +52,8 @@
           "step": 2,
           "name": "Single-Arm Dumbbell Curl",
           "set": 2,
-          "reps": "5-7",
-          "restSeconds": 90,
+          "reps": "10",
+          "restSeconds": 85,
           "equipment": [
             "10Kg dumbbell"
           ]
@@ -62,7 +62,7 @@
           "step": 3,
           "name": "Single-Arm Dumbbell Curl",
           "set": 3,
-          "reps": "5-7",
+          "reps": "8",
           "restSeconds": 90,
           "equipment": [
             "10Kg dumbbell"
@@ -72,7 +72,7 @@
           "step": 4,
           "name": "Single-Arm Dumbbell Curl",
           "set": 4,
-          "reps": "5-7",
+          "reps": "6",
           "restSeconds": 120,
           "equipment": [
             "10Kg dumbbell"
@@ -82,8 +82,8 @@
           "step": 5,
           "name": "Neutral-Grip Dumbbell Floor Press",
           "set": 1,
-          "reps": "6-8",
-          "restSeconds": 120,
+          "reps": "8",
+          "restSeconds": 110,
           "equipment": [
             "10Kg dumbbell",
             "yoga mat"
@@ -93,8 +93,8 @@
           "step": 6,
           "name": "Neutral-Grip Dumbbell Floor Press",
           "set": 2,
-          "reps": "6-8",
-          "restSeconds": 120,
+          "reps": "8",
+          "restSeconds": 110,
           "equipment": [
             "10Kg dumbbell",
             "yoga mat"
@@ -104,8 +104,8 @@
           "step": 7,
           "name": "Neutral-Grip Dumbbell Floor Press",
           "set": 3,
-          "reps": "6-8",
-          "restSeconds": 120,
+          "reps": "8",
+          "restSeconds": 110,
           "equipment": [
             "10Kg dumbbell",
             "yoga mat"
@@ -115,8 +115,8 @@
           "step": 8,
           "name": "Neutral-Grip Dumbbell Floor Press",
           "set": 4,
-          "reps": "6-8",
-          "restSeconds": 150,
+          "reps": "8",
+          "restSeconds": 130,
           "equipment": [
             "10Kg dumbbell",
             "yoga mat"
@@ -126,7 +126,7 @@
           "step": 9,
           "name": "Hammer Curl",
           "set": 1,
-          "reps": "8-10",
+          "reps": "8",
           "restSeconds": 75,
           "equipment": [
             "15Kg dumbbell"
@@ -136,7 +136,7 @@
           "step": 10,
           "name": "Hammer Curl",
           "set": 2,
-          "reps": "8-10",
+          "reps": "8",
           "restSeconds": 75,
           "equipment": [
             "15Kg dumbbell"
@@ -146,7 +146,7 @@
           "step": 11,
           "name": "Hammer Curl",
           "set": 3,
-          "reps": "8-10",
+          "reps": "8",
           "restSeconds": 100,
           "equipment": [
             "15Kg dumbbell"
@@ -156,7 +156,7 @@
           "step": 12,
           "name": "Close-Grip Push-ups (Slow)",
           "set": 1,
-          "reps": "10-15",
+          "reps": "12",
           "restSeconds": 75,
           "equipment": []
         },
@@ -164,7 +164,7 @@
           "step": 13,
           "name": "Close-Grip Push-ups (Slow)",
           "set": 2,
-          "reps": "10-15",
+          "reps": "12",
           "restSeconds": 75,
           "equipment": []
         },
@@ -172,7 +172,7 @@
           "step": 14,
           "name": "Close-Grip Push-ups (Slow)",
           "set": 3,
-          "reps": "10-15",
+          "reps": "12",
           "restSeconds": 100,
           "equipment": []
         },
