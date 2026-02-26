@@ -175,10 +175,11 @@
         "current": 1,
         "longest": 1
       },
-      "completedToday": "2026-02-24",
+      "completedToday": "2026-02-26",
       "isUrgent": false,
       "history": [
-        "2026-02-24"
+        "2026-02-24",
+        "2026-02-26"
       ]
     }
   ],
