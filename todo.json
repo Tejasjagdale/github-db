@@ -81,7 +81,7 @@
         "longest": 2
       },
       "completedToday": "2026-02-25",
-      "isUrgent": true,
+      "isUrgent": false,
       "history": [
         "2026-02-23",
         "2026-02-24",
@@ -118,15 +118,16 @@
       "completeByTime": "07:00 AM",
       "trackStreak": true,
       "streak": {
-        "current": 3,
-        "longest": 3
+        "current": 4,
+        "longest": 4
       },
-      "completedToday": "2026-02-25",
+      "completedToday": "2026-02-26",
       "isUrgent": false,
       "history": [
         "2026-02-23",
         "2026-02-24",
-        "2026-02-25"
+        "2026-02-25",
+        "2026-02-26"
       ]
     },
     {
@@ -187,10 +188,10 @@
         "longest": 1
       },
       "completedToday": "2026-02-25",
-      "isUrgent": true,
+      "isUrgent": false,
       "history": [
         "2026-02-23",
-"2026-02-25"
+        "2026-02-25"
       ]
     },
     {
@@ -225,14 +226,15 @@
       "completeByTime": "07:45 AM",
       "trackStreak": true,
       "streak": {
-        "current": 2,
-        "longest": 2
+        "current": 3,
+        "longest": 3
       },
-      "completedToday": "2026-02-25",
+      "completedToday": "2026-02-26",
       "isUrgent": false,
       "history": [
         "2026-02-24",
-        "2026-02-25"
+        "2026-02-25",
+        "2026-02-26"
       ]
     },
     {
@@ -254,7 +256,7 @@
       "history": [
         "2026-02-23",
         "2026-02-24",
-"2026-02-25"
+        "2026-02-25"
       ]
     },
     {
@@ -395,7 +397,8 @@
       "deadline": "2026-02-28",
       "createdAt": "2026-02-20T04:16:58.977Z",
       "completedAt": null,
-      "status": "pending"
+      "status": "pending",
+      "isOverdue": false
     },
     {
       "id": "91f2e48a-c2af-4f7f-8c9a-ab3c61bd6dc2",
@@ -445,7 +448,8 @@
       "deadline": "2026-02-28",
       "createdAt": "2026-02-22T10:52:58.288Z",
       "completedAt": null,
-      "status": "pending"
+      "status": "pending",
+      "isOverdue": false
     },
     {
       "id": "db213cc3-0f46-49b6-8420-cb0376edbb2e",
@@ -457,7 +461,8 @@
       "deadline": "2026-02-28",
       "createdAt": "2026-02-22T12:11:05.249Z",
       "completedAt": null,
-      "status": "pending"
+      "status": "pending",
+      "isOverdue": false
     },
     {
       "id": "16d39088-1f70-4cca-a199-035d4dd5325e",
