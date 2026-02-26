@@ -563,6 +563,18 @@
       "completedAt": null,
       "status": "pending",
       "isOverdue": false
+    },
+    {
+      "id": "77bf2eaf-c0e0-43d9-b557-17a9681e873f",
+      "title": "The dictator",
+      "priority": "medium",
+      "groupIds": [
+        "a6294fc4-f132-4cfb-8342-b5548e37e9cb"
+      ],
+      "deadline": "2027-03-31",
+      "createdAt": "2026-02-26T04:38:48.278Z",
+      "completedAt": null,
+      "status": "pending"
     }
   ]
 }
