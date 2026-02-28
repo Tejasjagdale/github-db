@@ -510,6 +510,14 @@
       "variantId": "c4d8a1f7-2e9b-4b73-8a2e-6f1c9d3b7a55",
       "variantName": "Chest B - Mid Chest Volume & Density",
       "completed": false
+    },
+    {
+      "date": "2026-02-28",
+      "startTime": "2026-02-28T15:22:12.043Z",
+      "endTime": "2026-02-28T15:30:44.883Z",
+      "variantId": "c4d8a1f7-2e9b-4b73-8a2e-6f1c9d3b7a55",
+      "variantName": "Chest B - Mid Chest Volume & Density",
+      "completed": true
     }
   ],
   "dailyHealth": {
