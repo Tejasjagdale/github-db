@@ -793,7 +793,7 @@
         {
           "name": "Flat Dumbbell Press",
           "sets": 4,
-          "reps": "10-12"
+          "reps": "10"
         },
         {
           "name": "Wide Push-ups (Slow)",
@@ -821,7 +821,7 @@
           "step": 1,
           "name": "Flat Dumbbell Press",
           "set": 1,
-          "reps": "10-12",
+          "reps": "10",
           "restSeconds": 90,
           "equipment": [
             "15Kg dumbbell",
@@ -832,7 +832,7 @@
           "step": 2,
           "name": "Flat Dumbbell Press",
           "set": 2,
-          "reps": "10-12",
+          "reps": "10",
           "restSeconds": 90,
           "equipment": [
             "15Kg dumbbell",
@@ -843,7 +843,7 @@
           "step": 3,
           "name": "Flat Dumbbell Press",
           "set": 3,
-          "reps": "10-12",
+          "reps": "10",
           "restSeconds": 90,
           "equipment": [
             "10Kg dumbbell",
@@ -854,7 +854,7 @@
           "step": 4,
           "name": "Flat Dumbbell Press",
           "set": 4,
-          "reps": "10-12",
+          "reps": "10",
           "restSeconds": 120,
           "equipment": [
             "10Kg dumbbell",
