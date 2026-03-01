@@ -61,7 +61,7 @@
         "longest": 1
       },
       "completedToday": "2026-02-23",
-      "isUrgent": true,
+      "isUrgent": false,
       "history": [
         "2026-02-23"
       ]
@@ -119,17 +119,18 @@
       "completeByTime": "07:00 AM",
       "trackStreak": true,
       "streak": {
-        "current": 5,
+        "current": 1,
         "longest": 5
       },
-      "completedToday": "2026-02-27",
+      "completedToday": "2026-03-01",
       "isUrgent": false,
       "history": [
         "2026-02-23",
         "2026-02-24",
         "2026-02-25",
         "2026-02-26",
-        "2026-02-27"
+        "2026-02-27",
+        "2026-03-01"
       ]
     },
     {
@@ -464,7 +465,7 @@
       "createdAt": "2026-02-22T10:52:58.288Z",
       "completedAt": null,
       "status": "pending",
-      "isOverdue": false
+      "isOverdue": true
     },
     {
       "id": "db213cc3-0f46-49b6-8420-cb0376edbb2e",
