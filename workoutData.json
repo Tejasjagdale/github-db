@@ -1490,26 +1490,26 @@
         {
           "name": "Hanging Knee Raise / Leg Raise Progression",
           "sets": 3,
-          "reps": "8-15"
+          "reps": "10"
         },
         {
           "name": "Weighted Crunch (Dumbbell)",
           "sets": 3,
-          "reps": "10-15"
+          "reps": "10"
         },
         {
           "name": "Slow Lying Leg Raises (Posterior Pelvic Tilt)",
           "sets": 3,
-          "reps": "8-12"
+          "reps": "8"
         },
         {
           "name": "Russian Twist (Controlled)",
           "sets": 3,
-          "reps": "20-30 total"
+          "reps": "20"
         },
         {
           "name": "Long-Lever Plank",
-          "sets": 3,
+          "sets": 2,
           "reps": "40 sec"
         }
       ],
@@ -1518,7 +1518,7 @@
           "step": 1,
           "name": "Hanging Knee Raise / Leg Raise Progression",
           "set": 1,
-          "reps": "8-15",
+          "reps": "10",
           "restSeconds": 60,
           "equipment": [
             "pull-up bar"
@@ -1528,7 +1528,7 @@
           "step": 2,
           "name": "Hanging Knee Raise / Leg Raise Progression",
           "set": 2,
-          "reps": "8-15",
+          "reps": "10",
           "restSeconds": 60,
           "equipment": [
             "pull-up bar"
@@ -1538,7 +1538,7 @@
           "step": 3,
           "name": "Hanging Knee Raise / Leg Raise Progression",
           "set": 3,
-          "reps": "8-15",
+          "reps": "10",
           "restSeconds": 90,
           "equipment": [
             "pull-up bar"
@@ -1548,7 +1548,7 @@
           "step": 4,
           "name": "Weighted Crunch (Dumbbell)",
           "set": 1,
-          "reps": "10-15",
+          "reps": "10",
           "restSeconds": 60,
           "equipment": [
             "10Kg dumbbell",
@@ -1559,7 +1559,7 @@
           "step": 5,
           "name": "Weighted Crunch (Dumbbell)",
           "set": 2,
-          "reps": "10-15",
+          "reps": "10",
           "restSeconds": 60,
           "equipment": [
             "10Kg dumbbell",
@@ -1570,7 +1570,7 @@
           "step": 6,
           "name": "Weighted Crunch (Dumbbell)",
           "set": 3,
-          "reps": "10-15",
+          "reps": "10",
           "restSeconds": 90,
           "equipment": [
             "10Kg dumbbell",
@@ -1581,7 +1581,7 @@
           "step": 7,
           "name": "Slow Lying Leg Raises (Posterior Pelvic Tilt)",
           "set": 1,
-          "reps": "8-12",
+          "reps": "8",
           "restSeconds": 60,
           "equipment": [
             "yoga mat"
@@ -1591,7 +1591,7 @@
           "step": 8,
           "name": "Slow Lying Leg Raises (Posterior Pelvic Tilt)",
           "set": 2,
-          "reps": "8-12",
+          "reps": "8",
           "restSeconds": 60,
           "equipment": [
             "yoga mat"
@@ -1601,7 +1601,7 @@
           "step": 9,
           "name": "Slow Lying Leg Raises (Posterior Pelvic Tilt)",
           "set": 3,
-          "reps": "8-12",
+          "reps": "8",
           "restSeconds": 90,
           "equipment": [
             "yoga mat"
@@ -1611,7 +1611,7 @@
           "step": 10,
           "name": "Russian Twist (Controlled)",
           "set": 1,
-          "reps": "20-30 total",
+          "reps": "20",
           "restSeconds": 45,
           "equipment": [
             "10Kg dumbbell",
@@ -1622,7 +1622,7 @@
           "step": 11,
           "name": "Russian Twist (Controlled)",
           "set": 2,
-          "reps": "20-30 total",
+          "reps": "20",
           "restSeconds": 45,
           "equipment": [
             "10Kg dumbbell",
@@ -1633,7 +1633,7 @@
           "step": 12,
           "name": "Russian Twist (Controlled)",
           "set": 3,
-          "reps": "20-30 total",
+          "reps": "20 total",
           "restSeconds": 75,
           "equipment": [
             "10Kg dumbbell",
@@ -1656,16 +1656,6 @@
           "set": 2,
           "reps": "40 sec",
           "restSeconds": 45,
-          "equipment": [
-            "yoga mat"
-          ]
-        },
-        {
-          "step": 15,
-          "name": "Long-Lever Plank",
-          "set": 3,
-          "reps": "40 sec",
-          "restSeconds": 90,
           "equipment": [
             "yoga mat"
           ]
