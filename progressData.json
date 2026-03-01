@@ -503,6 +503,14 @@
       "variantId": "c4d8a1f7-2e9b-4b73-8a2e-6f1c9d3b7a55",
       "variantName": "Chest B - Mid Chest Volume & Density",
       "completed": false
+    },
+    {
+      "date": "2026-03-01",
+      "startTime": "2026-03-01T04:42:11.333Z",
+      "endTime": "2026-03-01T05:14:46.359Z",
+      "variantId": "9c1a7e54-4f8b-43b2-a6e1-0f7d2c8b5a91",
+      "variantName": "Morning Abs - Thick Core & Defined Six Pack",
+      "completed": true
     }
   ],
   "dailyHealth": {
