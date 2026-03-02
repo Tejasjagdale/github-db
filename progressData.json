@@ -520,6 +520,14 @@
       "variantId": "2a7d6c90-5f31-4b3f-9c62-1e8a4d0b73af",
       "variantName": "Morning Pull-up Skill & Progression",
       "completed": true
+    },
+    {
+      "date": "2026-03-02",
+      "startTime": "2026-03-02T17:25:40.743Z",
+      "endTime": "2026-03-02T18:13:49.658Z",
+      "variantId": "b1f3c0e4-3a92-4a4d-9b1e-8a2c7f5e9d42",
+      "variantName": "Arms B - Volume & Shape (Joint-Smart)",
+      "completed": true
     }
   ],
   "dailyHealth": {
