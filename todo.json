@@ -109,7 +109,7 @@
         "longest": 0
       },
       "completedToday": null,
-      "isUrgent": true
+      "isUrgent": false
     },
     {
       "id": "7f3a45de-32b2-4fa2-8e7f-b54a67c24aea",
@@ -148,10 +148,10 @@
       "completeByTime": "07:00 PM",
       "trackStreak": true,
       "streak": {
-        "current": 2,
+        "current": 0,
         "longest": 4
       },
-      "completedToday": "2026-03-03",
+      "completedToday": null,
       "isUrgent": false,
       "history": [
         "2026-02-23",
@@ -159,8 +159,7 @@
         "2026-02-25",
         "2026-02-26",
         "2026-02-28",
-        "2026-03-02",
-        "2026-03-03"
+        "2026-03-02"
       ]
     },
     {
