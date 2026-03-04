@@ -109,7 +109,7 @@
         "longest": 0
       },
       "completedToday": null,
-      "isUrgent": false
+      "isUrgent": true
     },
     {
       "id": "7f3a45de-32b2-4fa2-8e7f-b54a67c24aea",
@@ -122,10 +122,10 @@
       "completeByTime": "07:00 AM",
       "trackStreak": true,
       "streak": {
-        "current": 2,
+        "current": 1,
         "longest": 5
       },
-      "completedToday": "2026-03-02",
+      "completedToday": "2026-03-04",
       "isUrgent": false,
       "history": [
         "2026-02-23",
@@ -134,7 +134,8 @@
         "2026-02-26",
         "2026-02-27",
         "2026-03-01",
-        "2026-03-02"
+        "2026-03-02",
+        "2026-03-04"
       ]
     },
     {
@@ -243,10 +244,10 @@
       "completeByTime": "07:45 AM",
       "trackStreak": true,
       "streak": {
-        "current": 2,
+        "current": 1,
         "longest": 4
       },
-      "completedToday": "2026-03-02",
+      "completedToday": "2026-03-04",
       "isUrgent": false,
       "history": [
         "2026-02-24",
@@ -254,7 +255,8 @@
         "2026-02-26",
         "2026-02-27",
         "2026-03-01",
-        "2026-03-02"
+        "2026-03-02",
+        "2026-03-04"
       ]
     },
     {
@@ -293,10 +295,10 @@
       "completeByTime": "08:30 PM",
       "trackStreak": true,
       "streak": {
-        "current": 8,
+        "current": 1,
         "longest": 8
       },
-      "completedToday": "2026-03-02",
+      "completedToday": "2026-03-04",
       "isUrgent": false,
       "history": [
         "2026-02-23",
@@ -306,7 +308,8 @@
         "2026-02-27",
         "2026-02-28",
         "2026-03-01",
-        "2026-03-02"
+        "2026-03-02",
+        "2026-03-04"
       ]
     },
     {
@@ -320,10 +323,10 @@
       "completeByTime": "01:30 PM",
       "trackStreak": true,
       "streak": {
-        "current": 2,
+        "current": 1,
         "longest": 5
       },
-      "completedToday": "2026-03-02",
+      "completedToday": "2026-03-04",
       "isUrgent": false,
       "history": [
         "2026-02-23",
@@ -332,7 +335,8 @@
         "2026-02-26",
         "2026-02-27",
         "2026-03-01",
-        "2026-03-02"
+        "2026-03-02",
+        "2026-03-04"
       ]
     },
     {
@@ -346,17 +350,18 @@
       "completeByTime": "04:30 PM",
       "trackStreak": true,
       "streak": {
-        "current": 2,
+        "current": 1,
         "longest": 3
       },
-      "completedToday": "2026-03-02",
+      "completedToday": "2026-03-04",
       "isUrgent": false,
       "history": [
         "2026-02-23",
         "2026-02-24",
         "2026-02-25",
         "2026-03-01",
-        "2026-03-02"
+        "2026-03-02",
+        "2026-03-04"
       ]
     },
     {
@@ -370,10 +375,10 @@
       "completeByTime": "03:30 PM",
       "trackStreak": true,
       "streak": {
-        "current": 8,
+        "current": 1,
         "longest": 8
       },
-      "completedToday": "2026-03-02",
+      "completedToday": "2026-03-04",
       "isUrgent": false,
       "history": [
         "2026-02-23",
@@ -383,7 +388,8 @@
         "2026-02-27",
         "2026-02-28",
         "2026-03-01",
-        "2026-03-02"
+        "2026-03-02",
+        "2026-03-04"
       ]
     }
   ],
@@ -398,7 +404,8 @@
       "deadline": "2026-03-06",
       "createdAt": "2026-02-20T04:12:54.680Z",
       "completedAt": null,
-      "status": "pending"
+      "status": "pending",
+      "isOverdue": false
     },
     {
       "id": "f8bd85b6-0a13-4f36-9772-dae80d81c433",
