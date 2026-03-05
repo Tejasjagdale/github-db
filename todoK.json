@@ -188,13 +188,14 @@
   "todos": [
     {
       "id": "8e14faeb-5998-44a1-b443-1f56f6d03382",
-      "title": "New clothes",
+      "title": "Study",
       "priority": "high",
       "groupIds": [],
       "deadline": "2026-03-06",
       "createdAt": "2026-02-20T04:12:54.680Z",
       "completedAt": null,
-      "status": "pending"
+      "status": "pending",
+      "isOverdue": false
     },
     {
       "id": "d57e2564-34ac-4801-a570-24cb812c19c8",
