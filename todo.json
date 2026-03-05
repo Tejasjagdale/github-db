@@ -123,10 +123,10 @@
       "completeByTime": "07:00 AM",
       "trackStreak": true,
       "streak": {
-        "current": 1,
+        "current": 2,
         "longest": 5
       },
-      "completedToday": "2026-03-04",
+      "completedToday": "2026-03-05",
       "isUrgent": false,
       "history": [
         "2026-02-23",
@@ -136,7 +136,8 @@
         "2026-02-27",
         "2026-03-01",
         "2026-03-02",
-        "2026-03-04"
+        "2026-03-04",
+        "2026-03-05"
       ]
     },
     {
@@ -176,10 +177,10 @@
       "completeByTime": "07:30 AM",
       "trackStreak": true,
       "streak": {
-        "current": 4,
+        "current": 1,
         "longest": 4
       },
-      "completedToday": "2026-03-02",
+      "completedToday": "2026-03-05",
       "isUrgent": false,
       "history": [
         "2026-02-24",
@@ -187,7 +188,8 @@
         "2026-02-27",
         "2026-02-28",
         "2026-03-01",
-        "2026-03-02"
+        "2026-03-02",
+        "2026-03-05"
       ]
     },
     {
@@ -246,10 +248,10 @@
       "completeByTime": "07:45 AM",
       "trackStreak": true,
       "streak": {
-        "current": 1,
+        "current": 2,
         "longest": 4
       },
-      "completedToday": "2026-03-04",
+      "completedToday": "2026-03-05",
       "isUrgent": false,
       "history": [
         "2026-02-24",
@@ -258,7 +260,8 @@
         "2026-02-27",
         "2026-03-01",
         "2026-03-02",
-        "2026-03-04"
+        "2026-03-04",
+        "2026-03-05"
       ]
     },
     {
@@ -446,7 +449,8 @@
       "deadline": "2026-03-07",
       "createdAt": "2026-02-20T04:16:58.977Z",
       "completedAt": null,
-      "status": "pending"
+      "status": "pending",
+      "isOverdue": false
     },
     {
       "id": "91f2e48a-c2af-4f7f-8c9a-ab3c61bd6dc2",
@@ -458,7 +462,8 @@
       "deadline": "2026-03-07",
       "createdAt": "2026-02-22T10:49:36.182Z",
       "completedAt": null,
-      "status": "pending"
+      "status": "pending",
+      "isOverdue": false
     },
     {
       "id": "96534f83-dbd7-4ff8-b91a-006534d07c5c",
