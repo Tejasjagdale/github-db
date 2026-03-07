@@ -536,6 +536,14 @@
       "variantId": "f9b3a7d1-5c24-4d8e-9e61-2a7c8f0b6e42",
       "variantName": "Chest C - Lower Chest Control & Shape",
       "completed": true
+    },
+    {
+      "date": "2026-03-07",
+      "startTime": "2026-03-07T06:28:59.227Z",
+      "endTime": "2026-03-07T06:53:49.483Z",
+      "variantId": "b7e2c9a4-1f5d-4e63-9b2c-6a8f0d3c91ab",
+      "variantName": "Morning Back - Width, Thickness & Pull-up Support",
+      "completed": false
     }
   ],
   "dailyHealth": {
