@@ -544,6 +544,14 @@
       "variantId": "b7e2c9a4-1f5d-4e63-9b2c-6a8f0d3c91ab",
       "variantName": "Morning Back - Width, Thickness & Pull-up Support",
       "completed": false
+    },
+    {
+      "date": "2026-03-07",
+      "startTime": "2026-03-07T14:43:33.594Z",
+      "endTime": "2026-03-07T15:00:53.360Z",
+      "variantId": "fff584c5-279d-424a-a78b-4c0175fb88c6",
+      "variantName": "Warm up ABS 1",
+      "completed": true
     }
   ],
   "dailyHealth": {
