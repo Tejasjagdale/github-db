@@ -1662,6 +1662,109 @@
         }
       ],
       "id": "9c1a7e54-4f8b-43b2-a6e1-0f7d2c8b5a91"
+    },
+    {
+      "id": "fff584c5-279d-424a-a78b-4c0175fb88c6",
+      "variantName": "Warm up ABS 1",
+      "exercisesList": [
+        {
+          "name": "hanging leg raises",
+          "sets": 3,
+          "reps": "8"
+        },
+        {
+          "name": "crunches",
+          "sets": 3,
+          "reps": "12"
+        },
+        {
+          "name": "plank",
+          "sets": 2,
+          "reps": "40 sec"
+        }
+      ],
+      "exerciseOrder": [
+        {
+          "step": 1,
+          "name": "hanging leg raises",
+          "set": 1,
+          "reps": "8",
+          "restSeconds": 60,
+          "equipment": [
+            "pull-up bar"
+          ]
+        },
+        {
+          "step": 2,
+          "name": "hanging leg raises",
+          "set": 2,
+          "reps": "8",
+          "restSeconds": 60,
+          "equipment": [
+            "pull-up bar"
+          ]
+        },
+        {
+          "step": 3,
+          "name": "hanging leg raises",
+          "set": 3,
+          "reps": "8",
+          "restSeconds": 75,
+          "equipment": [
+            "pull-up bar"
+          ]
+        },
+        {
+          "step": 4,
+          "name": "crunches",
+          "set": 1,
+          "reps": "12",
+          "restSeconds": 60,
+          "equipment": [
+            "yoga mat"
+          ]
+        },
+        {
+          "step": 5,
+          "name": "crunches",
+          "set": 2,
+          "reps": "12",
+          "restSeconds": 60,
+          "equipment": [
+            "yoga mat"
+          ]
+        },
+        {
+          "step": 6,
+          "name": "crunches",
+          "set": 3,
+          "reps": "12",
+          "restSeconds": 75,
+          "equipment": [
+            "yoga mat"
+          ]
+        },
+        {
+          "step": 7,
+          "name": "plank",
+          "set": 1,
+          "reps": "40 sec",
+          "restSeconds": 60,
+          "equipment": [
+            "yoga mat"
+          ]
+        },
+        {
+          "step": 8,
+          "name": "plank",
+          "set": 2,
+          "reps": "40 sec",
+          "restSeconds": 60,
+          "equipment": [
+            "yoga mat"
+          ]
+        }
+      ]
     }
   ]
 }
