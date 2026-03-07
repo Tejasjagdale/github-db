@@ -1765,6 +1765,122 @@
           ]
         }
       ]
+    },
+    {
+      "id": "35cc9f0a-710c-4de9-8867-7d890444fed0",
+      "variantName": "Warm up ABS 2",
+      "exercisesList": [
+        {
+          "name": "hanging knee raises",
+          "sets": 3,
+          "reps": "8"
+        },
+        {
+          "name": "Reverse crunch with hip lift",
+          "sets": 3,
+          "reps": "10"
+        },
+        {
+          "name": "russian twists",
+          "sets": 3,
+          "reps": "20 each"
+        }
+      ],
+      "exerciseOrder": [
+        {
+          "step": 1,
+          "name": "hanging knee raises",
+          "set": 1,
+          "reps": "8",
+          "restSeconds": 60,
+          "equipment": [
+            "pull-up bar"
+          ]
+        },
+        {
+          "step": 2,
+          "name": "hanging knee raises",
+          "set": 2,
+          "reps": "8",
+          "restSeconds": 60,
+          "equipment": [
+            "pull-up bar"
+          ]
+        },
+        {
+          "step": 3,
+          "name": "hanging knee raises",
+          "set": 3,
+          "reps": "8",
+          "restSeconds": 75,
+          "equipment": [
+            "pull-up bar"
+          ]
+        },
+        {
+          "step": 4,
+          "name": "Reverse crunch with hip lift",
+          "set": 1,
+          "reps": "10",
+          "restSeconds": 60,
+          "equipment": [
+            "yoga mat"
+          ]
+        },
+        {
+          "step": 5,
+          "name": "Reverse crunch with hip lift",
+          "set": 2,
+          "reps": "10",
+          "restSeconds": 60,
+          "equipment": [
+            "yoga mat"
+          ]
+        },
+        {
+          "step": 6,
+          "name": "Reverse crunch with hip lift",
+          "set": 3,
+          "reps": "10",
+          "restSeconds": 75,
+          "equipment": [
+            "yoga mat"
+          ]
+        },
+        {
+          "step": 7,
+          "name": "russian twists",
+          "set": 1,
+          "reps": "20 each",
+          "restSeconds": 60,
+          "equipment": [
+            "yoga mat",
+            "10Kg dumbbell"
+          ]
+        },
+        {
+          "step": 8,
+          "name": "russian twists",
+          "set": 2,
+          "reps": "20 each",
+          "restSeconds": 60,
+          "equipment": [
+            "yoga mat",
+            "15Kg dumbbell"
+          ]
+        },
+        {
+          "step": 9,
+          "name": "russian twists",
+          "set": 3,
+          "reps": "20 each",
+          "restSeconds": 75,
+          "equipment": [
+            "15Kg dumbbell",
+            "yoga mat"
+          ]
+        }
+      ]
     }
   ]
 }
