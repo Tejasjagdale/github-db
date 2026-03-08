@@ -195,7 +195,7 @@
       "createdAt": "2026-02-20T04:12:54.680Z",
       "completedAt": null,
       "status": "pending",
-      "isOverdue": false
+      "isOverdue": true
     },
     {
       "id": "d57e2564-34ac-4801-a570-24cb812c19c8",
@@ -209,6 +209,18 @@
       "completedAt": "2026-02-23T16:04:32.000Z",
       "status": "completed",
       "isOverdue": false
+    },
+    {
+      "id": "1c3f8f80-63e7-4ed2-a24e-4c180811037c",
+      "title": "Facial Yoga",
+      "priority": "medium",
+      "groupIds": [
+        "grp_health"
+      ],
+      "deadline": "2027-03-08",
+      "createdAt": "2026-03-08T06:07:53.992Z",
+      "completedAt": null,
+      "status": "pending"
     }
   ]
 }
