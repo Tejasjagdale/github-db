@@ -5,8 +5,7 @@
     "gender": "male",
     "heightCm": 177,
     "goalWeight": 65,
-    "targetBMI": 20.7,
-    "theme": "comic"
+    "targetBMI": 20.7
   },
   "dailyWeight": {
     "2024-07-03": 59,
