@@ -124,10 +124,10 @@
       "completeByTime": "07:00 AM",
       "trackStreak": true,
       "streak": {
-        "current": 4,
+        "current": 5,
         "longest": 5
       },
-      "completedToday": "2026-03-07",
+      "completedToday": "2026-03-08",
       "isUrgent": false,
       "history": [
         "2026-02-23",
@@ -140,7 +140,8 @@
         "2026-03-04",
         "2026-03-05",
         "2026-03-06",
-        "2026-03-07"
+        "2026-03-07",
+        "2026-03-08"
       ]
     },
     {
@@ -468,7 +469,7 @@
       "createdAt": "2026-02-20T04:16:58.977Z",
       "completedAt": null,
       "status": "pending",
-      "isOverdue": false
+      "isOverdue": true
     },
     {
       "id": "91f2e48a-c2af-4f7f-8c9a-ab3c61bd6dc2",
@@ -481,7 +482,7 @@
       "createdAt": "2026-02-22T10:49:36.182Z",
       "completedAt": null,
       "status": "pending",
-      "isOverdue": false
+      "isOverdue": true
     },
     {
       "id": "96534f83-dbd7-4ff8-b91a-006534d07c5c",
@@ -696,7 +697,7 @@
       "createdAt": "2026-03-07T15:39:06.874Z",
       "completedAt": null,
       "status": "pending",
-      "isOverdue": false
+      "isOverdue": true
     }
   ]
 }
