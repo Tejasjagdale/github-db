@@ -578,6 +578,14 @@
       "variantId": "35cc9f0a-710c-4de9-8867-7d890444fed0",
       "variantName": "Warm up ABS 2",
       "completed": true
+    },
+    {
+      "date": "2026-03-09",
+      "startTime": "2026-03-09T15:07:47.166Z",
+      "endTime": "2026-03-09T15:49:13.651Z",
+      "variantId": "a3c9b6e2-1f44-4c6a-9d7e-5b8f2e6d91aa",
+      "variantName": "Chest A - Upper & Mid Chest Strength (Square Foundation)",
+      "completed": true
     }
   ],
   "dailyHealth": {
