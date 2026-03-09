@@ -125,10 +125,10 @@
       "completeByTime": "07:00 AM",
       "trackStreak": true,
       "streak": {
-        "current": 5,
-        "longest": 5
+        "current": 6,
+        "longest": 6
       },
-      "completedToday": "2026-03-08",
+      "completedToday": "2026-03-09",
       "isUrgent": false,
       "history": [
         "2026-02-23",
@@ -142,7 +142,8 @@
         "2026-03-05",
         "2026-03-06",
         "2026-03-07",
-        "2026-03-08"
+        "2026-03-08",
+        "2026-03-09"
       ]
     },
     {
@@ -183,10 +184,10 @@
       "completeByTime": "07:30 AM",
       "trackStreak": true,
       "streak": {
-        "current": 2,
+        "current": 3,
         "longest": 4
       },
-      "completedToday": "2026-03-08",
+      "completedToday": "2026-03-09",
       "isUrgent": false,
       "history": [
         "2026-02-24",
@@ -197,7 +198,8 @@
         "2026-03-02",
         "2026-03-05",
         "2026-03-07",
-        "2026-03-08"
+        "2026-03-08",
+        "2026-03-09"
       ]
     },
     {
@@ -238,14 +240,15 @@
         "current": 1,
         "longest": 2
       },
-      "completedToday": "2026-03-07",
+      "completedToday": "2026-03-09",
       "isUrgent": false,
       "history": [
         "2026-02-24",
         "2026-02-25",
         "2026-03-01",
         "2026-03-02",
-        "2026-03-07"
+        "2026-03-07",
+        "2026-03-09"
       ]
     },
     {
@@ -259,10 +262,10 @@
       "completeByTime": "07:45 AM",
       "trackStreak": true,
       "streak": {
-        "current": 5,
-        "longest": 5
+        "current": 6,
+        "longest": 6
       },
-      "completedToday": "2026-03-08",
+      "completedToday": "2026-03-09",
       "isUrgent": false,
       "history": [
         "2026-02-24",
@@ -275,7 +278,8 @@
         "2026-03-05",
         "2026-03-06",
         "2026-03-07",
-        "2026-03-08"
+        "2026-03-08",
+        "2026-03-09"
       ]
     },
     {
@@ -350,7 +354,7 @@
         "longest": 5
       },
       "completedToday": "2026-03-08",
-      "isUrgent": false,
+      "isUrgent": true,
       "history": [
         "2026-02-23",
         "2026-02-24",
