@@ -354,7 +354,7 @@
         "longest": 5
       },
       "completedToday": "2026-03-08",
-      "isUrgent": true,
+      "isUrgent": false,
       "history": [
         "2026-02-23",
         "2026-02-24",
@@ -428,6 +428,23 @@
         "2026-03-07",
         "2026-03-08"
       ]
+    },
+    {
+      "id": "4f1f2463-e31f-4fcf-affb-459a98f49cbb",
+      "title": "Creatine",
+      "priority": "medium",
+      "groupIds": [
+        "grp_health"
+      ],
+      "repeatEveryDays": 1,
+      "completeByTime": "07:30 AM",
+      "trackStreak": true,
+      "streak": {
+        "current": 0,
+        "longest": 0
+      },
+      "completedToday": null,
+      "isUrgent": false
     }
   ],
   "todos": [
