@@ -1315,17 +1315,17 @@
         {
           "name": "Pull-ups (Strict)",
           "sets": 4,
-          "reps": "2-5 (stop 1–2 reps before failure)"
+          "reps": "5"
         },
         {
           "name": "Single-Arm Dumbbell Row",
           "sets": 4,
-          "reps": "8-10 each"
+          "reps": "8"
         },
         {
-          "name": "Chest-Supported One-Arm Dumbbell Row",
+          "name": "Overhead press",
           "sets": 3,
-          "reps": "10-12 each"
+          "reps": "8"
         },
         {
           "name": "Straight-Arm Dumbbell Pulldown",
@@ -1338,7 +1338,7 @@
           "step": 1,
           "name": "Pull-ups (Strict)",
           "set": 1,
-          "reps": "2-5",
+          "reps": "5",
           "restSeconds": 90,
           "equipment": [
             "pull-up bar"
@@ -1348,7 +1348,7 @@
           "step": 2,
           "name": "Pull-ups (Strict)",
           "set": 2,
-          "reps": "2-5",
+          "reps": "4",
           "restSeconds": 90,
           "equipment": [
             "pull-up bar"
@@ -1358,7 +1358,7 @@
           "step": 3,
           "name": "Pull-ups (Strict)",
           "set": 3,
-          "reps": "2-5",
+          "reps": "4",
           "restSeconds": 90,
           "equipment": [
             "pull-up bar"
@@ -1368,7 +1368,7 @@
           "step": 4,
           "name": "Pull-ups (Strict)",
           "set": 4,
-          "reps": "2-5",
+          "reps": "4",
           "restSeconds": 120,
           "equipment": [
             "pull-up bar"
@@ -1378,7 +1378,7 @@
           "step": 5,
           "name": "Single-Arm Dumbbell Row",
           "set": 1,
-          "reps": "8-10 each",
+          "reps": "8",
           "restSeconds": 75,
           "equipment": [
             "15Kg dumbbell",
@@ -1389,7 +1389,7 @@
           "step": 6,
           "name": "Single-Arm Dumbbell Row",
           "set": 2,
-          "reps": "8-10 each",
+          "reps": "8",
           "restSeconds": 75,
           "equipment": [
             "15Kg dumbbell",
@@ -1400,7 +1400,7 @@
           "step": 7,
           "name": "Single-Arm Dumbbell Row",
           "set": 3,
-          "reps": "8-10 each",
+          "reps": "8",
           "restSeconds": 75,
           "equipment": [
             "15Kg dumbbell",
@@ -1411,7 +1411,7 @@
           "step": 8,
           "name": "Single-Arm Dumbbell Row",
           "set": 4,
-          "reps": "8-10 each",
+          "reps": "8",
           "restSeconds": 100,
           "equipment": [
             "15Kg dumbbell",
@@ -1420,18 +1420,17 @@
         },
         {
           "step": 9,
-          "name": "Chest-Supported One-Arm Dumbbell Row",
+          "name": "Overhead press",
           "set": 1,
-          "reps": "10-12 each",
-          "restSeconds": 60,
+          "reps": "8",
+          "restSeconds": 75,
           "equipment": [
-            "10Kg dumbbell",
-            "bed"
+            "15Kg dumbbell"
           ]
         },
         {
           "step": 10,
-          "name": "Chest-Supported One-Arm Dumbbell Row",
+          "name": "Overhead press",
           "set": 2,
           "reps": "10-12 each",
           "restSeconds": 60,
@@ -1442,7 +1441,7 @@
         },
         {
           "step": 11,
-          "name": "Chest-Supported One-Arm Dumbbell Row",
+          "name": "Overhead press",
           "set": 3,
           "reps": "10-12 each",
           "restSeconds": 90,
