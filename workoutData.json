@@ -1192,7 +1192,7 @@
         {
           "name": "Chin-ups",
           "sets": 3,
-          "reps": "3"
+          "reps": "4"
         }
       ],
       "exerciseOrder": [
@@ -1270,7 +1270,7 @@
           "step": 8,
           "name": "Pull-ups",
           "set": 3,
-          "reps": "5",
+          "reps": "4",
           "restSeconds": 120,
           "equipment": [
             "pull-up bar"
@@ -1280,7 +1280,7 @@
           "step": 9,
           "name": "Chin-ups",
           "set": 1,
-          "reps": "3",
+          "reps": "4",
           "restSeconds": 90,
           "equipment": [
             "pull-up bar"
@@ -1290,7 +1290,7 @@
           "step": 10,
           "name": "Chin-ups",
           "set": 2,
-          "reps": "5",
+          "reps": "4",
           "restSeconds": 90,
           "equipment": [
             "pull-up bar"
@@ -1300,7 +1300,7 @@
           "step": 11,
           "name": "Chin-ups",
           "set": 3,
-          "reps": "5",
+          "reps": "4",
           "restSeconds": 120,
           "equipment": [
             "pull-up bar"
