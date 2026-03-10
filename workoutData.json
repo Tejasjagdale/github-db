@@ -1323,14 +1323,19 @@
           "reps": "8"
         },
         {
+          "name": "Dumbbell Romanian Deadlift",
+          "sets": 3,
+          "reps": "10"
+        },
+        {
           "name": "Overhead press",
           "sets": 3,
           "reps": "8"
         },
         {
-          "name": "Dumbbell Romanian Deadlift",
-          "sets": 3,
-          "reps": "10"
+          "name": "Superman Hold",
+          "sets": 2,
+          "reps": "35 sec"
         }
       ],
       "exerciseOrder": [
@@ -1409,19 +1414,19 @@
         },
         {
           "step": 8,
-          "name": "Overhead press",
+          "name": "Dumbbell Romanian Deadlift",
           "set": 1,
-          "reps": "8",
-          "restSeconds": 75,
+          "reps": "10",
+          "restSeconds": 70,
           "equipment": [
             "15Kg dumbbell"
           ]
         },
         {
           "step": 9,
-          "name": "Overhead press",
+          "name": "Dumbbell Romanian Deadlift",
           "set": 2,
-          "reps": "8",
+          "reps": "10",
           "restSeconds": 75,
           "equipment": [
             "15Kg dumbbell"
@@ -1429,6 +1434,36 @@
         },
         {
           "step": 10,
+          "name": "Dumbbell Romanian Deadlift",
+          "set": 3,
+          "reps": "10",
+          "restSeconds": 90,
+          "equipment": [
+            "15Kg dumbbell"
+          ]
+        },
+        {
+          "step": 11,
+          "name": "Overhead press",
+          "set": 1,
+          "reps": "8",
+          "restSeconds": 75,
+          "equipment": [
+            "15Kg dumbbell"
+          ]
+        },
+        {
+          "step": 12,
+          "name": "Overhead press",
+          "set": 2,
+          "reps": "8",
+          "restSeconds": 75,
+          "equipment": [
+            "15Kg dumbbell"
+          ]
+        },
+        {
+          "step": 13,
           "name": "Overhead press",
           "set": 3,
           "reps": "8",
@@ -1438,33 +1473,23 @@
           ]
         },
         {
-          "step": 11,
-          "name": "Dumbbell Romanian Deadlift",
+          "step": 14,
+          "name": "Superman Hold",
           "set": 1,
-          "reps": "10",
-          "restSeconds": 90,
+          "reps": "35 sec",
+          "restSeconds": 60,
           "equipment": [
-            "15Kg dumbbell"
+            "yoga mat"
           ]
         },
         {
-          "step": 12,
-          "name": "Dumbbell Romanian Deadlift",
+          "step": 15,
+          "name": "Superman Hold",
           "set": 2,
-          "reps": "10",
+          "reps": "35 sec",
           "restSeconds": 60,
           "equipment": [
-            "15Kg dumbbell"
-          ]
-        },
-        {
-          "step": 13,
-          "name": "Dumbbell Romanian Deadlift",
-          "set": 3,
-          "reps": "10",
-          "restSeconds": 60,
-          "equipment": [
-            "10Kg dumbbell"
+            "yoga mat"
           ]
         }
       ],
