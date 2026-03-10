@@ -1319,7 +1319,7 @@
         },
         {
           "name": "Single-Arm Dumbbell Row",
-          "sets": 4,
+          "sets": 3,
           "reps": "8"
         },
         {
@@ -1328,9 +1328,9 @@
           "reps": "8"
         },
         {
-          "name": "Straight-Arm Dumbbell Pulldown",
+          "name": "Dumbbell Romanian Deadlift",
           "sets": 3,
-          "reps": "12-15"
+          "reps": "10"
         }
       ],
       "exerciseOrder": [
@@ -1401,17 +1401,6 @@
           "name": "Single-Arm Dumbbell Row",
           "set": 3,
           "reps": "8",
-          "restSeconds": 75,
-          "equipment": [
-            "15Kg dumbbell",
-            "chair"
-          ]
-        },
-        {
-          "step": 8,
-          "name": "Single-Arm Dumbbell Row",
-          "set": 4,
-          "reps": "8",
           "restSeconds": 100,
           "equipment": [
             "15Kg dumbbell",
@@ -1419,7 +1408,7 @@
           ]
         },
         {
-          "step": 9,
+          "step": 8,
           "name": "Overhead press",
           "set": 1,
           "reps": "8",
@@ -1429,53 +1418,51 @@
           ]
         },
         {
-          "step": 10,
+          "step": 9,
           "name": "Overhead press",
           "set": 2,
-          "reps": "10-12 each",
-          "restSeconds": 60,
+          "reps": "8",
+          "restSeconds": 75,
           "equipment": [
-            "10Kg dumbbell",
-            "bed"
+            "15Kg dumbbell"
+          ]
+        },
+        {
+          "step": 10,
+          "name": "Overhead press",
+          "set": 3,
+          "reps": "8",
+          "restSeconds": 90,
+          "equipment": [
+            "15Kg dumbbell"
           ]
         },
         {
           "step": 11,
-          "name": "Overhead press",
-          "set": 3,
-          "reps": "10-12 each",
+          "name": "Dumbbell Romanian Deadlift",
+          "set": 1,
+          "reps": "10",
           "restSeconds": 90,
           "equipment": [
-            "10Kg dumbbell",
-            "bed"
+            "15Kg dumbbell"
           ]
         },
         {
           "step": 12,
-          "name": "Straight-Arm Dumbbell Pulldown",
-          "set": 1,
-          "reps": "12-15",
+          "name": "Dumbbell Romanian Deadlift",
+          "set": 2,
+          "reps": "10",
           "restSeconds": 60,
           "equipment": [
-            "10Kg dumbbell"
+            "15Kg dumbbell"
           ]
         },
         {
           "step": 13,
-          "name": "Straight-Arm Dumbbell Pulldown",
-          "set": 2,
-          "reps": "12-15",
-          "restSeconds": 60,
-          "equipment": [
-            "10Kg dumbbell"
-          ]
-        },
-        {
-          "step": 14,
-          "name": "Straight-Arm Dumbbell Pulldown",
+          "name": "Dumbbell Romanian Deadlift",
           "set": 3,
-          "reps": "12-15",
-          "restSeconds": 120,
+          "reps": "10",
+          "restSeconds": 60,
           "equipment": [
             "10Kg dumbbell"
           ]
