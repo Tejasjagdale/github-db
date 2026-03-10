@@ -1185,9 +1185,9 @@
           "reps": "8-12"
         },
         {
-          "name": "Pull-ups / Chin-ups",
+          "name": "Pull-ups",
           "sets": 4,
-          "reps": "AMRAP (stop 1 rep before failure)"
+          "reps": "5"
         },
         {
           "name": "Negative Pull-ups (Temporary)",
@@ -1248,9 +1248,9 @@
         },
         {
           "step": 6,
-          "name": "Pull-ups / Chin-ups",
+          "name": "Pull-ups",
           "set": 1,
-          "reps": "AMRAP (stop 1 rep before failure)",
+          "reps": "5",
           "restSeconds": 90,
           "equipment": [
             "pull-up bar"
@@ -1258,9 +1258,9 @@
         },
         {
           "step": 7,
-          "name": "Pull-ups / Chin-ups",
+          "name": "Pull-ups",
           "set": 2,
-          "reps": "AMRAP (stop 1 rep before failure)",
+          "reps": "5",
           "restSeconds": 90,
           "equipment": [
             "pull-up bar"
@@ -1268,9 +1268,9 @@
         },
         {
           "step": 8,
-          "name": "Pull-ups / Chin-ups",
+          "name": "Pull-ups",
           "set": 3,
-          "reps": "AMRAP (stop 1 rep before failure)",
+          "reps": "5",
           "restSeconds": 90,
           "equipment": [
             "pull-up bar"
@@ -1278,9 +1278,9 @@
         },
         {
           "step": 9,
-          "name": "Pull-ups / Chin-ups",
+          "name": "Pull-ups",
           "set": 4,
-          "reps": "AMRAP (stop 1 rep before failure)",
+          "reps": "3",
           "restSeconds": 120,
           "equipment": [
             "pull-up bar"
