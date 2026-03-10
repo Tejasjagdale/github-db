@@ -1186,13 +1186,13 @@
         },
         {
           "name": "Pull-ups",
-          "sets": 4,
+          "sets": 3,
           "reps": "5"
         },
         {
-          "name": "Negative Pull-ups (Temporary)",
-          "sets": 2,
-          "reps": "3-5 (5–6 sec descent)"
+          "name": "Chin-ups",
+          "sets": 3,
+          "reps": "3"
         }
       ],
       "exerciseOrder": [
@@ -1271,26 +1271,26 @@
           "name": "Pull-ups",
           "set": 3,
           "reps": "5",
-          "restSeconds": 90,
-          "equipment": [
-            "pull-up bar"
-          ]
-        },
-        {
-          "step": 9,
-          "name": "Pull-ups",
-          "set": 4,
-          "reps": "3",
           "restSeconds": 120,
           "equipment": [
             "pull-up bar"
           ]
         },
         {
-          "step": 10,
-          "name": "Negative Pull-ups (Temporary)",
+          "step": 9,
+          "name": "Chin-ups",
           "set": 1,
-          "reps": "3-5 (5–6 sec descent)",
+          "reps": "3",
+          "restSeconds": 90,
+          "equipment": [
+            "pull-up bar"
+          ]
+        },
+        {
+          "step": 10,
+          "name": "Chin-ups",
+          "set": 2,
+          "reps": "5",
           "restSeconds": 90,
           "equipment": [
             "pull-up bar"
@@ -1298,9 +1298,9 @@
         },
         {
           "step": 11,
-          "name": "Negative Pull-ups (Temporary)",
-          "set": 2,
-          "reps": "3-5 (5–6 sec descent)",
+          "name": "Chin-ups",
+          "set": 3,
+          "reps": "5",
           "restSeconds": 120,
           "equipment": [
             "pull-up bar"
