@@ -567,11 +567,10 @@
       "groupIds": [
         "grp_personal"
       ],
-      "deadline": "2026-02-28",
+      "deadline": "2026-04-30",
       "createdAt": "2026-02-22T10:52:58.288Z",
       "completedAt": null,
-      "status": "pending",
-      "isOverdue": true
+      "status": "pending"
     },
     {
       "id": "db213cc3-0f46-49b6-8420-cb0376edbb2e",
