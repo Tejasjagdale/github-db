@@ -81,7 +81,7 @@
         "longest": 5
       },
       "completedToday": "2026-03-10",
-      "isUrgent": true,
+      "isUrgent": false,
       "history": [
         "2026-02-23",
         "2026-02-24",
@@ -222,7 +222,7 @@
         "longest": 2
       },
       "completedToday": "2026-03-10",
-      "isUrgent": true,
+      "isUrgent": false,
       "history": [
         "2026-02-23",
         "2026-02-25",
@@ -760,6 +760,32 @@
       "createdAt": "2026-03-08T20:34:53.423Z",
       "completedAt": null,
       "status": "pending"
+    },
+    {
+      "id": "8c763f97-59db-4275-be5a-031143423b8f",
+      "title": "Resume pipeline",
+      "priority": "medium",
+      "groupIds": [
+        "grp_work"
+      ],
+      "deadline": "2026-03-11",
+      "createdAt": "2026-03-11T06:25:45.021Z",
+      "completedAt": null,
+      "status": "pending",
+      "isOverdue": false
+    },
+    {
+      "id": "1768e3e8-1a0d-4a09-bfc9-79a23c0a68b3",
+      "title": "LinkedIn templates",
+      "priority": "medium",
+      "groupIds": [
+        "grp_work"
+      ],
+      "deadline": "2026-03-11",
+      "createdAt": "2026-03-11T06:26:13.868Z",
+      "completedAt": null,
+      "status": "pending",
+      "isOverdue": false
     }
   ]
 }
