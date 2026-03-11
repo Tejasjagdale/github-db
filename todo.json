@@ -369,7 +369,7 @@
         "longest": 5
       },
       "completedToday": "2026-03-10",
-      "isUrgent": true,
+      "isUrgent": false,
       "history": [
         "2026-02-23",
         "2026-02-24",
@@ -521,8 +521,8 @@
       ],
       "deadline": "2026-03-07",
       "createdAt": "2026-02-20T04:16:58.977Z",
-      "completedAt": null,
-      "status": "pending",
+      "completedAt": "2026-03-11T08:01:22.000Z",
+      "status": "completed",
       "isOverdue": true
     },
     {
