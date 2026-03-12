@@ -78,7 +78,8 @@
       "name": "MSCI",
       "type": "fintech",
       "openings": {
-        "frontend": 1
+        "frontend": 1,
+        "backend": 1
       },
       "connections": {}
     }
