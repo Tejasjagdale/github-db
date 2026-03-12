@@ -157,7 +157,7 @@
           "name": "Concentration Curl",
           "set": 3,
           "reps": "6",
-          "restSeconds": 90,
+          "restSeconds": 110,
           "equipment": [
             "10Kg dumbbell"
           ]
