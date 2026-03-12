@@ -2,9 +2,7 @@
   "openingTypes": [
     "frontend",
     "backend",
-    "fullstack",
-    "mobile",
-    "data"
+    "fullstack"
   ],
   "connectionTypes": [
     "fcrit",
@@ -29,9 +27,7 @@
       "openings": {
         "frontend": 2,
         "backend": 1,
-        "fullstack": 1,
-        "mobile": 0,
-        "data": 0
+        "fullstack": 1
       },
       "connections": {
         "fcrit": 1,
@@ -50,8 +46,6 @@
         "frontend": 1,
         "backend": 2,
         "fullstack": 0,
-        "mobile": 0,
-        "data": 0
       },
       "connections": {
         "fcrit": 0,
@@ -70,8 +64,6 @@
         "frontend": 0,
         "backend": 4,
         "fullstack": 2,
-        "mobile": 0,
-        "data": 1
       },
       "connections": {
         "fcrit": 2,
