@@ -67,7 +67,7 @@
       "type": "tech",
       "priority": "good",
       "openings": {
-        "frontend": 1,
+        "frontend": 0,
         "backend": 4,
         "fullstack": 2,
         "mobile": 0,
