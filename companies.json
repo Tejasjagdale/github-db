@@ -72,6 +72,13 @@
       },
       "notes": "",
       "lastUpdated": "2026-03-13"
+    },
+    {
+      "id": "msci",
+      "name": "MSCI",
+      "type": "fintech",
+      "openings": {},
+      "connections": {}
     }
   ]
 }
