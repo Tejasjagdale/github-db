@@ -45,7 +45,7 @@
       "openings": {
         "frontend": 1,
         "backend": 2,
-        "fullstack": 0,
+        "fullstack": 0
       },
       "connections": {
         "fcrit": 0,
@@ -63,7 +63,7 @@
       "openings": {
         "frontend": 0,
         "backend": 4,
-        "fullstack": 2,
+        "fullstack": 2
       },
       "connections": {
         "fcrit": 2,
