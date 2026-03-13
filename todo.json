@@ -198,7 +198,14 @@
         "longest": 5
       },
       "completedToday": "2026-03-11",
-      "isUrgent": false
+      "isUrgent": false,
+      "history": [
+        "2026-03-07",
+        "2026-03-08",
+        "2026-03-09",
+        "2026-03-10",
+        "2026-03-11"
+      ]
     },
     {
       "id": "e4fe87b0-700d-41f7-a58f-05047ff0f9fa",
