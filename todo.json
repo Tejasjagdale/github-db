@@ -739,11 +739,10 @@
         "92e389b2-7e2e-4985-8b60-4d58aef3d265",
         "d8fff727-e4d0-4a8e-8a57-1e0801a7f2e4"
       ],
-      "deadline": "2026-03-12",
+      "deadline": "2026-03-17",
       "createdAt": "2026-03-04T15:32:37.163Z",
       "completedAt": null,
-      "status": "pending",
-      "isOverdue": true
+      "status": "pending"
     },
     {
       "id": "09629a48-6ee1-46c2-b3fd-dfcc340c7d06",
@@ -830,6 +829,19 @@
       ],
       "deadline": "2026-03-12",
       "createdAt": "2026-03-12T07:21:54.511Z",
+      "completedAt": null,
+      "status": "pending",
+      "isOverdue": true
+    },
+    {
+      "id": "bbe5cddd-af4a-4ffa-b7d4-080418e476e7",
+      "title": "test todo",
+      "priority": "medium",
+      "groupIds": [
+        "grp_work"
+      ],
+      "deadline": "2026-03-12",
+      "createdAt": "2026-03-13T20:19:53.321Z",
       "completedAt": null,
       "status": "pending",
       "isOverdue": true
