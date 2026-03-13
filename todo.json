@@ -832,19 +832,6 @@
       "completedAt": null,
       "status": "pending",
       "isOverdue": true
-    },
-    {
-      "id": "bbe5cddd-af4a-4ffa-b7d4-080418e476e7",
-      "title": "test todo",
-      "priority": "medium",
-      "groupIds": [
-        "grp_work"
-      ],
-      "deadline": "2026-03-12",
-      "createdAt": "2026-03-13T20:19:53.321Z",
-      "completedAt": null,
-      "status": "pending",
-      "isOverdue": true
     }
   ]
 }
