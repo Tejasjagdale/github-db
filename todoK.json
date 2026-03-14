@@ -65,7 +65,7 @@
     },
     {
       "id": "95672eab-4621-4a93-b92a-bf78723b3aaa",
-      "title": "Lavkar uthhh time var 😘",
+      "title": "Wake up on time",
       "priority": "high",
       "groupIds": [
         "grp_health"
@@ -78,11 +78,7 @@
         "longest": 1
       },
       "completedToday": "2026-02-26",
-      "isUrgent": false,
-      "history": [
-        "2026-02-23",
-        "2026-02-26"
-      ]
+      "isUrgent": false
     },
     {
       "id": "5c092d0c-3cc5-4558-9064-668a1a72a611",
