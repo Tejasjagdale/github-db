@@ -92,10 +92,16 @@
       "trackStreak": true,
       "streak": {
         "current": 0,
-        "longest": 0
+        "longest": 4
       },
       "completedToday": null,
-      "isUrgent": false
+      "isUrgent": false,
+      "history": [
+        "2026-03-08",
+        "2026-03-09",
+        "2026-03-07",
+        "2026-03-10"
+      ]
     },
     {
       "id": "1633586f-f6ee-410d-bc70-adcb63116214",
