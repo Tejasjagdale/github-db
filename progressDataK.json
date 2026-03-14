@@ -9,13 +9,9 @@
     "theme": "apple"
   },
   "dailyWeight": {
-    
+    "2026-03-14": 45.2
   },
-  "measurements": {
-   
-  },
-  "workouts": [
-  ],
-  "dailyHealth": {
-  }
+  "measurements": {},
+  "workouts": [],
+  "dailyHealth": {}
 }
