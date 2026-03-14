@@ -626,6 +626,14 @@
       "variantId": "0a2a680e-2dce-47e6-95cb-015248593d91",
       "variantName": "Arms A - Heavy Tension & Functional Strength",
       "completed": true
+    },
+    {
+      "date": "2026-03-14",
+      "startTime": "2026-03-14T15:17:25.296Z",
+      "endTime": "2026-03-14T15:37:49.312Z",
+      "variantId": "35cc9f0a-710c-4de9-8867-7d890444fed0",
+      "variantName": "Warm up ABS 2",
+      "completed": true
     }
   ],
   "dailyHealth": {}
