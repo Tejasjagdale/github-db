@@ -873,6 +873,76 @@
       "completedAt": null,
       "status": "pending",
       "isOverdue": true
+    },
+    {
+      "id": "123aac28-179d-45c9-a0f1-50ca9f26329e",
+      "title": "Chest research",
+      "priority": "medium",
+      "groupIds": [
+        "grp_health",
+        "b177bad7-3316-41b7-952a-10802396001d"
+      ],
+      "deadline": "2026-03-15",
+      "createdAt": "2026-03-14T21:22:42.668Z",
+      "completedAt": null,
+      "status": "pending",
+      "isOverdue": false
+    },
+    {
+      "id": "97df7648-548e-4983-83a2-3d4c606d44e7",
+      "title": "Biceps + triceps research",
+      "priority": "medium",
+      "groupIds": [
+        "grp_health",
+        "b177bad7-3316-41b7-952a-10802396001d"
+      ],
+      "deadline": "2026-03-15",
+      "createdAt": "2026-03-14T21:23:03.091Z",
+      "completedAt": null,
+      "status": "pending",
+      "isOverdue": false
+    },
+    {
+      "id": "9198ec65-9ce2-4aa3-9141-39b0c29dfc1a",
+      "title": "Back + shoulder research",
+      "priority": "medium",
+      "groupIds": [
+        "grp_health",
+        "b177bad7-3316-41b7-952a-10802396001d"
+      ],
+      "deadline": "2026-03-15",
+      "createdAt": "2026-03-14T21:23:17.185Z",
+      "completedAt": null,
+      "status": "pending",
+      "isOverdue": false
+    },
+    {
+      "id": "dd71dad0-c721-4bca-8ced-61b24f88d467",
+      "title": "Legs research",
+      "priority": "medium",
+      "groupIds": [
+        "grp_health",
+        "b177bad7-3316-41b7-952a-10802396001d"
+      ],
+      "deadline": "2026-03-15",
+      "createdAt": "2026-03-14T21:23:31.532Z",
+      "completedAt": null,
+      "status": "pending",
+      "isOverdue": false
+    },
+    {
+      "id": "07618b65-de6b-49fd-a3e4-28a534c6e30c",
+      "title": "ABS research",
+      "priority": "medium",
+      "groupIds": [
+        "grp_health",
+        "b177bad7-3316-41b7-952a-10802396001d"
+      ],
+      "deadline": "2026-03-15",
+      "createdAt": "2026-03-14T21:23:41.686Z",
+      "completedAt": null,
+      "status": "pending",
+      "isOverdue": false
     }
   ]
 }
