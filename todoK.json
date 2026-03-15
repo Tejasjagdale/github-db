@@ -78,8 +78,11 @@
         "current": 1,
         "longest": 1
       },
-      "completedToday": "2026-02-26",
-      "isUrgent": false
+      "completedToday": "2026-03-15",
+      "isUrgent": false,
+      "history": [
+        "2026-03-15"
+      ]
     },
     {
       "id": "5c092d0c-3cc5-4558-9064-668a1a72a611",
@@ -118,12 +121,13 @@
         "current": 1,
         "longest": 2
       },
-      "completedToday": "2026-02-27",
+      "completedToday": "2026-03-15",
       "isUrgent": false,
       "history": [
         "2026-02-23",
         "2026-02-24",
-        "2026-02-27"
+        "2026-02-27",
+        "2026-03-15"
       ]
     },
     {
@@ -161,12 +165,13 @@
         "current": 1,
         "longest": 2
       },
-      "completedToday": "2026-02-26",
+      "completedToday": "2026-03-15",
       "isUrgent": false,
       "history": [
         "2026-02-23",
         "2026-02-24",
-        "2026-02-26"
+        "2026-02-26",
+        "2026-03-15"
       ]
     },
     {
@@ -180,10 +185,10 @@
       "completeByTime": "01:30 PM",
       "trackStreak": true,
       "streak": {
-        "current": 1,
+        "current": 2,
         "longest": 6
       },
-      "completedToday": "2026-03-14",
+      "completedToday": "2026-03-15",
       "isUrgent": false,
       "history": [
         "2026-02-24",
@@ -195,7 +200,8 @@
         "2026-03-10",
         "2026-03-06",
         "2026-03-05",
-        "2026-03-14"
+        "2026-03-14",
+        "2026-03-15"
       ]
     }
   ],
@@ -207,8 +213,8 @@
       "groupIds": [],
       "deadline": "2026-03-06",
       "createdAt": "2026-02-20T04:12:54.680Z",
-      "completedAt": null,
-      "status": "pending",
+      "completedAt": "2026-03-15T12:17:40.000Z",
+      "status": "completed",
       "isOverdue": true
     },
     {
@@ -233,8 +239,8 @@
       ],
       "deadline": "2026-03-08",
       "createdAt": "2026-03-08T06:07:53.992Z",
-      "completedAt": null,
-      "status": "pending",
+      "completedAt": "2026-03-15T12:17:44.000Z",
+      "status": "completed",
       "isOverdue": true
     }
   ]
