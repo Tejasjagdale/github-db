@@ -242,6 +242,18 @@
       "completedAt": "2026-03-15T12:17:44.000Z",
       "status": "completed",
       "isOverdue": true
+    },
+    {
+      "id": "21095ee6-f9e7-49b9-ab99-5f9e2c67e334",
+      "title": "Room decor",
+      "priority": "low",
+      "groupIds": [
+        "grp_personal"
+      ],
+      "deadline": "2026-03-18",
+      "createdAt": "2026-03-15T12:18:37.874Z",
+      "completedAt": null,
+      "status": "pending"
     }
   ]
 }
