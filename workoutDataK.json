@@ -11,17 +11,22 @@
       "exercisesList": [
         {
           "name": "Pranayam",
-          "sets": 2,
+          "sets": 1,
           "reps": "60 sec"
         },
         {
           "name": "surya namaskar",
-          "sets": 2,
+          "sets": 1,
           "reps": "5"
         },
         {
+          "name": "Facial yoga",
+          "sets": 1,
+          "reps": "2"
+        },
+        {
           "name": "push ups",
-          "sets": 2,
+          "sets": 1,
           "reps": "5"
         }
       ],
@@ -48,6 +53,14 @@
         },
         {
           "step": 3,
+          "name": "Facial yoga",
+          "set": 1,
+          "reps": "2",
+          "restSeconds": 60,
+          "equipment": []
+        },
+        {
+          "step": 4,
           "name": "push ups",
           "set": 1,
           "reps": "5",
@@ -55,30 +68,6 @@
           "equipment": [
             "yoga mat"
           ]
-        },
-        {
-          "step": 4,
-          "name": "push ups",
-          "set": 2,
-          "reps": "6",
-          "restSeconds": 60,
-          "equipment": []
-        },
-        {
-          "step": 5,
-          "name": "Pranayam",
-          "set": 2,
-          "reps": "60 sec",
-          "restSeconds": 60,
-          "equipment": []
-        },
-        {
-          "step": 6,
-          "name": "surya namaskar",
-          "set": 2,
-          "reps": "8",
-          "restSeconds": 60,
-          "equipment": []
         }
       ]
     }
