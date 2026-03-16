@@ -203,6 +203,23 @@
         "2026-03-14",
         "2026-03-15"
       ]
+    },
+    {
+      "id": "246ba4c6-4211-4f02-b826-2b73a99579c4",
+      "title": "Warm milk+ 5 soaked almonds + 2 dates",
+      "priority": "high",
+      "groupIds": [
+        "grp_health"
+      ],
+      "repeatEveryDays": 1,
+      "completeByTime": "08:00 AM",
+      "trackStreak": true,
+      "streak": {
+        "current": 0,
+        "longest": 0
+      },
+      "completedToday": null,
+      "isUrgent": false
     }
   ],
   "todos": [
@@ -253,7 +270,8 @@
       "deadline": "2026-03-18",
       "createdAt": "2026-03-15T12:18:37.874Z",
       "completedAt": null,
-      "status": "pending"
+      "status": "pending",
+      "isOverdue": false
     }
   ]
 }
