@@ -220,6 +220,40 @@
       },
       "completedToday": null,
       "isUrgent": false
+    },
+    {
+      "id": "322ae397-a584-47fa-8ffb-e8df4ea722ca",
+      "title": "Breakfast",
+      "priority": "high",
+      "groupIds": [
+        "grp_health"
+      ],
+      "repeatEveryDays": 1,
+      "completeByTime": "09:00 AM",
+      "trackStreak": true,
+      "streak": {
+        "current": 0,
+        "longest": 0
+      },
+      "completedToday": null,
+      "isUrgent": false
+    },
+    {
+      "id": "738eb4d7-6dae-45c9-9e65-da8e82256337",
+      "title": "Cashew/ peanuts/ handful",
+      "priority": "high",
+      "groupIds": [
+        "grp_health"
+      ],
+      "repeatEveryDays": 1,
+      "completeByTime": "11:00 AM",
+      "trackStreak": true,
+      "streak": {
+        "current": 0,
+        "longest": 0
+      },
+      "completedToday": null,
+      "isUrgent": false
     }
   ],
   "todos": [
