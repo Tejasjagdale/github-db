@@ -78,10 +78,11 @@
         "current": 1,
         "longest": 1
       },
-      "completedToday": "2026-03-15",
+      "completedToday": "2026-03-17",
       "isUrgent": false,
       "history": [
-        "2026-03-15"
+        "2026-03-15",
+        "2026-03-17"
       ]
     },
     {
@@ -215,11 +216,14 @@
       "completeByTime": "08:00 AM",
       "trackStreak": true,
       "streak": {
-        "current": 0,
-        "longest": 0
+        "current": 1,
+        "longest": 1
       },
-      "completedToday": null,
-      "isUrgent": false
+      "completedToday": "2026-03-17",
+      "isUrgent": false,
+      "history": [
+        "2026-03-17"
+      ]
     },
     {
       "id": "322ae397-a584-47fa-8ffb-e8df4ea722ca",
@@ -232,11 +236,14 @@
       "completeByTime": "09:00 AM",
       "trackStreak": true,
       "streak": {
-        "current": 0,
-        "longest": 0
+        "current": 1,
+        "longest": 1
       },
-      "completedToday": null,
-      "isUrgent": false
+      "completedToday": "2026-03-17",
+      "isUrgent": false,
+      "history": [
+        "2026-03-17"
+      ]
     },
     {
       "id": "738eb4d7-6dae-45c9-9e65-da8e82256337",
