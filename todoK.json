@@ -109,29 +109,6 @@
       ]
     },
     {
-      "id": "1633586f-f6ee-410d-bc70-adcb63116214",
-      "title": "Snacks(meal 3)",
-      "priority": "medium",
-      "groupIds": [
-        "grp_health"
-      ],
-      "repeatEveryDays": 1,
-      "completeByTime": "05:00 PM",
-      "trackStreak": true,
-      "streak": {
-        "current": 1,
-        "longest": 2
-      },
-      "completedToday": "2026-03-15",
-      "isUrgent": false,
-      "history": [
-        "2026-02-23",
-        "2026-02-24",
-        "2026-02-27",
-        "2026-03-15"
-      ]
-    },
-    {
       "id": "16bd7fcc-c0d8-40c8-8937-91619f3a4ab1",
       "title": "PG preparation",
       "priority": "high",
@@ -139,18 +116,14 @@
         "ec95d6d1-5b2b-4df7-a361-76c0a0825639"
       ],
       "repeatEveryDays": 1,
-      "completeByTime": "09:45 PM",
+      "completeByTime": "07:00 PM",
       "trackStreak": true,
       "streak": {
         "current": 0,
         "longest": 2
       },
       "completedToday": null,
-      "isUrgent": false,
-      "history": [
-        "2026-03-11",
-        "2026-03-12"
-      ]
+      "isUrgent": false
     },
     {
       "id": "6b654c72-a5b1-498b-8cef-1ba615b65735",
@@ -166,13 +139,14 @@
         "current": 1,
         "longest": 2
       },
-      "completedToday": "2026-03-15",
+      "completedToday": "2026-03-17",
       "isUrgent": false,
       "history": [
         "2026-02-23",
         "2026-02-24",
         "2026-02-26",
-        "2026-03-15"
+        "2026-03-15",
+        "2026-03-17"
       ]
     },
     {
