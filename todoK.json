@@ -157,27 +157,14 @@
         "grp_health"
       ],
       "repeatEveryDays": 1,
-      "completeByTime": "01:30 PM",
+      "completeByTime": "02:30 PM",
       "trackStreak": true,
       "streak": {
         "current": 2,
         "longest": 6
       },
       "completedToday": "2026-03-15",
-      "isUrgent": false,
-      "history": [
-        "2026-02-24",
-        "2026-02-26",
-        "2026-02-27",
-        "2026-03-07",
-        "2026-03-08",
-        "2026-03-09",
-        "2026-03-10",
-        "2026-03-06",
-        "2026-03-05",
-        "2026-03-14",
-        "2026-03-15"
-      ]
+      "isUrgent": false
     },
     {
       "id": "246ba4c6-4211-4f02-b826-2b73a99579c4",
