@@ -35,7 +35,8 @@
         "other": 2
       },
       "notes": "",
-      "lastUpdated": "2026-03-13"
+      "lastUpdated": "2026-03-18",
+      "noOfConnections": 0
     },
     {
       "id": "razorpay",
@@ -53,7 +54,8 @@
         "other": 1
       },
       "notes": "",
-      "lastUpdated": "2026-03-13"
+      "lastUpdated": "2026-03-18",
+      "noOfConnections": 0
     },
     {
       "id": "amazon",
@@ -71,7 +73,8 @@
         "other": 3
       },
       "notes": "",
-      "lastUpdated": "2026-03-13"
+      "lastUpdated": "2026-03-18",
+      "noOfConnections": 1
     },
     {
       "id": "msci",
@@ -81,7 +84,9 @@
         "frontend": 1,
         "backend": 1
       },
-      "connections": {}
+      "connections": {},
+      "noOfConnections": 4,
+      "lastUpdated": "2026-03-18"
     }
   ]
 }
