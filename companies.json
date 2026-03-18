@@ -20,6 +20,19 @@
   ],
   "companies": [
     {
+      "id": "barclays",
+      "name": "Barclays",
+      "type": "fintech",
+      "priority": "good",
+      "openings": {
+        "frontend": 0,
+        "backend": 0,
+        "fullstack": 0
+      },
+      "noOfConnections": 0,
+      "lastUpdated": "2026-03-18"
+    },
+    {
       "id": "duestche",
       "name": "duestche",
       "type": "fintech",
