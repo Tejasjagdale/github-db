@@ -34,7 +34,7 @@
     },
     {
       "id": "deutsche",
-      "name": "deutsche",
+      "name": "Deutsche",
       "type": "fintech",
       "priority": "good",
       "openings": {
@@ -43,7 +43,7 @@
         "fullstack": 0
       },
       "noOfConnections": 2,
-      "lastUpdated": "2026-03-18"
+      "lastUpdated": "2026-03-19"
     }
   ]
 }
