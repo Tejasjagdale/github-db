@@ -666,6 +666,14 @@
       "variantId": "35cc9f0a-710c-4de9-8867-7d890444fed0",
       "variantName": "Warm up ABS 2",
       "completed": true
+    },
+    {
+      "date": "2026-03-19",
+      "startTime": "2026-03-19T15:41:45.814Z",
+      "endTime": "2026-03-19T16:21:07.316Z",
+      "variantId": "f9b3a7d1-5c24-4d8e-9e61-2a7c8f0b6e42",
+      "variantName": "Chest C - Lower Chest Control & Shape",
+      "completed": true
     }
   ],
   "dailyHealth": {}
