@@ -658,6 +658,14 @@
       "variantId": "b1f3c0e4-3a92-4a4d-9b1e-8a2c7f5e9d42",
       "variantName": "Arms B - Volume & Shape (Joint-Smart)",
       "completed": true
+    },
+    {
+      "date": "2026-03-19",
+      "startTime": "2026-03-19T15:19:56.223Z",
+      "endTime": "2026-03-19T15:38:54.883Z",
+      "variantId": "35cc9f0a-710c-4de9-8867-7d890444fed0",
+      "variantName": "Warm up ABS 2",
+      "completed": true
     }
   ],
   "dailyHealth": {}
