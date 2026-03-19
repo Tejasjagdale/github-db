@@ -29,8 +29,8 @@
         "backend": 0,
         "fullstack": 0
       },
-      "noOfConnections": 0,
-      "lastUpdated": "2026-03-18"
+      "noOfConnections": 2,
+      "lastUpdated": "2026-03-19"
     },
     {
       "id": "deutsche",
@@ -42,7 +42,7 @@
         "backend": 0,
         "fullstack": 0
       },
-      "noOfConnections": 2,
+      "noOfConnections": 3,
       "lastUpdated": "2026-03-19"
     }
   ]
