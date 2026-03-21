@@ -335,7 +335,7 @@
         "longest": 3
       },
       "completedToday": "2026-03-17",
-      "isUrgent": false,
+      "isUrgent": true,
       "history": [
         "2026-02-23",
         "2026-02-24",
@@ -401,10 +401,10 @@
       "completeByTime": "01:30 PM",
       "trackStreak": true,
       "streak": {
-        "current": 4,
+        "current": 5,
         "longest": 5
       },
-      "completedToday": "2026-03-20",
+      "completedToday": "2026-03-21",
       "isUrgent": false,
       "history": [
         "2026-02-23",
@@ -426,7 +426,8 @@
         "2026-03-17",
         "2026-03-18",
         "2026-03-19",
-        "2026-03-20"
+        "2026-03-20",
+        "2026-03-21"
       ]
     },
     {
@@ -440,10 +441,10 @@
       "completeByTime": "04:30 PM",
       "trackStreak": true,
       "streak": {
-        "current": 14,
-        "longest": 14
+        "current": 15,
+        "longest": 15
       },
-      "completedToday": "2026-03-20",
+      "completedToday": "2026-03-21",
       "isUrgent": false,
       "history": [
         "2026-02-23",
@@ -465,7 +466,8 @@
         "2026-03-17",
         "2026-03-18",
         "2026-03-19",
-        "2026-03-20"
+        "2026-03-20",
+        "2026-03-21"
       ]
     },
     {
@@ -479,10 +481,10 @@
       "completeByTime": "03:30 PM",
       "trackStreak": true,
       "streak": {
-        "current": 17,
-        "longest": 17
+        "current": 18,
+        "longest": 18
       },
-      "completedToday": "2026-03-20",
+      "completedToday": "2026-03-21",
       "isUrgent": false,
       "history": [
         "2026-02-23",
@@ -509,7 +511,8 @@
         "2026-03-17",
         "2026-03-18",
         "2026-03-19",
-        "2026-03-20"
+        "2026-03-20",
+        "2026-03-21"
       ]
     },
     {
@@ -1013,7 +1016,7 @@
       "createdAt": "2026-03-19T18:46:17.147Z",
       "completedAt": null,
       "status": "pending",
-      "isOverdue": false
+      "isOverdue": true
     },
     {
       "id": "58a76ada-1e5c-4e39-857c-cc5a8f405a74",
@@ -1026,7 +1029,7 @@
       "createdAt": "2026-03-19T18:46:32.065Z",
       "completedAt": null,
       "status": "pending",
-      "isOverdue": false
+      "isOverdue": true
     }
   ]
 }
