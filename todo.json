@@ -77,10 +77,10 @@
       "completeByTime": "10:00 PM",
       "trackStreak": true,
       "streak": {
-        "current": 5,
+        "current": 1,
         "longest": 8
       },
-      "completedToday": "2026-03-20",
+      "completedToday": "2026-03-22",
       "isUrgent": false,
       "history": [
         "2026-02-23",
@@ -103,7 +103,8 @@
         "2026-03-17",
         "2026-03-18",
         "2026-03-19",
-        "2026-03-20"
+        "2026-03-20",
+        "2026-03-22"
       ]
     },
     {
@@ -368,7 +369,7 @@
         "current": 1,
         "longest": 9
       },
-      "completedToday": "2026-03-20",
+      "completedToday": "2026-03-22",
       "isUrgent": false,
       "history": [
         "2026-02-23",
@@ -390,7 +391,8 @@
         "2026-03-14",
         "2026-03-15",
         "2026-03-17",
-        "2026-03-20"
+        "2026-03-20",
+        "2026-03-22"
       ]
     },
     {
@@ -445,11 +447,11 @@
       "completeByTime": "04:30 PM",
       "trackStreak": true,
       "streak": {
-        "current": 15,
-        "longest": 15
+        "current": 16,
+        "longest": 16
       },
-      "completedToday": "2026-03-21",
-      "isUrgent": true,
+      "completedToday": "2026-03-22",
+      "isUrgent": false,
       "history": [
         "2026-02-23",
         "2026-02-24",
@@ -471,7 +473,8 @@
         "2026-03-18",
         "2026-03-19",
         "2026-03-20",
-        "2026-03-21"
+        "2026-03-21",
+        "2026-03-22"
       ]
     },
     {
