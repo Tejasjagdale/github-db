@@ -292,10 +292,10 @@
       "completeByTime": "07:45 AM",
       "trackStreak": true,
       "streak": {
-        "current": 5,
+        "current": 6,
         "longest": 9
       },
-      "completedToday": "2026-03-21",
+      "completedToday": "2026-03-22",
       "isUrgent": false,
       "history": [
         "2026-02-24",
@@ -319,7 +319,8 @@
         "2026-03-18",
         "2026-03-19",
         "2026-03-20",
-        "2026-03-21"
+        "2026-03-21",
+        "2026-03-22"
       ]
     },
     {
@@ -337,7 +338,7 @@
         "longest": 3
       },
       "completedToday": "2026-03-17",
-      "isUrgent": true,
+      "isUrgent": false,
       "history": [
         "2026-02-23",
         "2026-02-24",
@@ -403,10 +404,10 @@
       "completeByTime": "01:30 PM",
       "trackStreak": true,
       "streak": {
-        "current": 5,
-        "longest": 5
+        "current": 6,
+        "longest": 6
       },
-      "completedToday": "2026-03-21",
+      "completedToday": "2026-03-22",
       "isUrgent": false,
       "history": [
         "2026-02-23",
@@ -429,7 +430,8 @@
         "2026-03-18",
         "2026-03-19",
         "2026-03-20",
-        "2026-03-21"
+        "2026-03-21",
+        "2026-03-22"
       ]
     },
     {
@@ -447,7 +449,7 @@
         "longest": 15
       },
       "completedToday": "2026-03-21",
-      "isUrgent": false,
+      "isUrgent": true,
       "history": [
         "2026-02-23",
         "2026-02-24",
@@ -483,10 +485,10 @@
       "completeByTime": "03:30 PM",
       "trackStreak": true,
       "streak": {
-        "current": 18,
-        "longest": 18
+        "current": 19,
+        "longest": 19
       },
-      "completedToday": "2026-03-21",
+      "completedToday": "2026-03-22",
       "isUrgent": false,
       "history": [
         "2026-02-23",
@@ -514,7 +516,8 @@
         "2026-03-18",
         "2026-03-19",
         "2026-03-20",
-        "2026-03-21"
+        "2026-03-21",
+        "2026-03-22"
       ]
     },
     {
@@ -528,10 +531,10 @@
       "completeByTime": "07:30 AM",
       "trackStreak": true,
       "streak": {
-        "current": 5,
+        "current": 6,
         "longest": 9
       },
-      "completedToday": "2026-03-21",
+      "completedToday": "2026-03-22",
       "isUrgent": false,
       "history": [
         "2026-03-09",
@@ -547,7 +550,8 @@
         "2026-03-18",
         "2026-03-19",
         "2026-03-20",
-        "2026-03-21"
+        "2026-03-21",
+        "2026-03-22"
       ]
     }
   ],
