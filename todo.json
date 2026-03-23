@@ -1070,6 +1070,19 @@
       "createdAt": "2026-03-23T02:36:53.228Z",
       "completedAt": null,
       "status": "pending"
+    },
+    {
+      "id": "67edb9f3-e4ec-4088-803b-b846c36b7fa2",
+      "title": "Mobile cover",
+      "priority": "medium",
+      "groupIds": [
+        "404eaef8-2fc8-428b-8453-9ab3ccba3a79"
+      ],
+      "deadline": "2026-03-23",
+      "createdAt": "2026-03-23T14:35:56.722Z",
+      "completedAt": null,
+      "status": "pending",
+      "isOverdue": false
     }
   ]
 }
