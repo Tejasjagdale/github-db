@@ -1083,6 +1083,18 @@
       "completedAt": null,
       "status": "pending",
       "isOverdue": false
+    },
+    {
+      "id": "a5444099-9e90-46ed-ab4c-f78d61c37a30",
+      "title": "persuit of happines",
+      "priority": "medium",
+      "groupIds": [
+        "a6294fc4-f132-4cfb-8342-b5548e37e9cb"
+      ],
+      "deadline": "2026-06-30",
+      "createdAt": "2026-03-23T14:40:55.800Z",
+      "completedAt": null,
+      "status": "pending"
     }
   ]
 }
