@@ -1042,6 +1042,32 @@
       "completedAt": null,
       "status": "pending",
       "isOverdue": true
+    },
+    {
+      "id": "4557c2c6-c385-4bb6-b250-77a73ead9b9e",
+      "title": "Protein powder",
+      "priority": "medium",
+      "groupIds": [
+        "grp_health",
+        "404eaef8-2fc8-428b-8453-9ab3ccba3a79"
+      ],
+      "deadline": "2026-03-31",
+      "createdAt": "2026-03-23T02:36:44.046Z",
+      "completedAt": null,
+      "status": "pending"
+    },
+    {
+      "id": "555638b3-33f1-4b64-87e7-ae445df024ea",
+      "title": "Creatine",
+      "priority": "medium",
+      "groupIds": [
+        "grp_health",
+        "404eaef8-2fc8-428b-8453-9ab3ccba3a79"
+      ],
+      "deadline": "2026-03-31",
+      "createdAt": "2026-03-23T02:36:53.228Z",
+      "completedAt": null,
+      "status": "pending"
     }
   ]
 }
