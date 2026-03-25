@@ -455,10 +455,10 @@
       "completeByTime": "04:30 PM",
       "trackStreak": true,
       "streak": {
-        "current": 1,
+        "current": 2,
         "longest": 16
       },
-      "completedToday": "2026-03-24",
+      "completedToday": "2026-03-25",
       "isUrgent": false,
       "history": [
         "2026-02-23",
@@ -483,7 +483,8 @@
         "2026-03-20",
         "2026-03-21",
         "2026-03-22",
-        "2026-03-24"
+        "2026-03-24",
+        "2026-03-25"
       ]
     },
     {
