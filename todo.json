@@ -185,7 +185,7 @@
       "completeByTime": "07:00 PM",
       "trackStreak": true,
       "streak": {
-        "current": 1,
+        "current": 0,
         "longest": 4
       },
       "completedToday": "2026-03-19",
@@ -203,7 +203,8 @@
         "2026-03-11",
         "2026-03-14",
         "2026-03-17",
-        "2026-03-19"
+        "2026-03-19",
+        "2026-03-26"
       ]
     },
     {
@@ -297,8 +298,8 @@
       "completeByTime": "07:45 AM",
       "trackStreak": true,
       "streak": {
-        "current": 9,
-        "longest": 9
+        "current": 0,
+        "longest": 10
       },
       "completedToday": "2026-03-25",
       "isUrgent": false,
@@ -328,7 +329,8 @@
         "2026-03-22",
         "2026-03-23",
         "2026-03-24",
-        "2026-03-25"
+        "2026-03-25",
+        "2026-03-26"
       ]
     },
     {
@@ -458,7 +460,7 @@
       "completeByTime": "04:30 PM",
       "trackStreak": true,
       "streak": {
-        "current": 2,
+        "current": 0,
         "longest": 16
       },
       "completedToday": "2026-03-25",
@@ -487,7 +489,8 @@
         "2026-03-21",
         "2026-03-22",
         "2026-03-24",
-        "2026-03-25"
+        "2026-03-25",
+        "2026-03-26"
       ]
     },
     {
@@ -501,8 +504,8 @@
       "completeByTime": "03:30 PM",
       "trackStreak": true,
       "streak": {
-        "current": 22,
-        "longest": 22
+        "current": 0,
+        "longest": 23
       },
       "completedToday": "2026-03-25",
       "isUrgent": false,
@@ -536,7 +539,8 @@
         "2026-03-22",
         "2026-03-23",
         "2026-03-24",
-        "2026-03-25"
+        "2026-03-25",
+        "2026-03-26"
       ]
     },
     {
@@ -550,8 +554,8 @@
       "completeByTime": "07:30 AM",
       "trackStreak": true,
       "streak": {
-        "current": 9,
-        "longest": 9
+        "current": 0,
+        "longest": 10
       },
       "completedToday": "2026-03-25",
       "isUrgent": false,
@@ -573,7 +577,8 @@
         "2026-03-22",
         "2026-03-23",
         "2026-03-24",
-        "2026-03-25"
+        "2026-03-25",
+        "2026-03-26"
       ]
     }
   ],
@@ -1043,8 +1048,8 @@
       ],
       "deadline": "2026-03-20",
       "createdAt": "2026-03-19T18:46:17.147Z",
-      "completedAt": null,
-      "status": "pending",
+      "completedAt": "2026-03-27T12:05:42.000Z",
+      "status": "completed",
       "isOverdue": true
     },
     {
@@ -1056,8 +1061,8 @@
       ],
       "deadline": "2026-03-20",
       "createdAt": "2026-03-19T18:46:32.065Z",
-      "completedAt": null,
-      "status": "pending",
+      "completedAt": "2026-03-27T12:05:47.000Z",
+      "status": "completed",
       "isOverdue": true
     },
     {
