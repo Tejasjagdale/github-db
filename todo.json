@@ -378,10 +378,10 @@
       "completeByTime": "08:30 PM",
       "trackStreak": true,
       "streak": {
-        "current": 1,
+        "current": 2,
         "longest": 9
       },
-      "completedToday": "2026-03-27",
+      "completedToday": "2026-03-28",
       "isUrgent": false,
       "history": [
         "2026-02-23",
@@ -406,7 +406,8 @@
         "2026-03-20",
         "2026-03-22",
         "2026-03-25",
-        "2026-03-27"
+        "2026-03-27",
+        "2026-03-28"
       ]
     },
     {
@@ -465,10 +466,10 @@
       "completeByTime": "04:30 PM",
       "trackStreak": true,
       "streak": {
-        "current": 4,
+        "current": 5,
         "longest": 16
       },
-      "completedToday": "2026-03-27",
+      "completedToday": "2026-03-28",
       "isUrgent": false,
       "history": [
         "2026-02-23",
@@ -496,7 +497,8 @@
         "2026-03-24",
         "2026-03-25",
         "2026-03-26",
-        "2026-03-27"
+        "2026-03-27",
+        "2026-03-28"
       ]
     },
     {
@@ -510,10 +512,10 @@
       "completeByTime": "03:30 PM",
       "trackStreak": true,
       "streak": {
-        "current": 24,
-        "longest": 24
+        "current": 25,
+        "longest": 25
       },
-      "completedToday": "2026-03-27",
+      "completedToday": "2026-03-28",
       "isUrgent": false,
       "history": [
         "2026-02-23",
@@ -547,7 +549,8 @@
         "2026-03-24",
         "2026-03-25",
         "2026-03-26",
-        "2026-03-27"
+        "2026-03-27",
+        "2026-03-28"
       ]
     },
     {
