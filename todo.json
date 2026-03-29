@@ -1087,7 +1087,8 @@
       "deadline": "2026-03-31",
       "createdAt": "2026-03-23T02:36:44.046Z",
       "completedAt": null,
-      "status": "pending"
+      "status": "pending",
+      "isOverdue": false
     },
     {
       "id": "555638b3-33f1-4b64-87e7-ae445df024ea",
@@ -1099,8 +1100,9 @@
       ],
       "deadline": "2026-03-31",
       "createdAt": "2026-03-23T02:36:53.228Z",
-      "completedAt": null,
-      "status": "pending"
+      "completedAt": "2026-03-29T08:36:45.000Z",
+      "status": "completed",
+      "isOverdue": false
     },
     {
       "id": "67edb9f3-e4ec-4088-803b-b846c36b7fa2",
