@@ -599,7 +599,7 @@
           "reps": "8-10"
         },
         {
-          "name": "Low-to-High Push-ups (optional)",
+          "name": "Push-ups (optional)",
           "sets": 2,
           "reps": "8"
         }
@@ -629,7 +629,7 @@
           "step": 3,
           "name": "Feet-Elevated Push-ups",
           "set": 3,
-          "reps": "9",
+          "reps": "12",
           "restSeconds": 90,
           "equipment": [
             "chair"
@@ -639,7 +639,7 @@
           "step": 4,
           "name": "Feet-Elevated Push-ups",
           "set": 4,
-          "reps": "6",
+          "reps": "12",
           "restSeconds": 120,
           "equipment": [
             "chair"
@@ -693,7 +693,7 @@
           "step": 9,
           "name": "Incline Dumbbell Press",
           "set": 2,
-          "reps": "6",
+          "reps": "7",
           "restSeconds": 75,
           "equipment": [
             "yoga mat",
@@ -757,7 +757,7 @@
         },
         {
           "step": 15,
-          "name": "Low-to-High Push-ups (optional)",
+          "name": "Push-ups (optional)",
           "set": 1,
           "reps": "8",
           "restSeconds": 60,
@@ -765,7 +765,7 @@
         },
         {
           "step": 16,
-          "name": "Low-to-High Push-ups (optional)",
+          "name": "Push-ups (optional)",
           "set": 2,
           "reps": "10",
           "restSeconds": 60,
