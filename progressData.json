@@ -685,6 +685,14 @@
       "variantId": "e7a2c9d4-8b61-4a2f-9c3e-6f1b2d9a54c1",
       "variantName": "Arms C - Power & Functional Integration",
       "completed": true
+    },
+    {
+      "date": "2026-03-30",
+      "startTime": "2026-03-30T15:33:23.705Z",
+      "endTime": "2026-03-30T15:51:47.475Z",
+      "variantId": "fff584c5-279d-424a-a78b-4c0175fb88c6",
+      "variantName": "Warm up ABS 1",
+      "completed": true
     }
   ],
   "dailyHealth": {}
