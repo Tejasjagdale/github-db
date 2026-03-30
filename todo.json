@@ -381,7 +381,7 @@
       "completeByTime": "08:30 PM",
       "trackStreak": true,
       "streak": {
-        "current": 1,
+        "current": 4,
         "longest": 9
       },
       "completedToday": "2026-03-30",
@@ -411,7 +411,8 @@
         "2026-03-25",
         "2026-03-27",
         "2026-03-28",
-        "2026-03-30"
+        "2026-03-30",
+        "2026-03-29"
       ]
     },
     {
@@ -516,8 +517,8 @@
       "completeByTime": "03:30 PM",
       "trackStreak": true,
       "streak": {
-        "current": 1,
-        "longest": 25
+        "current": 27,
+        "longest": 27
       },
       "completedToday": "2026-03-30",
       "isUrgent": false,
@@ -555,7 +556,8 @@
         "2026-03-26",
         "2026-03-27",
         "2026-03-28",
-        "2026-03-30"
+        "2026-03-30",
+        "2026-03-29"
       ]
     },
     {
