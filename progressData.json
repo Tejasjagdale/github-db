@@ -716,6 +716,10 @@
     {
       "name": "brunch fruits",
       "detail": "some seasonal fruit + 1 banana/apple"
+    },
+    {
+      "name": "snacks",
+      "detail": "protine bar 10g protine"
     }
   ]
 }
