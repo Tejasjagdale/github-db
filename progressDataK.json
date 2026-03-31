@@ -15,5 +15,10 @@
   "measurements": {},
   "workouts": [],
   "dailyHealth": {},
-  "meals":[]
+  "meals": [
+    {
+      "name": "protine milk",
+      "detail": "250 ml milk + protinex powder 20g"
+    }
+  ]
 }
