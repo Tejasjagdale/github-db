@@ -3,9 +3,9 @@
     "name": "Tejas",
     "age": 23,
     "gender": "male",
-    "heightCm": 177,
-    "goalWeight": 65,
-    "targetBMI": 20.7,
+    "heightCm": 176,
+    "goalWeight": 70,
+    "targetBMI": 22.6,
     "theme": "apple"
   },
   "dailyWeight": {
