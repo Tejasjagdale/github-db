@@ -724,6 +724,10 @@
     {
       "name": "dinner",
       "detail": "250g air fired chicken"
+    },
+    {
+      "name": "post workout whey",
+      "detail": "35g whey + water"
     }
   ]
 }
