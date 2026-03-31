@@ -19,6 +19,10 @@
     {
       "name": "protine milk",
       "detail": "250 ml milk + protinex powder 20g"
+    },
+    {
+      "name": "lunch",
+      "detail": "sabji + 2 roti"
     }
   ]
 }
