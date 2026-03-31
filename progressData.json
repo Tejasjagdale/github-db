@@ -712,6 +712,10 @@
     {
       "name": "generic indian meal",
       "detail": "sabji + 3 roti"
+    },
+    {
+      "name": "brunch fruits",
+      "detail": "some seasonal fruit + 1 banana/apple"
     }
   ]
 }
