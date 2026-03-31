@@ -703,5 +703,11 @@
       "completed": true
     }
   ],
-  "dailyHealth": {}
+  "dailyHealth": {},
+    "meals": [
+    {
+      "name":"morning protine shake",
+      "detail":"protine shake with 35g of whey protine and 400ml of milk + 1 banana + 45g oats + 1tbsp of peanut butter"
+    }
+  ]
 }
