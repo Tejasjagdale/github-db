@@ -720,6 +720,10 @@
     {
       "name": "snacks",
       "detail": "protine bar 10g protine"
+    },
+    {
+      "name": "dinner",
+      "detail": "250g air fired chicken"
     }
   ]
 }
