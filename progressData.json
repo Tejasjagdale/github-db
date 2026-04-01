@@ -118,7 +118,8 @@
     "2026-03-14": 65.2,
     "2026-03-24": 65,
     "2026-03-26": 64.95,
-    "2026-03-30": 65.2
+    "2026-03-30": 65.2,
+    "2026-04-01": 65
   },
   "measurements": {
     "2024-07-03": {
@@ -703,31 +704,5 @@
       "completed": true
     }
   ],
-  "dailyHealth": {},
-  "meals": [
-    {
-      "name": "morning protine shake",
-      "detail": "protine shake with 35g of whey protine and 400ml of milk + 1 banana + 45g oats + 1tbsp of peanut butter"
-    },
-    {
-      "name": "generic indian meal",
-      "detail": "sabji + 3 roti"
-    },
-    {
-      "name": "brunch fruits",
-      "detail": "some seasonal fruit + 1 banana/apple"
-    },
-    {
-      "name": "snacks",
-      "detail": "protine bar 10g protine"
-    },
-    {
-      "name": "dinner",
-      "detail": "250g air fired chicken"
-    },
-    {
-      "name": "post workout whey",
-      "detail": "35g whey + water"
-    }
-  ]
+  "dailyHealth": {}
 }
