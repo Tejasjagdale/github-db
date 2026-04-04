@@ -773,12 +773,12 @@
       "timestamp": "2026-04-04T08:37:32.760Z"
     },
     "2026-04-04": {
-      "calories": 742,
-      "protein": 64.4,
-      "carbs": 93.5,
-      "fats": 24.5,
+      "calories": 1947,
+      "protein": 114,
+      "carbs": 244,
+      "fats": 73,
       "protein_goal_met": true,
-      "summary": "High protein meal with balanced macros",
+      "summary": "High protein intake",
       "targets": {
         "goalType": "gain",
         "targetCalories": 2462,
@@ -787,9 +787,11 @@
         "carbTarget": 380
       },
       "meals": [
-        "400ml high protine milk (30 g protine in 450ml) +  35g (24g protine) whey  + 1tbsp peanut butter + creatine + 50 g oats + 1 banana"
+        "400ml high protine milk (30 g protine in 450ml) +  35g (24g protine) whey  + 1tbsp peanut butter + creatine + 50 g oats + 1 banana",
+        "3 medium roti + sabji",
+        "Protine bar 10g protine"
       ],
-      "timestamp": "2026-04-04T09:10:27.507Z"
+      "timestamp": "2026-04-04T09:35:21.542Z"
     }
   }
 }
