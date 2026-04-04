@@ -738,6 +738,11 @@
       "completed": true
     }
   ],
-  "meals": [],
+  "meals": [
+    {
+      "name": "lunch",
+      "detail": "3 medium roti + sabji"
+    }
+  ],
   "nutritionTracker": []
 }
