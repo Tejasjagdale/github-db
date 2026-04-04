@@ -746,6 +746,10 @@
     {
       "name": "snacks",
       "detail": "Protine bar 10g protine"
+    },
+    {
+      "name": "protine shake",
+      "detail": "400ml high protine milk (30 g protine) +35g whey  + 1tbsp peanut butter + creatine + 50 g oats + 1 banana"
     }
   ],
   "nutritionTracker": {
