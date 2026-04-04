@@ -738,10 +738,5 @@
       "completed": true
     }
   ],
-  "meals": [
-    {
-      "name": "asdsad",
-      "detail": "Dadad"
-    }
-  ]
+  "meals": []
 }
