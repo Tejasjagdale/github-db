@@ -1193,6 +1193,19 @@
       "completedAt": null,
       "status": "pending",
       "isOverdue": true
+    },
+    {
+      "id": "3ace6c1e-7eae-487f-be96-622fbd121778",
+      "title": "happy new year wishes",
+      "priority": "medium",
+      "groupIds": [
+        "grp_personal"
+      ],
+      "deadline": "2026-01-01",
+      "createdAt": "2026-04-04T22:10:17.085Z",
+      "completedAt": null,
+      "status": "pending",
+      "isOverdue": true
     }
   ]
 }
