@@ -758,11 +758,14 @@
   ],
   "nutritionTracker": {
     "2026-04-03": {
+      "date": "2026-04-03",
       "calories": 740,
       "protein": 93,
       "carbs": 108,
       "fats": 24,
-      "protein_goal_met": true,
+      "meals": [
+        "400ml high protine milk (30 g protine) +35g whey  + 1tbsp peanut butter + creatine + 50 g oats + 1 banana"
+      ],
       "summary": "High protein meal with balanced macros",
       "targets": {
         "goalType": "gain",
@@ -771,10 +774,7 @@
         "fatTarget": 52,
         "carbTarget": 380
       },
-      "meals": [
-        "400ml high protine milk (30 g protine) +35g whey  + 1tbsp peanut butter + creatine + 50 g oats + 1 banana"
-      ],
-      "timestamp": "2026-04-04T08:37:32.760Z"
+      "timestamp": "2026-04-04T21:11:50.236Z"
     },
     "2026-04-04": {
       "calories": 2475,
