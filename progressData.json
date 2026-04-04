@@ -744,5 +744,25 @@
       "detail": "3 medium roti + sabji"
     }
   ],
-  "nutritionTracker": []
+  "nutritionTracker": {
+    "2026-04-04": {
+      "calories": 450,
+      "protein": 15,
+      "carbs": 70,
+      "fats": 10,
+      "protein_goal_met": false,
+      "summary": "Low protein intake",
+      "targets": {
+        "goalType": "gain",
+        "targetCalories": 2462,
+        "proteinTarget": 118,
+        "fatTarget": 52,
+        "carbTarget": 380
+      },
+      "meals": [
+        "3 medium roti + sabji"
+      ],
+      "timestamp": "2026-04-04T08:30:06.787Z"
+    }
+  }
 }
