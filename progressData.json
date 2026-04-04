@@ -4,8 +4,8 @@
     "age": 23,
     "gender": "male",
     "heightCm": 176,
-    "goalWeight": 70,
-    "targetBMI": 22.6,
+    "goalWeight": 59,
+    "targetBMI": 19,
     "theme": "apple"
   },
   "dailyWeight": {
