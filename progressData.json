@@ -754,6 +754,10 @@
     {
       "name": "snack",
       "detail": "protine bar ( 10 g protine)"
+    },
+    {
+      "name": "Fruits",
+      "detail": "1 apple/banana +  1 seasonal fruit"
     }
   ],
   "nutritionTracker": {
