@@ -753,13 +753,13 @@
     }
   ],
   "nutritionTracker": {
-    "2026-04-03": {
-      "calories": 420,
-      "protein": 25,
-      "carbs": 60,
-      "fats": 10,
-      "protein_goal_met": false,
-      "summary": "low protein intake",
+    "2026-04-04": {
+      "calories": 740,
+      "protein": 93,
+      "carbs": 108,
+      "fats": 24,
+      "protein_goal_met": true,
+      "summary": "High protein meal with balanced macros",
       "targets": {
         "goalType": "gain",
         "targetCalories": 2462,
@@ -768,10 +768,9 @@
         "carbTarget": 380
       },
       "meals": [
-        "3 medium roti + sabji",
-        "Protine bar 10g protine"
+        "400ml high protine milk (30 g protine) +35g whey  + 1tbsp peanut butter + creatine + 50 g oats + 1 banana"
       ],
-      "timestamp": "2026-04-04T08:32:17.622Z"
+      "timestamp": "2026-04-04T08:37:32.760Z"
     }
   }
 }
