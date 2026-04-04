@@ -742,6 +742,10 @@
     {
       "name": "lunch",
       "detail": "3 medium roti + sabji"
+    },
+    {
+      "name": "snacks",
+      "detail": "Protine bar 10g protine"
     }
   ],
   "nutritionTracker": {
