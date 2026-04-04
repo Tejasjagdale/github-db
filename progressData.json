@@ -771,6 +771,25 @@
         "400ml high protine milk (30 g protine) +35g whey  + 1tbsp peanut butter + creatine + 50 g oats + 1 banana"
       ],
       "timestamp": "2026-04-04T08:37:32.760Z"
+    },
+    "2026-04-04": {
+      "calories": 742,
+      "protein": 64.4,
+      "carbs": 93.5,
+      "fats": 24.5,
+      "protein_goal_met": true,
+      "summary": "High protein meal with balanced macros",
+      "targets": {
+        "goalType": "gain",
+        "targetCalories": 2462,
+        "proteinTarget": 118,
+        "fatTarget": 52,
+        "carbTarget": 380
+      },
+      "meals": [
+        "400ml high protine milk (30 g protine in 450ml) +  35g (24g protine) whey  + 1tbsp peanut butter + creatine + 50 g oats + 1 banana"
+      ],
+      "timestamp": "2026-04-04T09:10:27.507Z"
     }
   }
 }
