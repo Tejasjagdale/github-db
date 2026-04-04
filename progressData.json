@@ -797,9 +797,9 @@
       "calories": 2475,
       "protein": 144,
       "carbs": 280,
-      "fats": 90,
+      "fats": 97,
       "protein_goal_met": true,
-      "summary": "High protein intake with balanced carbs and fats",
+      "summary": "High protein intake",
       "targets": {
         "goalType": "gain",
         "targetCalories": 2462,
@@ -811,10 +811,9 @@
         "400ml high protine milk (30 g protine in 450ml) +  35g (24g protine) whey  + 1tbsp peanut butter + creatine + 50 g oats + 1 banana",
         "3 medium roti + sabji",
         "Protine bar 10g protine",
-        "250 g chicken ",
-        "1 mosambi + chiku + grapes"
+        "250 g chicken"
       ],
-      "timestamp": "2026-04-04T20:36:16.403Z"
+      "timestamp": "2026-04-04T20:57:19.421Z"
     }
   }
 }
