@@ -81,7 +81,7 @@
         "longest": 8
       },
       "completedToday": "2026-03-30",
-      "isUrgent": false,
+      "isUrgent": true,
       "history": [
         "2026-02-23",
         "2026-02-24",
@@ -257,7 +257,7 @@
         "longest": 4
       },
       "completedToday": "2026-03-19",
-      "isUrgent": false,
+      "isUrgent": true,
       "history": [
         "2026-02-23",
         "2026-02-25",
@@ -849,8 +849,8 @@
       ],
       "deadline": "2026-02-27",
       "createdAt": "2026-02-25T04:05:50.949Z",
-      "completedAt": null,
-      "status": "pending",
+      "completedAt": "2026-04-04T16:28:16.000Z",
+      "status": "completed",
       "isOverdue": true
     },
     {
@@ -1149,8 +1149,8 @@
       ],
       "deadline": "2026-03-23",
       "createdAt": "2026-03-23T14:35:56.722Z",
-      "completedAt": null,
-      "status": "pending",
+      "completedAt": "2026-04-04T16:28:18.000Z",
+      "status": "completed",
       "isOverdue": true
     },
     {
