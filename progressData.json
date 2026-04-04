@@ -750,12 +750,12 @@
   ],
   "nutritionTracker": {
     "2026-04-04": {
-      "calories": 450,
-      "protein": 15,
-      "carbs": 70,
+      "calories": 420,
+      "protein": 25,
+      "carbs": 60,
       "fats": 10,
       "protein_goal_met": false,
-      "summary": "Low protein intake",
+      "summary": "low protein intake",
       "targets": {
         "goalType": "gain",
         "targetCalories": 2462,
@@ -764,9 +764,10 @@
         "carbTarget": 380
       },
       "meals": [
-        "3 medium roti + sabji"
+        "3 medium roti + sabji",
+        "Protine bar 10g protine"
       ],
-      "timestamp": "2026-04-04T08:30:06.787Z"
+      "timestamp": "2026-04-04T08:32:17.622Z"
     }
   }
 }
