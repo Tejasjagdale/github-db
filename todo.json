@@ -361,7 +361,7 @@
     },
     {
       "id": "9d329d11-5ef6-497e-a8e4-d305e081d7c8",
-      "title": "Dinner",
+      "title": "Protine Goal Completed",
       "priority": "medium",
       "groupIds": [
         "grp_health"
@@ -410,7 +410,7 @@
     },
     {
       "id": "a86ffca7-b362-4d9c-9596-06af59f697fa",
-      "title": "Lunch",
+      "title": "Calories Completed",
       "priority": "high",
       "groupIds": [
         "grp_health"
