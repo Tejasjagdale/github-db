@@ -61,7 +61,7 @@
         "longest": 4
       },
       "completedToday": "2026-02-23",
-      "isUrgent": true,
+      "isUrgent": false,
       "history": [
         "2026-03-10",
         "2026-03-11",
@@ -645,6 +645,24 @@
         "2026-04-03",
         "2026-04-04"
       ]
+    },
+    {
+      "id": "42e8f7c3-21da-4479-adac-1112f5b940f7",
+      "title": "NoFap",
+      "priority": "medium",
+      "groupIds": [
+        "grp_personal",
+        "grp_health"
+      ],
+      "repeatEveryDays": 1,
+      "completeByTime": "10:00 AM",
+      "trackStreak": true,
+      "streak": {
+        "current": 0,
+        "longest": 0
+      },
+      "completedToday": null,
+      "isUrgent": false
     }
   ],
   "todos": [
