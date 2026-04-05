@@ -681,24 +681,6 @@
       },
       "completedToday": null,
       "isUrgent": false
-    },
-    {
-      "id": "a254cc6f-557f-43d5-9786-4d30cfa220bc",
-      "title": "No Junk",
-      "priority": "medium",
-      "groupIds": [
-        "grp_personal",
-        "grp_health"
-      ],
-      "repeatEveryDays": 1,
-      "completeByTime": "10:00 AM",
-      "trackStreak": true,
-      "streak": {
-        "current": 0,
-        "longest": 0
-      },
-      "completedToday": null,
-      "isUrgent": false
     }
   ],
   "todos": [
