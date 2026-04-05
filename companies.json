@@ -20,6 +20,76 @@
   ],
   "companies": [
     {
+      "id": "msci",
+      "name": "MSCI",
+      "type": "fintech",
+      "priority": "good",
+      "openings": {
+        "frontend": 0,
+        "backend": 0,
+        "fullstack": 0
+      },
+      "noOfConnections": 0,
+      "careerPage": "",
+      "lastUpdated": "2026-04-05"
+    },
+    {
+      "id": "wells-fargo",
+      "name": "wells fargo",
+      "type": "fintech",
+      "priority": "good",
+      "openings": {
+        "frontend": 0,
+        "backend": 0,
+        "fullstack": 0
+      },
+      "noOfConnections": 0,
+      "careerPage": "",
+      "lastUpdated": "2026-04-05"
+    },
+    {
+      "id": "mastercard",
+      "name": "mastercard",
+      "type": "fintech",
+      "priority": "good",
+      "openings": {
+        "frontend": 0,
+        "backend": 0,
+        "fullstack": 0
+      },
+      "noOfConnections": 0,
+      "careerPage": "",
+      "lastUpdated": "2026-04-05"
+    },
+    {
+      "id": "jpmc",
+      "name": "JPMC",
+      "type": "fintech",
+      "priority": "good",
+      "openings": {
+        "frontend": 0,
+        "backend": 0,
+        "fullstack": 0
+      },
+      "noOfConnections": 0,
+      "careerPage": "",
+      "lastUpdated": "2026-04-05"
+    },
+    {
+      "id": "bny-mellon",
+      "name": "BNY mellon",
+      "type": "fintech",
+      "priority": "good",
+      "openings": {
+        "frontend": 0,
+        "backend": 0,
+        "fullstack": 0
+      },
+      "noOfConnections": 0,
+      "careerPage": "",
+      "lastUpdated": "2026-04-05"
+    },
+    {
       "id": "barclays",
       "name": "Barclays",
       "type": "fintech",
