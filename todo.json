@@ -1226,6 +1226,16 @@
       "completedAt": "2026-04-04T22:10:36.000Z",
       "status": "completed",
       "isOverdue": true
+    },
+    {
+      "id": "8079e4d4-da34-40cb-bc14-69e2530c0330",
+      "title": "Start Applying",
+      "priority": "medium",
+      "groupIds": [],
+      "deadline": "2026-04-19",
+      "createdAt": "2026-04-05T17:51:14.487Z",
+      "completedAt": null,
+      "status": "pending"
     }
   ]
 }
