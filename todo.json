@@ -87,10 +87,10 @@
       "completeByTime": "10:00 PM",
       "trackStreak": true,
       "streak": {
-        "current": 3,
+        "current": 1,
         "longest": 8
       },
-      "completedToday": "2026-03-30",
+      "completedToday": "2026-04-06",
       "isUrgent": false,
       "history": [
         "2026-02-23",
@@ -121,7 +121,8 @@
         "2026-03-26",
         "2026-04-03",
         "2026-04-02",
-        "2026-04-04"
+        "2026-04-04",
+        "2026-04-06"
       ]
     },
     {
@@ -375,10 +376,10 @@
       "completeByTime": "08:30 PM",
       "trackStreak": true,
       "streak": {
-        "current": 1,
+        "current": 2,
         "longest": 9
       },
-      "completedToday": "2026-04-05",
+      "completedToday": "2026-04-06",
       "isUrgent": false,
       "history": [
         "2026-02-23",
@@ -411,7 +412,8 @@
         "2026-04-01",
         "2026-04-03",
         "2026-04-02",
-        "2026-04-05"
+        "2026-04-05",
+        "2026-04-06"
       ]
     },
     {
@@ -425,10 +427,10 @@
       "completeByTime": "01:30 PM",
       "trackStreak": true,
       "streak": {
-        "current": 6,
+        "current": 0,
         "longest": 9
       },
-      "completedToday": "2026-04-05",
+      "completedToday": null,
       "isUrgent": false,
       "history": [
         "2026-02-23",
@@ -636,11 +638,14 @@
       "completeByTime": "10:00 PM",
       "trackStreak": true,
       "streak": {
-        "current": 0,
-        "longest": 0
+        "current": 1,
+        "longest": 1
       },
-      "completedToday": null,
-      "isUrgent": false
+      "completedToday": "2026-04-06",
+      "isUrgent": false,
+      "history": [
+        "2026-04-06"
+      ]
     },
     {
       "id": "81142c1e-66ed-4f54-94f9-c910ba6e9d71",
@@ -654,11 +659,14 @@
       "completeByTime": "10:00 PM",
       "trackStreak": true,
       "streak": {
-        "current": 0,
-        "longest": 0
+        "current": 1,
+        "longest": 1
       },
-      "completedToday": null,
-      "isUrgent": false
+      "completedToday": "2026-04-06",
+      "isUrgent": false,
+      "history": [
+        "2026-04-06"
+      ]
     }
   ],
   "todos": [
