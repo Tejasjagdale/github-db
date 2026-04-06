@@ -799,12 +799,12 @@
       "timestamp": "2026-04-04T21:05:14.188Z"
     },
     "2026-04-05": {
-      "calories": 1940,
-      "protein": 94,
-      "carbs": 240,
-      "fats": 70,
-      "protein_goal_met": true,
-      "summary": "High protein intake with balanced carbs and fats",
+      "calories": 1720,
+      "protein": 93,
+      "carbs": 144,
+      "fats": 83,
+      "protein_goal_met": false,
+      "summary": "high calorie, moderate protein",
       "targets": {
         "goalType": "gain",
         "targetCalories": 2462,
@@ -813,11 +813,11 @@
         "carbTarget": 380
       },
       "meals": [
-        "3 medium roti + sabji",
-        "400ml high protine milk (30 g protine in 450ml) +  35g (24g protine) whey  + 1tbsp peanut butter + creatine + 50 g oats + 1 banana",
-        "Protine bar 10g protine"
+        "",
+        "buger king chicken burger + cheese fries small + chiken taco",
+        "40g whey + water"
       ],
-      "timestamp": "2026-04-04T21:09:46.340Z"
+      "timestamp": "2026-04-06T03:38:26.859Z"
     },
     "2026-04-06": {
       "calories": 320,
