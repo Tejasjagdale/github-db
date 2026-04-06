@@ -736,6 +736,14 @@
       "variantId": "c4d8a1f7-2e9b-4b73-8a2e-6f1c9d3b7a55",
       "variantName": "Chest B - Mid Chest Volume & Density",
       "completed": true
+    },
+    {
+      "date": "2026-04-06",
+      "startTime": "2026-04-06T14:19:20.898Z",
+      "endTime": "2026-04-06T14:37:36.018Z",
+      "variantId": "35cc9f0a-710c-4de9-8867-7d890444fed0",
+      "variantName": "Warm up ABS 2",
+      "completed": true
     }
   ],
   "meals": [
