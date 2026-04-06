@@ -774,6 +774,10 @@
     {
       "name": "Dinner ",
       "detail": "250g chicken "
+    },
+    {
+      "name": "Whey",
+      "detail": "35g whey with water"
     }
   ],
   "nutritionTracker": {
