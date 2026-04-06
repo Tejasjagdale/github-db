@@ -630,7 +630,7 @@
         "grp_health"
       ],
       "repeatEveryDays": 1,
-      "completeByTime": "10:00 AM",
+      "completeByTime": "10:00 PM",
       "trackStreak": true,
       "streak": {
         "current": 0,
@@ -648,7 +648,7 @@
         "grp_health"
       ],
       "repeatEveryDays": 1,
-      "completeByTime": "10:00 AM",
+      "completeByTime": "10:00 PM",
       "trackStreak": true,
       "streak": {
         "current": 0,
