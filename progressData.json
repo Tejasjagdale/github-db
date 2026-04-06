@@ -840,12 +840,12 @@
       "timestamp": "2026-04-06T03:38:26.859Z"
     },
     "2026-04-06": {
-      "calories": 320,
-      "protein": 4,
-      "carbs": 60,
-      "fats": 12,
-      "protein_goal_met": false,
-      "summary": "high carb, low protein",
+      "calories": 1875,
+      "protein": 120,
+      "carbs": 150,
+      "fats": 70,
+      "protein_goal_met": true,
+      "summary": "High protein, moderate carbs and fats",
       "targets": {
         "goalType": "gain",
         "targetCalories": 2462,
@@ -854,10 +854,14 @@
         "carbTarget": 380
       },
       "meals": [
-        "coffee",
-        "tea + 5 jim jam biscuits"
+        "35g whey powder with water",
+        "small protine bar (5g protine) + 1 kaju katli + small cup coffee ",
+        "papaya+ watermelon ",
+        "some green sabji + 2 medium roti",
+        "250g chicken + salad (beatroot, carrot, kakdi)",
+        "35g whey with water "
       ],
-      "timestamp": "2026-04-04T21:22:50.310Z"
+      "timestamp": "2026-04-06T16:34:22.939Z"
     }
   }
 }
