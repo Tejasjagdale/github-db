@@ -889,6 +889,30 @@
         "250g chicken "
       ],
       "timestamp": "2026-04-07T15:51:49.989Z"
+    },
+    "2026-04-08": {
+      "calories": 2725,
+      "protein": 143,
+      "carbs": 334,
+      "fats": 97,
+      "protein_goal_met": true,
+      "summary": "High protein intake with balanced meal",
+      "targets": {
+        "goalType": "gain",
+        "targetCalories": 2462,
+        "proteinTarget": 118,
+        "fatTarget": 52,
+        "carbTarget": 380
+      },
+      "meals": [
+        "400ml high protine milk (30 g protine in 450ml) +  35g (24g protine) whey  + 1tbsp peanut butter + creatine + 50 g oats + 1 banana",
+        "1 pear + 1 apple",
+        "shev bhaji + 3 roti + chaas",
+        "protein bar ( 5g protine)",
+        "250g chicken ",
+        "tea + 3 biscuits + maggie "
+      ],
+      "timestamp": "2026-04-08T15:35:28.661Z"
     }
   }
 }
