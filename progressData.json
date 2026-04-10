@@ -913,6 +913,29 @@
         "tea + 3 biscuits + maggie "
       ],
       "timestamp": "2026-04-08T15:35:28.661Z"
+    },
+    "2026-04-09": {
+      "calories": 2725,
+      "protein": 73,
+      "carbs": 311,
+      "fats": 134,
+      "protein_goal_met": false,
+      "summary": "High calorie intake with moderate protein",
+      "targets": {
+        "goalType": "gain",
+        "targetCalories": 2462,
+        "proteinTarget": 118,
+        "fatTarget": 52,
+        "carbTarget": 380
+      },
+      "meals": [
+        "35g whey with water",
+        "1 apple + 1 avacado ",
+        "dal rice",
+        "protein bar (5g protine ) + bhel + coffee",
+        "dominos non veg burger + beg taco + bread sticks with cheese dip"
+      ],
+      "timestamp": "2026-04-10T02:47:13.050Z"
     }
   }
 }
