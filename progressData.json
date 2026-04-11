@@ -936,6 +936,27 @@
         "dominos non veg burger + beg taco + bread sticks with cheese dip"
       ],
       "timestamp": "2026-04-10T02:47:13.050Z"
+    },
+    "2026-04-11": {
+      "calories": 1200,
+      "protein": 55,
+      "carbs": 180,
+      "fats": 40,
+      "protein_goal_met": false,
+      "summary": "low protein high carbs",
+      "targets": {
+        "goalType": "gain",
+        "targetCalories": 2462,
+        "proteinTarget": 118,
+        "fatTarget": 52,
+        "carbTarget": 380
+      },
+      "meals": [
+        "35g whey with water",
+        "really small biryani + gulab jamun+ small foods",
+        "vada pav"
+      ],
+      "timestamp": "2026-04-11T20:32:32.249Z"
     }
   }
 }
