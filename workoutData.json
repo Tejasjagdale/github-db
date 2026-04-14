@@ -584,7 +584,7 @@
           "reps": "12"
         },
         {
-          "name": "Single-Arm Dumbbell Floor Press",
+          "name": "Both-Arm Dumbbell Floor Press",
           "sets": 3,
           "reps": "8"
         },
@@ -647,7 +647,7 @@
         },
         {
           "step": 5,
-          "name": "Single-Arm Dumbbell Floor Press",
+          "name": "Both-Arm Dumbbell Floor Press",
           "set": 1,
           "reps": "8",
           "restSeconds": 90,
@@ -658,7 +658,7 @@
         },
         {
           "step": 6,
-          "name": "Single-Arm Dumbbell Floor Press",
+          "name": "Both-Arm Dumbbell Floor Press",
           "set": 2,
           "reps": "8",
           "restSeconds": 90,
@@ -669,7 +669,7 @@
         },
         {
           "step": 7,
-          "name": "Single-Arm Dumbbell Floor Press",
+          "name": "Both-Arm Dumbbell Floor Press",
           "set": 3,
           "reps": "8",
           "restSeconds": 90,
