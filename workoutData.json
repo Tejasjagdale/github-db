@@ -788,12 +788,12 @@
           "reps": "10"
         },
         {
-          "name": "Isometric Push-up Hold (Bottom)",
+          "name": "Dumbbell Squeeze Press (Both Arms)",
           "sets": 3,
-          "reps": "8"
+          "reps": "10"
         },
         {
-          "name": "Dumbbell Squeeze Press (Both Arms)",
+          "name": "Deficit Pushups",
           "sets": 3,
           "reps": "10"
         },
@@ -880,30 +880,6 @@
         },
         {
           "step": 8,
-          "name": "Isometric Push-up Hold (Bottom)",
-          "set": 1,
-          "reps": "8",
-          "restSeconds": 60,
-          "equipment": []
-        },
-        {
-          "step": 9,
-          "name": "Isometric Push-up Hold (Bottom)",
-          "set": 2,
-          "reps": "8",
-          "restSeconds": 60,
-          "equipment": []
-        },
-        {
-          "step": 10,
-          "name": "Isometric Push-up Hold (Bottom)",
-          "set": 3,
-          "reps": "8",
-          "restSeconds": 90,
-          "equipment": []
-        },
-        {
-          "step": 11,
           "name": "Dumbbell Squeeze Press (Both Arms)",
           "set": 1,
           "reps": "10",
@@ -914,7 +890,7 @@
           ]
         },
         {
-          "step": 12,
+          "step": 9,
           "name": "Dumbbell Squeeze Press (Both Arms)",
           "set": 2,
           "reps": "8",
@@ -925,7 +901,7 @@
           ]
         },
         {
-          "step": 13,
+          "step": 10,
           "name": "Dumbbell Squeeze Press (Both Arms)",
           "set": 3,
           "reps": "8",
@@ -934,6 +910,34 @@
             "10Kg dumbbell",
             "yoga mat"
           ]
+        },
+        {
+          "step": 11,
+          "name": "Deficit Pushups",
+          "set": 1,
+          "reps": "10",
+          "restSeconds": 10,
+          "equipment": [
+            "15Kg dumbbell"
+          ]
+        },
+        {
+          "step": 12,
+          "name": "Deficit Pushups",
+          "set": 2,
+          "reps": "10",
+          "restSeconds": 60,
+          "equipment": [
+            "15Kg dumbbell"
+          ]
+        },
+        {
+          "step": 13,
+          "name": "Deficit Pushups",
+          "set": 3,
+          "reps": "10",
+          "restSeconds": 90,
+          "equipment": []
         },
         {
           "step": 14,
