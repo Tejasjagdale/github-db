@@ -13,12 +13,17 @@
       "variantName": "Arms A - Heavy Tension & Functional Strength",
       "exercisesList": [
         {
-          "name": "Single-Arm Dumbbell Curl",
+          "name": "Hammer Curl",
           "sets": 4,
+          "reps": "8"
+        },
+        {
+          "name": "Single-Arm Dumbbell Curl",
+          "sets": 3,
           "reps": "12"
         },
         {
-          "name": "Hammer Curl",
+          "name": "Overhead Triceps Extension",
           "sets": 3,
           "reps": "8"
         },
@@ -26,11 +31,6 @@
           "name": "Close-Grip Push-ups (Slow)",
           "sets": 3,
           "reps": "12"
-        },
-        {
-          "name": "Concentration Curl",
-          "sets": 3,
-          "reps": "8"
         },
         {
           "name": "Farmer Hold",
@@ -41,6 +41,46 @@
       "exerciseOrder": [
         {
           "step": 1,
+          "name": "Hammer Curl",
+          "set": 1,
+          "reps": "8",
+          "restSeconds": 75,
+          "equipment": [
+            "15Kg dumbbell"
+          ]
+        },
+        {
+          "step": 2,
+          "name": "Hammer Curl",
+          "set": 2,
+          "reps": "8",
+          "restSeconds": 75,
+          "equipment": [
+            "15Kg dumbbell"
+          ]
+        },
+        {
+          "step": 3,
+          "name": "Hammer Curl",
+          "set": 3,
+          "reps": "8",
+          "restSeconds": 75,
+          "equipment": [
+            "15Kg dumbbell"
+          ]
+        },
+        {
+          "step": 4,
+          "name": "Hammer Curl",
+          "set": 4,
+          "reps": "8",
+          "restSeconds": 100,
+          "equipment": [
+            "15Kg dumbbell"
+          ]
+        },
+        {
+          "step": 5,
           "name": "Single-Arm Dumbbell Curl",
           "set": 1,
           "reps": "12",
@@ -50,7 +90,7 @@
           ]
         },
         {
-          "step": 2,
+          "step": 6,
           "name": "Single-Arm Dumbbell Curl",
           "set": 2,
           "reps": "10",
@@ -60,83 +100,29 @@
           ]
         },
         {
-          "step": 3,
+          "step": 7,
           "name": "Single-Arm Dumbbell Curl",
           "set": 3,
           "reps": "8",
           "restSeconds": 90,
           "equipment": [
             "10Kg dumbbell"
-          ]
-        },
-        {
-          "step": 4,
-          "name": "Single-Arm Dumbbell Curl",
-          "set": 4,
-          "reps": "6",
-          "restSeconds": 120,
-          "equipment": [
-            "10Kg dumbbell"
-          ]
-        },
-        {
-          "step": 5,
-          "name": "Hammer Curl",
-          "set": 1,
-          "reps": "8",
-          "restSeconds": 75,
-          "equipment": [
-            "15Kg dumbbell"
-          ]
-        },
-        {
-          "step": 6,
-          "name": "Hammer Curl",
-          "set": 2,
-          "reps": "8",
-          "restSeconds": 75,
-          "equipment": [
-            "15Kg dumbbell"
-          ]
-        },
-        {
-          "step": 7,
-          "name": "Hammer Curl",
-          "set": 3,
-          "reps": "8",
-          "restSeconds": 100,
-          "equipment": [
-            "15Kg dumbbell"
           ]
         },
         {
           "step": 8,
-          "name": "Close-Grip Push-ups (Slow)",
+          "name": "Overhead Triceps Extension",
           "set": 1,
-          "reps": "12",
-          "restSeconds": 75,
-          "equipment": []
+          "reps": "8",
+          "restSeconds": 90,
+          "equipment": [
+            "15Kg dumbbell"
+          ]
         },
         {
           "step": 9,
-          "name": "Close-Grip Push-ups (Slow)",
+          "name": "Overhead Triceps Extension",
           "set": 2,
-          "reps": "12",
-          "restSeconds": 75,
-          "equipment": []
-        },
-        {
-          "step": 10,
-          "name": "Close-Grip Push-ups (Slow)",
-          "set": 3,
-          "reps": "12",
-          "restSeconds": 100,
-          "equipment": []
-        },
-        {
-          "step": 11,
-          "name": "Concentration Curl",
-          "set": 1,
           "reps": "8",
           "restSeconds": 90,
           "equipment": [
@@ -144,24 +130,38 @@
           ]
         },
         {
-          "step": 12,
-          "name": "Concentration Curl",
-          "set": 2,
-          "reps": "6",
-          "restSeconds": 90,
+          "step": 10,
+          "name": "Overhead Triceps Extension",
+          "set": 3,
+          "reps": "8",
+          "restSeconds": 110,
           "equipment": [
-            "10Kg dumbbell"
+            "15Kg dumbbell"
           ]
         },
         {
+          "step": 11,
+          "name": "Close-Grip Push-ups (Slow)",
+          "set": 1,
+          "reps": "12",
+          "restSeconds": 75,
+          "equipment": []
+        },
+        {
+          "step": 12,
+          "name": "Close-Grip Push-ups (Slow)",
+          "set": 2,
+          "reps": "12",
+          "restSeconds": 75,
+          "equipment": []
+        },
+        {
           "step": 13,
-          "name": "Concentration Curl",
+          "name": "Close-Grip Push-ups (Slow)",
           "set": 3,
-          "reps": "6",
-          "restSeconds": 110,
-          "equipment": [
-            "10Kg dumbbell"
-          ]
+          "reps": "12",
+          "restSeconds": 100,
+          "equipment": []
         },
         {
           "step": 14,
