@@ -391,7 +391,7 @@
           "reps": "8"
         },
         {
-          "name": "Cross-Body Hammer Curl",
+          "name": "Hammer Curl",
           "sets": 3,
           "reps": "8"
         },
@@ -401,12 +401,12 @@
           "reps": "5"
         },
         {
-          "name": "Triceps Kickback (Strict)",
+          "name": "overhead tricep extention",
           "sets": 3,
           "reps": "12-15"
         },
         {
-          "name": "Plank Shoulder Taps",
+          "name": "farmers hold",
           "sets": 3,
           "reps": "45 sec"
         }
@@ -454,7 +454,7 @@
         },
         {
           "step": 5,
-          "name": "Cross-Body Hammer Curl",
+          "name": "Hammer Curl",
           "set": 1,
           "reps": "8",
           "restSeconds": 75,
@@ -464,7 +464,7 @@
         },
         {
           "step": 6,
-          "name": "Cross-Body Hammer Curl",
+          "name": "Hammer Curl",
           "set": 2,
           "reps": "8",
           "restSeconds": 75,
@@ -474,7 +474,7 @@
         },
         {
           "step": 7,
-          "name": "Cross-Body Hammer Curl",
+          "name": "Hammer Curl",
           "set": 3,
           "reps": "8",
           "restSeconds": 100,
@@ -514,27 +514,27 @@
         },
         {
           "step": 11,
-          "name": "Triceps Kickback (Strict)",
+          "name": "overhead tricep extention",
           "set": 1,
           "reps": "12-15",
           "restSeconds": 60,
           "equipment": [
-            "10Kg dumbbell"
+            "15Kg dumbbell"
           ]
         },
         {
           "step": 12,
-          "name": "Triceps Kickback (Strict)",
+          "name": "overhead tricep extention",
           "set": 2,
           "reps": "12-15",
           "restSeconds": 60,
           "equipment": [
-            "10Kg dumbbell"
+            "15Kg dumbbell"
           ]
         },
         {
           "step": 13,
-          "name": "Triceps Kickback (Strict)",
+          "name": "overhead tricep extention",
           "set": 3,
           "reps": "12-15",
           "restSeconds": 90,
@@ -544,17 +544,17 @@
         },
         {
           "step": 14,
-          "name": "Plank Shoulder Taps",
+          "name": "farmers hold",
           "set": 1,
           "reps": "45 sec",
           "restSeconds": 60,
           "equipment": [
-            "yoga mat"
+            "15Kg dumbbell"
           ]
         },
         {
           "step": 15,
-          "name": "Plank Shoulder Taps",
+          "name": "farmers hold",
           "set": 2,
           "reps": "45 sec",
           "restSeconds": 60,
@@ -564,7 +564,7 @@
         },
         {
           "step": 16,
-          "name": "Plank Shoulder Taps",
+          "name": "farmers hold",
           "set": 3,
           "reps": "45 sec",
           "restSeconds": 120,
