@@ -205,7 +205,7 @@
           "reps": "10-12"
         },
         {
-          "name": "Zottman Curl",
+          "name": "Cross-Body Hammer Curl",
           "sets": 3,
           "reps": "10"
         },
@@ -220,9 +220,9 @@
           "reps": "12-15"
         },
         {
-          "name": "Wrist Curl + Reverse Wrist Curl",
+          "name": "Farmer Holds",
           "sets": 3,
-          "reps": "15-20 each"
+          "reps": "40 sec"
         }
       ],
       "exerciseOrder": [
@@ -261,32 +261,32 @@
         },
         {
           "step": 4,
-          "name": "Zottman Curl",
+          "name": "Cross-Body Hammer Curl",
           "set": 1,
           "reps": "10",
           "restSeconds": 75,
           "equipment": [
-            "10Kg dumbbell"
+            "15Kg dumbbell"
           ]
         },
         {
           "step": 5,
-          "name": "Zottman Curl",
+          "name": "Cross-Body Hammer Curl",
           "set": 2,
           "reps": "10",
           "restSeconds": 75,
           "equipment": [
-            "10Kg dumbbell"
+            "15Kg dumbbell"
           ]
         },
         {
           "step": 6,
-          "name": "Zottman Curl",
+          "name": "Cross-Body Hammer Curl",
           "set": 3,
           "reps": "10",
           "restSeconds": 100,
           "equipment": [
-            "10Kg dumbbell"
+            "15Kg dumbbell"
           ]
         },
         {
@@ -351,19 +351,19 @@
         },
         {
           "step": 13,
-          "name": "Wrist Curl + Reverse Wrist Curl",
+          "name": "Farmer Holds",
           "set": 1,
-          "reps": "15-20 each",
+          "reps": "40 sec",
           "restSeconds": 60,
           "equipment": [
-            "10Kg dumbbell"
+            "15Kg dumbbell"
           ]
         },
         {
           "step": 14,
-          "name": "Wrist Curl + Reverse Wrist Curl",
+          "name": "Farmer Holds",
           "set": 2,
-          "reps": "15-20 each",
+          "reps": "40 sec",
           "restSeconds": 60,
           "equipment": [
             "10Kg dumbbell"
@@ -371,9 +371,9 @@
         },
         {
           "step": 15,
-          "name": "Wrist Curl + Reverse Wrist Curl",
+          "name": "Farmer Holds",
           "set": 3,
-          "reps": "15-20 each",
+          "reps": "40 sec",
           "restSeconds": 90,
           "equipment": [
             "10Kg dumbbell"
