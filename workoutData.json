@@ -981,11 +981,6 @@
           "reps": "12-15"
         },
         {
-          "name": "Close-Grip Push-ups (Chest-Controlled)",
-          "sets": 3,
-          "reps": "10-12"
-        },
-        {
           "name": "Forward-Lean Push-ups",
           "sets": 3,
           "reps": "8-12"
@@ -996,7 +991,12 @@
           "reps": "30 sec"
         },
         {
-          "name": "Low-to-High Push-ups (optional)",
+          "name": "Dumble Squeeze Push-up",
+          "sets": 3,
+          "reps": "10-12"
+        },
+        {
+          "name": "Push-ups (optional)",
           "sets": 2,
           "reps": "10"
         }
@@ -1048,7 +1048,70 @@
         },
         {
           "step": 5,
-          "name": "Close-Grip Push-ups (Chest-Controlled)",
+          "name": "Forward-Lean Push-ups",
+          "set": 1,
+          "reps": "8-12",
+          "restSeconds": 75,
+          "equipment": [
+            "yoga mat"
+          ]
+        },
+        {
+          "step": 6,
+          "name": "Forward-Lean Push-ups",
+          "set": 2,
+          "reps": "8-12",
+          "restSeconds": 75,
+          "equipment": [
+            "yoga mat"
+          ]
+        },
+        {
+          "step": 7,
+          "name": "Forward-Lean Push-ups",
+          "set": 3,
+          "reps": "8-12",
+          "restSeconds": 120,
+          "equipment": [
+            "yoga mat"
+          ]
+        },
+        {
+          "step": 8,
+          "name": "Dumbbell Pullover Iso Hold",
+          "set": 1,
+          "reps": "30 sec",
+          "restSeconds": 60,
+          "equipment": [
+            "15Kg dumbbell",
+            "yoga mat"
+          ]
+        },
+        {
+          "step": 9,
+          "name": "Dumbbell Pullover Iso Hold",
+          "set": 2,
+          "reps": "30 sec",
+          "restSeconds": 60,
+          "equipment": [
+            "15Kg dumbbell",
+            "yoga mat"
+          ]
+        },
+        {
+          "step": 10,
+          "name": "Dumbbell Pullover Iso Hold",
+          "set": 3,
+          "reps": "30 sec",
+          "restSeconds": 120,
+          "equipment": [
+            "15Kg dumbbell",
+            "yoga mat"
+          ]
+        },
+        {
+          "step": 11,
+          "name": "Dumble Squeeze Push-up",
           "set": 1,
           "reps": "10-12",
           "restSeconds": 75,
@@ -1057,8 +1120,8 @@
           ]
         },
         {
-          "step": 6,
-          "name": "Close-Grip Push-ups (Chest-Controlled)",
+          "step": 12,
+          "name": "Dumble Squeeze Push-up",
           "set": 2,
           "reps": "10-12",
           "restSeconds": 75,
@@ -1067,8 +1130,8 @@
           ]
         },
         {
-          "step": 7,
-          "name": "Close-Grip Push-ups (Chest-Controlled)",
+          "step": 13,
+          "name": "Dumble Squeeze Push-up",
           "set": 3,
           "reps": "10-12",
           "restSeconds": 100,
@@ -1077,71 +1140,8 @@
           ]
         },
         {
-          "step": 8,
-          "name": "Forward-Lean Push-ups",
-          "set": 1,
-          "reps": "8-12",
-          "restSeconds": 75,
-          "equipment": [
-            "yoga mat"
-          ]
-        },
-        {
-          "step": 9,
-          "name": "Forward-Lean Push-ups",
-          "set": 2,
-          "reps": "8-12",
-          "restSeconds": 75,
-          "equipment": [
-            "yoga mat"
-          ]
-        },
-        {
-          "step": 10,
-          "name": "Forward-Lean Push-ups",
-          "set": 3,
-          "reps": "8-12",
-          "restSeconds": 120,
-          "equipment": [
-            "yoga mat"
-          ]
-        },
-        {
-          "step": 11,
-          "name": "Dumbbell Pullover Iso Hold",
-          "set": 1,
-          "reps": "30 sec",
-          "restSeconds": 60,
-          "equipment": [
-            "15Kg dumbbell",
-            "yoga mat"
-          ]
-        },
-        {
-          "step": 12,
-          "name": "Dumbbell Pullover Iso Hold",
-          "set": 2,
-          "reps": "30 sec",
-          "restSeconds": 60,
-          "equipment": [
-            "15Kg dumbbell",
-            "yoga mat"
-          ]
-        },
-        {
-          "step": 13,
-          "name": "Dumbbell Pullover Iso Hold",
-          "set": 3,
-          "reps": "30 sec",
-          "restSeconds": 120,
-          "equipment": [
-            "15Kg dumbbell",
-            "yoga mat"
-          ]
-        },
-        {
           "step": 14,
-          "name": "Low-to-High Push-ups (optional)",
+          "name": "Push-ups (optional)",
           "set": 1,
           "reps": "10",
           "restSeconds": 60,
@@ -1151,7 +1151,7 @@
         },
         {
           "step": 15,
-          "name": "Low-to-High Push-ups (optional)",
+          "name": "Push-ups (optional)",
           "set": 2,
           "reps": "10",
           "restSeconds": 60,
