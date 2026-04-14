@@ -200,6 +200,11 @@
       "variantName": "Arms B - Volume & Shape (Joint-Smart)",
       "exercisesList": [
         {
+          "name": "Two-Handed Overhead Dumbbell Triceps Extension",
+          "sets": 3,
+          "reps": "12-15"
+        },
+        {
           "name": "Incline Dumbbell Curl",
           "sets": 3,
           "reps": "10-12"
@@ -208,11 +213,6 @@
           "name": "Cross-Body Hammer Curl",
           "sets": 3,
           "reps": "10"
-        },
-        {
-          "name": "Two-Handed Overhead Dumbbell Triceps Extension",
-          "sets": 3,
-          "reps": "12-15"
         },
         {
           "name": "Close-Grip Push-ups (Feet Elevated, Slow)",
@@ -228,28 +228,58 @@
       "exerciseOrder": [
         {
           "step": 1,
-          "name": "Incline Dumbbell Curl",
+          "name": "Two-Handed Overhead Dumbbell Triceps Extension",
           "set": 1,
-          "reps": "10-12",
+          "reps": "12-15",
           "restSeconds": 75,
           "equipment": [
-            "10Kg dumbbell",
-            "chair"
+            "15Kg dumbbell"
           ]
         },
         {
           "step": 2,
-          "name": "Incline Dumbbell Curl",
+          "name": "Two-Handed Overhead Dumbbell Triceps Extension",
           "set": 2,
-          "reps": "10-12",
+          "reps": "12-15",
           "restSeconds": 75,
           "equipment": [
-            "10Kg dumbbell",
-            "chair"
+            "15Kg dumbbell"
           ]
         },
         {
           "step": 3,
+          "name": "Two-Handed Overhead Dumbbell Triceps Extension",
+          "set": 3,
+          "reps": "12-15",
+          "restSeconds": 100,
+          "equipment": [
+            "15Kg dumbbell"
+          ]
+        },
+        {
+          "step": 4,
+          "name": "Incline Dumbbell Curl",
+          "set": 1,
+          "reps": "10-12",
+          "restSeconds": 75,
+          "equipment": [
+            "10Kg dumbbell",
+            "chair"
+          ]
+        },
+        {
+          "step": 5,
+          "name": "Incline Dumbbell Curl",
+          "set": 2,
+          "reps": "10-12",
+          "restSeconds": 75,
+          "equipment": [
+            "10Kg dumbbell",
+            "chair"
+          ]
+        },
+        {
+          "step": 6,
           "name": "Incline Dumbbell Curl",
           "set": 3,
           "reps": "10-12",
@@ -260,40 +290,10 @@
           ]
         },
         {
-          "step": 4,
-          "name": "Cross-Body Hammer Curl",
-          "set": 1,
-          "reps": "10",
-          "restSeconds": 75,
-          "equipment": [
-            "15Kg dumbbell"
-          ]
-        },
-        {
-          "step": 5,
-          "name": "Cross-Body Hammer Curl",
-          "set": 2,
-          "reps": "10",
-          "restSeconds": 75,
-          "equipment": [
-            "15Kg dumbbell"
-          ]
-        },
-        {
-          "step": 6,
-          "name": "Cross-Body Hammer Curl",
-          "set": 3,
-          "reps": "10",
-          "restSeconds": 100,
-          "equipment": [
-            "15Kg dumbbell"
-          ]
-        },
-        {
           "step": 7,
-          "name": "Two-Handed Overhead Dumbbell Triceps Extension",
+          "name": "Cross-Body Hammer Curl",
           "set": 1,
-          "reps": "12-15",
+          "reps": "10",
           "restSeconds": 75,
           "equipment": [
             "15Kg dumbbell"
@@ -301,9 +301,9 @@
         },
         {
           "step": 8,
-          "name": "Two-Handed Overhead Dumbbell Triceps Extension",
+          "name": "Cross-Body Hammer Curl",
           "set": 2,
-          "reps": "12-15",
+          "reps": "10",
           "restSeconds": 75,
           "equipment": [
             "15Kg dumbbell"
@@ -311,9 +311,9 @@
         },
         {
           "step": 9,
-          "name": "Two-Handed Overhead Dumbbell Triceps Extension",
+          "name": "Cross-Body Hammer Curl",
           "set": 3,
-          "reps": "12-15",
+          "reps": "10",
           "restSeconds": 100,
           "equipment": [
             "15Kg dumbbell"
@@ -396,14 +396,14 @@
           "reps": "8"
         },
         {
-          "name": "Concentration Curl",
-          "sets": 3,
-          "reps": "5"
-        },
-        {
           "name": "overhead tricep extention",
           "sets": 3,
           "reps": "12-15"
+        },
+        {
+          "name": "Concentration Curl",
+          "sets": 3,
+          "reps": "5"
         },
         {
           "name": "farmers hold",
@@ -484,6 +484,36 @@
         },
         {
           "step": 8,
+          "name": "overhead tricep extention",
+          "set": 1,
+          "reps": "12-15",
+          "restSeconds": 60,
+          "equipment": [
+            "15Kg dumbbell"
+          ]
+        },
+        {
+          "step": 9,
+          "name": "overhead tricep extention",
+          "set": 2,
+          "reps": "12-15",
+          "restSeconds": 60,
+          "equipment": [
+            "15Kg dumbbell"
+          ]
+        },
+        {
+          "step": 10,
+          "name": "overhead tricep extention",
+          "set": 3,
+          "reps": "12-15",
+          "restSeconds": 90,
+          "equipment": [
+            "10Kg dumbbell"
+          ]
+        },
+        {
+          "step": 11,
           "name": "Concentration Curl",
           "set": 1,
           "reps": "5",
@@ -493,7 +523,7 @@
           ]
         },
         {
-          "step": 9,
+          "step": 12,
           "name": "Concentration Curl",
           "set": 2,
           "reps": "4",
@@ -503,41 +533,11 @@
           ]
         },
         {
-          "step": 10,
+          "step": 13,
           "name": "Concentration Curl",
           "set": 3,
           "reps": "4",
           "restSeconds": 100,
-          "equipment": [
-            "10Kg dumbbell"
-          ]
-        },
-        {
-          "step": 11,
-          "name": "overhead tricep extention",
-          "set": 1,
-          "reps": "12-15",
-          "restSeconds": 60,
-          "equipment": [
-            "15Kg dumbbell"
-          ]
-        },
-        {
-          "step": 12,
-          "name": "overhead tricep extention",
-          "set": 2,
-          "reps": "12-15",
-          "restSeconds": 60,
-          "equipment": [
-            "15Kg dumbbell"
-          ]
-        },
-        {
-          "step": 13,
-          "name": "overhead tricep extention",
-          "set": 3,
-          "reps": "12-15",
-          "restSeconds": 90,
           "equipment": [
             "10Kg dumbbell"
           ]
