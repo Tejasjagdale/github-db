@@ -386,12 +386,12 @@
       "variantName": "Arms C - Power & Functional Integration",
       "exercisesList": [
         {
-          "name": "Single-Arm Dumbbell Clean & Press",
+          "name": "Hammer Curl",
           "sets": 4,
           "reps": "8"
         },
         {
-          "name": "Hammer Curl",
+          "name": "Zottman",
           "sets": 3,
           "reps": "8"
         },
@@ -414,7 +414,47 @@
       "exerciseOrder": [
         {
           "step": 1,
-          "name": "Single-Arm Dumbbell Clean & Press",
+          "name": "Hammer Curl",
+          "set": 1,
+          "reps": "8",
+          "restSeconds": 75,
+          "equipment": [
+            "15Kg dumbbell"
+          ]
+        },
+        {
+          "step": 2,
+          "name": "Hammer Curl",
+          "set": 2,
+          "reps": "8",
+          "restSeconds": 75,
+          "equipment": [
+            "15Kg dumbbell"
+          ]
+        },
+        {
+          "step": 3,
+          "name": "Hammer Curl",
+          "set": 3,
+          "reps": "8",
+          "restSeconds": 75,
+          "equipment": [
+            "15Kg dumbbell"
+          ]
+        },
+        {
+          "step": 4,
+          "name": "Hammer Curl",
+          "set": 4,
+          "reps": "8-12",
+          "restSeconds": 100,
+          "equipment": [
+            "15Kg dumbbell"
+          ]
+        },
+        {
+          "step": 5,
+          "name": "Zottman",
           "set": 1,
           "reps": "8",
           "restSeconds": 100,
@@ -423,61 +463,21 @@
           ]
         },
         {
-          "step": 2,
-          "name": "Single-Arm Dumbbell Clean & Press",
-          "set": 2,
-          "reps": "7",
-          "restSeconds": 100,
-          "equipment": [
-            "15Kg dumbbell"
-          ]
-        },
-        {
-          "step": 3,
-          "name": "Single-Arm Dumbbell Clean & Press",
-          "set": 3,
-          "reps": "7",
-          "restSeconds": 100,
-          "equipment": [
-            "15Kg dumbbell"
-          ]
-        },
-        {
-          "step": 4,
-          "name": "Single-Arm Dumbbell Clean & Press",
-          "set": 4,
-          "reps": "7",
-          "restSeconds": 130,
-          "equipment": [
-            "15Kg dumbbell"
-          ]
-        },
-        {
-          "step": 5,
-          "name": "Hammer Curl",
-          "set": 1,
-          "reps": "8",
-          "restSeconds": 75,
-          "equipment": [
-            "15Kg dumbbell"
-          ]
-        },
-        {
           "step": 6,
-          "name": "Hammer Curl",
+          "name": "Zottman",
           "set": 2,
-          "reps": "8",
-          "restSeconds": 75,
+          "reps": "7",
+          "restSeconds": 100,
           "equipment": [
             "15Kg dumbbell"
           ]
         },
         {
           "step": 7,
-          "name": "Hammer Curl",
+          "name": "Zottman",
           "set": 3,
-          "reps": "8",
-          "restSeconds": 100,
+          "reps": "7",
+          "restSeconds": 130,
           "equipment": [
             "15Kg dumbbell"
           ]
