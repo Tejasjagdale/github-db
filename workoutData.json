@@ -35,7 +35,7 @@
         {
           "name": "Farmer Hold",
           "sets": 3,
-          "reps": "40 sec"
+          "reps": "45 sec"
         }
       ],
       "exerciseOrder": [
@@ -114,7 +114,7 @@
           "name": "Overhead Triceps Extension",
           "set": 1,
           "reps": "8",
-          "restSeconds": 90,
+          "restSeconds": 80,
           "equipment": [
             "15Kg dumbbell"
           ]
@@ -124,7 +124,7 @@
           "name": "Overhead Triceps Extension",
           "set": 2,
           "reps": "8",
-          "restSeconds": 90,
+          "restSeconds": 80,
           "equipment": [
             "10Kg dumbbell"
           ]
@@ -134,7 +134,7 @@
           "name": "Overhead Triceps Extension",
           "set": 3,
           "reps": "8",
-          "restSeconds": 110,
+          "restSeconds": 100,
           "equipment": [
             "15Kg dumbbell"
           ]
@@ -144,7 +144,7 @@
           "name": "Close-Grip Push-ups (Slow)",
           "set": 1,
           "reps": "12",
-          "restSeconds": 75,
+          "restSeconds": 90,
           "equipment": []
         },
         {
@@ -152,7 +152,7 @@
           "name": "Close-Grip Push-ups (Slow)",
           "set": 2,
           "reps": "12",
-          "restSeconds": 75,
+          "restSeconds": 90,
           "equipment": []
         },
         {
@@ -167,7 +167,7 @@
           "step": 14,
           "name": "Farmer Hold",
           "set": 1,
-          "reps": "40 sec",
+          "reps": "45 sec",
           "restSeconds": 90,
           "equipment": [
             "15Kg dumbbell"
@@ -177,7 +177,7 @@
           "step": 15,
           "name": "Farmer Hold",
           "set": 2,
-          "reps": "40 sec",
+          "reps": "45 sec",
           "restSeconds": 90,
           "equipment": [
             "15Kg dumbbell"
