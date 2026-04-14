@@ -916,7 +916,7 @@
           "name": "Deficit Pushups",
           "set": 1,
           "reps": "10",
-          "restSeconds": 10,
+          "restSeconds": 75,
           "equipment": [
             "15Kg dumbbell"
           ]
@@ -926,7 +926,7 @@
           "name": "Deficit Pushups",
           "set": 2,
           "reps": "10",
-          "restSeconds": 60,
+          "restSeconds": 75,
           "equipment": [
             "15Kg dumbbell"
           ]
