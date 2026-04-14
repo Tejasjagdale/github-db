@@ -599,7 +599,7 @@
           "reps": "8-10"
         },
         {
-          "name": "Push-ups (optional)",
+          "name": "Push-ups",
           "sets": 2,
           "reps": "8"
         }
@@ -757,7 +757,7 @@
         },
         {
           "step": 15,
-          "name": "Push-ups (optional)",
+          "name": "Push-ups",
           "set": 1,
           "reps": "8",
           "restSeconds": 60,
@@ -765,7 +765,7 @@
         },
         {
           "step": 16,
-          "name": "Push-ups (optional)",
+          "name": "Push-ups",
           "set": 2,
           "reps": "10",
           "restSeconds": 60,
