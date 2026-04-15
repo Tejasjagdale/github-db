@@ -957,6 +957,28 @@
         "vada pav"
       ],
       "timestamp": "2026-04-11T20:32:32.249Z"
+    },
+    "2026-04-15": {
+      "calories": 2725,
+      "protein": 154,
+      "carbs": 280,
+      "fats": 120,
+      "protein_goal_met": true,
+      "summary": "High protein intake with balanced carbs and fats",
+      "targets": {
+        "goalType": "gain",
+        "targetCalories": 2462,
+        "proteinTarget": 118,
+        "fatTarget": 52,
+        "carbTarget": 380
+      },
+      "meals": [
+        "400ml high protine milk (30 g protine in 450ml) +  35g (24g protine) whey  + 1tbsp peanut butter + creatine + 50 g oats + 1 banana",
+        "chiken 2 peace sabji + 2.5 medium roti",
+        "coffee + tea",
+        "chiken pizza 2 small slice + 2 cheese puff + chicken taco"
+      ],
+      "timestamp": "2026-04-15T16:36:37.280Z"
     }
   }
 }
