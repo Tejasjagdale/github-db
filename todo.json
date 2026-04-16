@@ -160,10 +160,10 @@
       "completeByTime": "07:00 AM",
       "trackStreak": true,
       "streak": {
-        "current": 1,
+        "current": 2,
         "longest": 10
       },
-      "completedToday": "2026-04-15",
+      "completedToday": "2026-04-16",
       "isUrgent": false,
       "history": [
         "2026-02-23",
@@ -198,7 +198,8 @@
         "2026-04-10",
         "2026-04-11",
         "2026-04-13",
-        "2026-04-15"
+        "2026-04-15",
+        "2026-04-16"
       ]
     },
     {
@@ -304,7 +305,7 @@
         "current": 1,
         "longest": 2
       },
-      "completedToday": "2026-03-15",
+      "completedToday": "2026-04-16",
       "isUrgent": false,
       "history": [
         "2026-02-24",
@@ -314,7 +315,8 @@
         "2026-03-07",
         "2026-03-09",
         "2026-03-10",
-        "2026-03-15"
+        "2026-03-15",
+        "2026-04-16"
       ]
     },
     {
@@ -328,10 +330,10 @@
       "completeByTime": "07:45 AM",
       "trackStreak": true,
       "streak": {
-        "current": 1,
+        "current": 2,
         "longest": 12
       },
-      "completedToday": "2026-04-15",
+      "completedToday": "2026-04-16",
       "isUrgent": false,
       "history": [
         "2026-02-24",
@@ -375,7 +377,8 @@
         "2026-04-09",
         "2026-04-10",
         "2026-04-11",
-        "2026-04-15"
+        "2026-04-15",
+        "2026-04-16"
       ]
     },
     {
@@ -621,10 +624,10 @@
       "completeByTime": "07:30 AM",
       "trackStreak": true,
       "streak": {
-        "current": 1,
+        "current": 2,
         "longest": 11
       },
-      "completedToday": "2026-04-15",
+      "completedToday": "2026-04-16",
       "isUrgent": false,
       "history": [
         "2026-03-09",
@@ -659,7 +662,8 @@
         "2026-04-09",
         "2026-04-10",
         "2026-04-11",
-        "2026-04-15"
+        "2026-04-15",
+        "2026-04-16"
       ]
     },
     {
@@ -1152,7 +1156,8 @@
       "deadline": "2026-04-18",
       "createdAt": "2026-03-14T21:23:41.686Z",
       "completedAt": null,
-      "status": "pending"
+      "status": "pending",
+      "isOverdue": false
     },
     {
       "id": "d83c738b-cd4b-438e-84cc-8d3a126e08d7",
