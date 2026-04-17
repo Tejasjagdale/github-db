@@ -979,6 +979,27 @@
         "chiken pizza 2 small slice + 2 cheese puff + chicken taco"
       ],
       "timestamp": "2026-04-15T16:36:37.280Z"
+    },
+    "2026-04-16": {
+      "calories": 2725,
+      "protein": 134,
+      "carbs": 343,
+      "fats": 97,
+      "protein_goal_met": true,
+      "summary": "High protein intake with balanced carbs and fats",
+      "targets": {
+        "goalType": "gain",
+        "targetCalories": 2462,
+        "proteinTarget": 118,
+        "fatTarget": 52,
+        "carbTarget": 380
+      },
+      "meals": [
+        "400ml high protine milk (30 g protine in 450ml) +  35g (24g protine) whey  + 1tbsp peanut butter + creatine + 50 g oats + 1 banana",
+        "dum aalo + rice + lassi",
+        "1 small slice pizza + taco"
+      ],
+      "timestamp": "2026-04-17T03:43:19.413Z"
     }
   }
 }
