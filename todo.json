@@ -160,10 +160,10 @@
       "completeByTime": "07:00 AM",
       "trackStreak": true,
       "streak": {
-        "current": 2,
+        "current": 3,
         "longest": 10
       },
-      "completedToday": "2026-04-16",
+      "completedToday": "2026-04-17",
       "isUrgent": false,
       "history": [
         "2026-02-23",
@@ -199,7 +199,8 @@
         "2026-04-11",
         "2026-04-13",
         "2026-04-15",
-        "2026-04-16"
+        "2026-04-16",
+        "2026-04-17"
       ]
     },
     {
@@ -302,10 +303,10 @@
       "completeByTime": "07:00 AM",
       "trackStreak": true,
       "streak": {
-        "current": 1,
+        "current": 2,
         "longest": 2
       },
-      "completedToday": "2026-04-16",
+      "completedToday": "2026-04-17",
       "isUrgent": false,
       "history": [
         "2026-02-24",
@@ -316,7 +317,8 @@
         "2026-03-09",
         "2026-03-10",
         "2026-03-15",
-        "2026-04-16"
+        "2026-04-16",
+        "2026-04-17"
       ]
     },
     {
@@ -330,10 +332,10 @@
       "completeByTime": "07:45 AM",
       "trackStreak": true,
       "streak": {
-        "current": 2,
+        "current": 3,
         "longest": 12
       },
-      "completedToday": "2026-04-16",
+      "completedToday": "2026-04-17",
       "isUrgent": false,
       "history": [
         "2026-02-24",
@@ -378,7 +380,8 @@
         "2026-04-10",
         "2026-04-11",
         "2026-04-15",
-        "2026-04-16"
+        "2026-04-16",
+        "2026-04-17"
       ]
     },
     {
@@ -624,10 +627,10 @@
       "completeByTime": "07:30 AM",
       "trackStreak": true,
       "streak": {
-        "current": 2,
+        "current": 3,
         "longest": 11
       },
-      "completedToday": "2026-04-16",
+      "completedToday": "2026-04-17",
       "isUrgent": false,
       "history": [
         "2026-03-09",
@@ -663,7 +666,8 @@
         "2026-04-10",
         "2026-04-11",
         "2026-04-15",
-        "2026-04-16"
+        "2026-04-16",
+        "2026-04-17"
       ]
     },
     {
@@ -1297,7 +1301,8 @@
       "deadline": "2026-04-19",
       "createdAt": "2026-04-05T17:51:14.487Z",
       "completedAt": null,
-      "status": "pending"
+      "status": "pending",
+      "isOverdue": false
     }
   ]
 }
