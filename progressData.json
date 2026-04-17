@@ -752,6 +752,14 @@
       "variantId": "b1f3c0e4-3a92-4a4d-9b1e-8a2c7f5e9d42",
       "variantName": "Arms B - Volume & Shape (Joint-Smart)",
       "completed": true
+    },
+    {
+      "date": "2026-04-17",
+      "startTime": "2026-04-17T15:16:59.815Z",
+      "endTime": "2026-04-17T16:05:21.167Z",
+      "variantId": "f9b3a7d1-5c24-4d8e-9e61-2a7c8f0b6e42",
+      "variantName": "Chest C - Lower Chest Control & Shape",
+      "completed": true
     }
   ],
   "meals": [
