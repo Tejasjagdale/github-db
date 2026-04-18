@@ -1012,8 +1012,8 @@
       ],
       "deadline": "2026-04-13",
       "createdAt": "2026-03-08T20:34:53.423Z",
-      "completedAt": null,
-      "status": "pending",
+      "completedAt": "2026-04-18T11:39:58.000Z",
+      "status": "completed",
       "isOverdue": true
     },
     {
@@ -1303,6 +1303,30 @@
       "completedAt": null,
       "status": "pending",
       "isOverdue": false
+    },
+    {
+      "id": "78aad97d-568c-44c6-b6dd-39a940ae8cbb",
+      "title": "leetcode contest",
+      "priority": "medium",
+      "groupIds": [
+        "grp_work"
+      ],
+      "deadline": "2026-04-25",
+      "createdAt": "2026-04-18T11:40:42.680Z",
+      "completedAt": null,
+      "status": "pending"
+    },
+    {
+      "id": "b5471ff7-61b7-4623-b31e-a31cb25ce03f",
+      "title": "leetcode contest sunday",
+      "priority": "medium",
+      "groupIds": [
+        "grp_work"
+      ],
+      "deadline": "2026-04-26",
+      "createdAt": "2026-04-18T11:40:53.189Z",
+      "completedAt": null,
+      "status": "pending"
     }
   ]
 }
