@@ -61,7 +61,7 @@
         "longest": 4
       },
       "completedToday": "2026-02-23",
-      "isUrgent": false,
+      "isUrgent": true,
       "history": [
         "2026-03-10",
         "2026-03-11",
@@ -1366,6 +1366,19 @@
       "createdAt": "2026-04-18T11:42:41.686Z",
       "completedAt": null,
       "status": "pending"
+    },
+    {
+      "id": "88eefa89-d8db-47bd-9b1f-4799525e1822",
+      "title": "Leetcode contest",
+      "priority": "medium",
+      "groupIds": [
+        "grp_work"
+      ],
+      "deadline": "2026-04-19",
+      "createdAt": "2026-04-18T16:50:11.963Z",
+      "completedAt": null,
+      "status": "pending",
+      "isOverdue": false
     }
   ]
 }
