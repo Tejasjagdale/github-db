@@ -1105,8 +1105,8 @@
       ],
       "deadline": "2026-03-15",
       "createdAt": "2026-03-14T21:22:42.668Z",
-      "completedAt": null,
-      "status": "pending",
+      "completedAt": "2026-04-18T11:41:28.000Z",
+      "status": "completed",
       "isOverdue": true
     },
     {
@@ -1157,11 +1157,10 @@
         "grp_health",
         "b177bad7-3316-41b7-952a-10802396001d"
       ],
-      "deadline": "2026-04-18",
+      "deadline": "2026-05-31",
       "createdAt": "2026-03-14T21:23:41.686Z",
       "completedAt": null,
-      "status": "pending",
-      "isOverdue": false
+      "status": "pending"
     },
     {
       "id": "d83c738b-cd4b-438e-84cc-8d3a126e08d7",
