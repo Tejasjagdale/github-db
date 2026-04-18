@@ -61,7 +61,7 @@
         "longest": 4
       },
       "completedToday": "2026-02-23",
-      "isUrgent": true,
+      "isUrgent": false,
       "history": [
         "2026-03-10",
         "2026-03-11",
@@ -253,7 +253,7 @@
         "current": 1,
         "longest": 5
       },
-      "completedToday": "2026-03-17",
+      "completedToday": "2026-04-18",
       "isUrgent": false,
       "history": [
         "2026-03-07",
@@ -262,7 +262,8 @@
         "2026-03-10",
         "2026-03-11",
         "2026-03-17",
-        "2026-03-19"
+        "2026-03-19",
+        "2026-04-18"
       ]
     },
     {
@@ -279,7 +280,7 @@
         "current": 1,
         "longest": 4
       },
-      "completedToday": "2026-03-19",
+      "completedToday": "2026-04-18",
       "isUrgent": false,
       "history": [
         "2026-02-23",
@@ -289,7 +290,8 @@
         "2026-03-08",
         "2026-03-10",
         "2026-03-09",
-        "2026-03-19"
+        "2026-03-19",
+        "2026-04-18"
       ]
     },
     {
@@ -332,10 +334,10 @@
       "completeByTime": "07:45 AM",
       "trackStreak": true,
       "streak": {
-        "current": 3,
+        "current": 4,
         "longest": 12
       },
-      "completedToday": "2026-04-17",
+      "completedToday": "2026-04-18",
       "isUrgent": false,
       "history": [
         "2026-02-24",
@@ -381,7 +383,8 @@
         "2026-04-11",
         "2026-04-15",
         "2026-04-16",
-        "2026-04-17"
+        "2026-04-17",
+        "2026-04-18"
       ]
     },
     {
@@ -563,7 +566,7 @@
         "current": 1,
         "longest": 39
       },
-      "completedToday": "2026-04-15",
+      "completedToday": "2026-04-18",
       "isUrgent": false,
       "history": [
         "2026-02-23",
@@ -613,7 +616,8 @@
         "2026-04-11",
         "2026-04-10",
         "2026-04-09",
-        "2026-04-15"
+        "2026-04-15",
+        "2026-04-18"
       ]
     },
     {
@@ -627,10 +631,10 @@
       "completeByTime": "07:30 AM",
       "trackStreak": true,
       "streak": {
-        "current": 3,
+        "current": 4,
         "longest": 11
       },
-      "completedToday": "2026-04-17",
+      "completedToday": "2026-04-18",
       "isUrgent": false,
       "history": [
         "2026-03-09",
@@ -667,7 +671,8 @@
         "2026-04-11",
         "2026-04-15",
         "2026-04-16",
-        "2026-04-17"
+        "2026-04-17",
+        "2026-04-18"
       ]
     },
     {
