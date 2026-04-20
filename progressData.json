@@ -760,6 +760,14 @@
       "variantId": "f9b3a7d1-5c24-4d8e-9e61-2a7c8f0b6e42",
       "variantName": "Chest C - Lower Chest Control & Shape",
       "completed": true
+    },
+    {
+      "date": "2026-04-20",
+      "startTime": "2026-04-20T14:30:59.980Z",
+      "endTime": "2026-04-20T15:13:43.831Z",
+      "variantId": "a3c9b6e2-1f44-4c6a-9d7e-5b8f2e6d91aa",
+      "variantName": "Chest A - Upper & Mid Chest Strength (Square Foundation)",
+      "completed": true
     }
   ],
   "meals": [
