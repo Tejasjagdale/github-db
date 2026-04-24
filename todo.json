@@ -164,7 +164,7 @@
         "current": 1,
         "longest": 10
       },
-      "completedToday": "2026-04-22",
+      "completedToday": "2026-04-24",
       "isUrgent": false,
       "history": [
         "2026-02-23",
@@ -203,7 +203,8 @@
         "2026-04-16",
         "2026-04-17",
         "2026-04-20",
-        "2026-04-22"
+        "2026-04-22",
+        "2026-04-24"
       ]
     },
     {
@@ -345,7 +346,7 @@
         "current": 1,
         "longest": 12
       },
-      "completedToday": "2026-04-22",
+      "completedToday": "2026-04-24",
       "isUrgent": false,
       "history": [
         "2026-02-24",
@@ -395,7 +396,8 @@
         "2026-04-18",
         "2026-04-20",
         "2026-04-19",
-        "2026-04-22"
+        "2026-04-22",
+        "2026-04-24"
       ]
     },
     {
@@ -649,7 +651,7 @@
         "current": 1,
         "longest": 11
       },
-      "completedToday": "2026-04-22",
+      "completedToday": "2026-04-24",
       "isUrgent": false,
       "history": [
         "2026-03-09",
@@ -690,7 +692,8 @@
         "2026-04-18",
         "2026-04-20",
         "2026-04-19",
-        "2026-04-22"
+        "2026-04-22",
+        "2026-04-24"
       ]
     },
     {
@@ -1336,7 +1339,8 @@
       "deadline": "2026-04-25",
       "createdAt": "2026-04-18T11:40:42.680Z",
       "completedAt": null,
-      "status": "pending"
+      "status": "pending",
+      "isOverdue": false
     },
     {
       "id": "b5471ff7-61b7-4623-b31e-a31cb25ce03f",
@@ -1348,7 +1352,8 @@
       "deadline": "2026-04-26",
       "createdAt": "2026-04-18T11:40:53.189Z",
       "completedAt": null,
-      "status": "pending"
+      "status": "pending",
+      "isOverdue": false
     },
     {
       "id": "05fc4217-e946-40f8-9c57-a270e7bbbda7",
