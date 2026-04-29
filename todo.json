@@ -1422,6 +1422,19 @@
       "completedAt": "2026-04-29T16:54:58.000Z",
       "status": "completed",
       "isOverdue": true
+    },
+    {
+      "id": "be9a56d5-86a5-4c11-ae70-97a3ba69e191",
+      "title": "Static method + memory in java",
+      "priority": "medium",
+      "groupIds": [
+        "grp_work"
+      ],
+      "deadline": "2026-04-30",
+      "createdAt": "2026-04-29T16:55:54.123Z",
+      "completedAt": null,
+      "status": "pending",
+      "isOverdue": false
     }
   ]
 }
