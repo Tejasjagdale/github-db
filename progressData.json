@@ -792,6 +792,14 @@
       "variantId": "9c1a7e54-4f8b-43b2-a6e1-0f7d2c8b5a91",
       "variantName": "Morning Abs - Thick Core & Defined Six Pack",
       "completed": false
+    },
+    {
+      "date": "2026-05-01",
+      "startTime": "2026-05-01T14:31:25.819Z",
+      "endTime": "2026-05-01T14:52:40.251Z",
+      "variantId": "35cc9f0a-710c-4de9-8867-7d890444fed0",
+      "variantName": "Warm up ABS 2",
+      "completed": true
     }
   ],
   "meals": [
