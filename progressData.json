@@ -808,6 +808,14 @@
       "variantId": "f9b3a7d1-5c24-4d8e-9e61-2a7c8f0b6e42",
       "variantName": "Chest C - Lower Chest Control & Shape",
       "completed": true
+    },
+    {
+      "date": "2026-05-03",
+      "startTime": "2026-05-03T15:03:46.639Z",
+      "endTime": "2026-05-03T15:20:48.164Z",
+      "variantId": "fff584c5-279d-424a-a78b-4c0175fb88c6",
+      "variantName": "Warm up ABS 1",
+      "completed": true
     }
   ],
   "meals": [
