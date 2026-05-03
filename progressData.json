@@ -816,6 +816,14 @@
       "variantId": "fff584c5-279d-424a-a78b-4c0175fb88c6",
       "variantName": "Warm up ABS 1",
       "completed": true
+    },
+    {
+      "date": "2026-05-03",
+      "startTime": "2026-05-03T15:21:31.011Z",
+      "endTime": "2026-05-03T16:11:47.185Z",
+      "variantId": "0a2a680e-2dce-47e6-95cb-015248593d91",
+      "variantName": "Arms A - Heavy Tension & Functional Strength",
+      "completed": true
     }
   ],
   "meals": [
