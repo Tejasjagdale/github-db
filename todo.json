@@ -1437,6 +1437,19 @@
       "completedAt": null,
       "status": "pending",
       "isOverdue": true
+    },
+    {
+      "id": "b9bad3cb-7ebe-42c7-b143-9429fb38d55f",
+      "title": "Kafka architecture",
+      "priority": "high",
+      "groupIds": [
+        "grp_work"
+      ],
+      "deadline": "2026-05-05",
+      "createdAt": "2026-05-03T14:30:33.954Z",
+      "completedAt": null,
+      "status": "pending",
+      "isOverdue": false
     }
   ]
 }
