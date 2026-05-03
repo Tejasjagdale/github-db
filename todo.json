@@ -1375,8 +1375,8 @@
       "groupIds": [],
       "deadline": "2026-05-03",
       "createdAt": "2026-04-18T11:42:18.437Z",
-      "completedAt": null,
-      "status": "pending",
+      "completedAt": "2026-05-03T14:25:05.000Z",
+      "status": "completed",
       "isOverdue": false
     },
     {
