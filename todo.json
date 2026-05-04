@@ -1454,6 +1454,18 @@
       "completedAt": null,
       "status": "pending",
       "isOverdue": false
+    },
+    {
+      "id": "eaa2b7c6-b2e2-498a-9ff4-e8c42ec8e63c",
+      "title": "Hashcode",
+      "priority": "medium",
+      "groupIds": [
+        "grp_work"
+      ],
+      "deadline": "2026-05-07",
+      "createdAt": "2026-05-04T14:32:16.884Z",
+      "completedAt": null,
+      "status": "pending"
     }
   ]
 }
