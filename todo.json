@@ -1161,11 +1161,10 @@
         "grp_health",
         "b177bad7-3316-41b7-952a-10802396001d"
       ],
-      "deadline": "2026-04-30",
+      "deadline": "2026-05-31",
       "createdAt": "2026-03-14T21:23:17.185Z",
       "completedAt": null,
-      "status": "pending",
-      "isOverdue": true
+      "status": "pending"
     },
     {
       "id": "dd71dad0-c721-4bca-8ced-61b24f88d467",
@@ -1175,11 +1174,10 @@
         "grp_health",
         "b177bad7-3316-41b7-952a-10802396001d"
       ],
-      "deadline": "2026-04-30",
+      "deadline": "2026-06-30",
       "createdAt": "2026-03-14T21:23:31.532Z",
       "completedAt": null,
-      "status": "pending",
-      "isOverdue": true
+      "status": "pending"
     },
     {
       "id": "07618b65-de6b-49fd-a3e4-28a534c6e30c",
