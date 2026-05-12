@@ -890,7 +890,8 @@
       "deadline": "2026-05-13",
       "createdAt": "2026-02-22T12:54:03.493Z",
       "completedAt": null,
-      "status": "pending"
+      "status": "pending",
+      "isOverdue": false
     },
     {
       "id": "4bba09ec-aa04-4739-9bdd-47e18cfe732c",
@@ -1389,7 +1390,8 @@
       "deadline": "2026-05-10",
       "createdAt": "2026-04-18T11:42:29.030Z",
       "completedAt": null,
-      "status": "pending"
+      "status": "pending",
+      "isOverdue": true
     },
     {
       "id": "e75e3222-9107-438c-828e-c78e6399925d",
@@ -1399,7 +1401,8 @@
       "deadline": "2026-05-09",
       "createdAt": "2026-04-18T11:42:41.686Z",
       "completedAt": null,
-      "status": "pending"
+      "status": "pending",
+      "isOverdue": true
     },
     {
       "id": "88eefa89-d8db-47bd-9b1f-4799525e1822",
@@ -1451,7 +1454,7 @@
       "createdAt": "2026-05-03T14:30:33.954Z",
       "completedAt": null,
       "status": "pending",
-      "isOverdue": false
+      "isOverdue": true
     },
     {
       "id": "eaa2b7c6-b2e2-498a-9ff4-e8c42ec8e63c",
@@ -1463,7 +1466,21 @@
       "deadline": "2026-05-07",
       "createdAt": "2026-05-04T14:32:16.884Z",
       "completedAt": null,
-      "status": "pending"
+      "status": "pending",
+      "isOverdue": true
+    },
+    {
+      "id": "70f75f4a-2d12-4dc7-a46f-84fe030beaef",
+      "title": "Creatine",
+      "priority": "medium",
+      "groupIds": [
+        "404eaef8-2fc8-428b-8453-9ab3ccba3a79"
+      ],
+      "deadline": "2026-05-12",
+      "createdAt": "2026-05-12T04:45:19.377Z",
+      "completedAt": null,
+      "status": "pending",
+      "isOverdue": false
     }
   ]
 }
