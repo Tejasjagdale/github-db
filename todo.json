@@ -92,7 +92,7 @@
         "longest": 8
       },
       "completedToday": "2026-04-08",
-      "isUrgent": true,
+      "isUrgent": false,
       "history": [
         "2026-02-23",
         "2026-02-24",
@@ -290,7 +290,7 @@
         "longest": 4
       },
       "completedToday": "2026-04-18",
-      "isUrgent": true,
+      "isUrgent": false,
       "history": [
         "2026-02-23",
         "2026-02-25",
@@ -716,7 +716,7 @@
         "longest": 2
       },
       "completedToday": "2026-04-08",
-      "isUrgent": true,
+      "isUrgent": false,
       "history": [
         "2026-04-06",
         "2026-04-08",
@@ -739,7 +739,7 @@
         "longest": 4
       },
       "completedToday": "2026-04-08",
-      "isUrgent": true,
+      "isUrgent": false,
       "history": [
         "2026-04-06",
         "2026-04-07",
@@ -1494,6 +1494,19 @@
       "completedAt": null,
       "status": "pending",
       "isOverdue": true
+    },
+    {
+      "id": "119a7094-af6f-456f-8b2d-732943d119cf",
+      "title": "De-bloating + clean skin",
+      "priority": "medium",
+      "groupIds": [
+        "grp_health",
+        "grp_personal"
+      ],
+      "deadline": "2026-07-31",
+      "createdAt": "2026-05-24T16:32:09.728Z",
+      "completedAt": null,
+      "status": "pending"
     }
   ]
 }
