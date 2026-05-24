@@ -1507,6 +1507,19 @@
       "createdAt": "2026-05-24T16:32:09.728Z",
       "completedAt": null,
       "status": "pending"
+    },
+    {
+      "id": "816dc94c-2582-4b2e-811d-31abf08453d6",
+      "title": "Skin improvement visible",
+      "priority": "medium",
+      "groupIds": [
+        "grp_health",
+        "grp_personal"
+      ],
+      "deadline": "2026-09-30",
+      "createdAt": "2026-05-24T16:32:48.751Z",
+      "completedAt": null,
+      "status": "pending"
     }
   ]
 }
