@@ -1520,6 +1520,19 @@
       "createdAt": "2026-05-24T16:32:48.751Z",
       "completedAt": null,
       "status": "pending"
+    },
+    {
+      "id": "c80b04c3-2cce-47a1-bd4a-8707c418566b",
+      "title": "Beard growth max out ",
+      "priority": "medium",
+      "groupIds": [
+        "grp_health",
+        "grp_personal"
+      ],
+      "deadline": "2026-11-30",
+      "createdAt": "2026-05-24T16:33:30.852Z",
+      "completedAt": null,
+      "status": "pending"
     }
   ]
 }
