@@ -1533,6 +1533,19 @@
       "createdAt": "2026-05-24T16:33:30.852Z",
       "completedAt": null,
       "status": "pending"
+    },
+    {
+      "id": "36927fca-21dc-4e0d-af76-0adc09525fcd",
+      "title": "5 kg muscle gain (70kg)",
+      "priority": "medium",
+      "groupIds": [
+        "grp_health",
+        "grp_personal"
+      ],
+      "deadline": "2026-10-31",
+      "createdAt": "2026-05-24T16:34:47.594Z",
+      "completedAt": null,
+      "status": "pending"
     }
   ]
 }
