@@ -655,7 +655,7 @@
         "longest": 11
       },
       "completedToday": "2026-05-04",
-      "isUrgent": true,
+      "isUrgent": false,
       "history": [
         "2026-03-09",
         "2026-03-10",
@@ -1549,6 +1549,19 @@
       "createdAt": "2026-05-24T16:34:47.594Z",
       "completedAt": null,
       "status": "pending"
+    },
+    {
+      "id": "68087d46-05b5-4baf-8a83-cfec876f9ce6",
+      "title": "Task executor",
+      "priority": "medium",
+      "groupIds": [
+        "grp_work"
+      ],
+      "deadline": "2026-06-01",
+      "createdAt": "2026-06-01T07:03:38.707Z",
+      "completedAt": null,
+      "status": "pending",
+      "isOverdue": false
     }
   ]
 }
