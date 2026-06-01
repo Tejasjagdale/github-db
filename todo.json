@@ -61,7 +61,7 @@
         "longest": 4
       },
       "completedToday": "2026-04-18",
-      "isUrgent": false,
+      "isUrgent": true,
       "history": [
         "2026-03-10",
         "2026-03-11",
@@ -1559,6 +1559,19 @@
       ],
       "deadline": "2026-06-01",
       "createdAt": "2026-06-01T07:03:38.707Z",
+      "completedAt": null,
+      "status": "pending",
+      "isOverdue": false
+    },
+    {
+      "id": "283e992c-a2c5-49f1-8317-8e73a12e1c2a",
+      "title": "Statement in jdbc",
+      "priority": "medium",
+      "groupIds": [
+        "grp_work"
+      ],
+      "deadline": "2026-06-02",
+      "createdAt": "2026-06-01T16:45:11.966Z",
       "completedAt": null,
       "status": "pending",
       "isOverdue": false
