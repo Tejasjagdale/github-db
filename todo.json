@@ -1585,8 +1585,8 @@
       ],
       "deadline": "2026-06-08",
       "createdAt": "2026-06-08T15:43:38.242Z",
-      "completedAt": null,
-      "status": "pending",
+      "completedAt": "2026-06-10T12:22:53.000Z",
+      "status": "completed",
       "isOverdue": true
     },
     {
