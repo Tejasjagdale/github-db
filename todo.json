@@ -1570,8 +1570,8 @@
       ],
       "deadline": "2026-06-02",
       "createdAt": "2026-06-01T16:45:11.966Z",
-      "completedAt": null,
-      "status": "pending",
+      "completedAt": "2026-06-11T08:10:20.000Z",
+      "status": "completed",
       "isOverdue": true
     },
     {
@@ -1598,7 +1598,7 @@
       "createdAt": "2026-06-09T17:33:05.199Z",
       "completedAt": null,
       "status": "pending",
-      "isOverdue": false
+      "isOverdue": true
     },
     {
       "id": "46a01ce5-2e54-434c-b98f-b1f9054e7e24",
@@ -1611,7 +1611,7 @@
       "createdAt": "2026-06-09T17:33:17.221Z",
       "completedAt": null,
       "status": "pending",
-      "isOverdue": false
+      "isOverdue": true
     },
     {
       "id": "438f52ef-65c5-4c9e-a232-c440a6d7cde4",
@@ -1624,7 +1624,7 @@
       "createdAt": "2026-06-09T17:33:52.861Z",
       "completedAt": null,
       "status": "pending",
-      "isOverdue": false
+      "isOverdue": true
     }
   ]
 }
