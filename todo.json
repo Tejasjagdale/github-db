@@ -92,7 +92,7 @@
         "longest": 8
       },
       "completedToday": "2026-04-08",
-      "isUrgent": false,
+      "isUrgent": true,
       "history": [
         "2026-02-23",
         "2026-02-24",
@@ -290,7 +290,7 @@
         "longest": 4
       },
       "completedToday": "2026-04-18",
-      "isUrgent": false,
+      "isUrgent": true,
       "history": [
         "2026-02-23",
         "2026-02-25",
@@ -716,7 +716,7 @@
         "longest": 2
       },
       "completedToday": "2026-04-08",
-      "isUrgent": false,
+      "isUrgent": true,
       "history": [
         "2026-04-06",
         "2026-04-08",
@@ -739,7 +739,7 @@
         "longest": 4
       },
       "completedToday": "2026-04-08",
-      "isUrgent": false,
+      "isUrgent": true,
       "history": [
         "2026-04-06",
         "2026-04-07",
@@ -1440,8 +1440,8 @@
       ],
       "deadline": "2026-04-30",
       "createdAt": "2026-04-29T16:55:54.123Z",
-      "completedAt": null,
-      "status": "pending",
+      "completedAt": "2026-06-12T16:24:19.000Z",
+      "status": "completed",
       "isOverdue": true
     },
     {
@@ -1557,8 +1557,8 @@
       ],
       "deadline": "2026-06-01",
       "createdAt": "2026-06-01T07:03:38.707Z",
-      "completedAt": null,
-      "status": "pending",
+      "completedAt": "2026-06-12T16:24:23.000Z",
+      "status": "completed",
       "isOverdue": true
     },
     {
@@ -1609,8 +1609,8 @@
       ],
       "deadline": "2026-06-10",
       "createdAt": "2026-06-09T17:33:17.221Z",
-      "completedAt": null,
-      "status": "pending",
+      "completedAt": "2026-06-12T16:24:27.000Z",
+      "status": "completed",
       "isOverdue": true
     },
     {
