@@ -37,7 +37,7 @@
         "longest": 1
       },
       "completedToday": "2026-03-17",
-      "isUrgent": true,
+      "isUrgent": false,
       "history": [
         "2026-02-24",
         "2026-02-26",
@@ -98,7 +98,7 @@
         "longest": 4
       },
       "completedToday": "2026-03-17",
-      "isUrgent": true,
+      "isUrgent": false,
       "history": [
         "2026-03-08",
         "2026-03-09",
@@ -262,6 +262,21 @@
       "groupIds": [],
       "repeatEveryDays": 1,
       "completeByTime": "09:00 PM",
+      "trackStreak": true,
+      "streak": {
+        "current": 0,
+        "longest": 0
+      },
+      "completedToday": null,
+      "isUrgent": false
+    },
+    {
+      "id": "a86d9fa5-6620-492a-8742-49c76c30700a",
+      "title": "Tejas",
+      "priority": "medium",
+      "groupIds": [],
+      "repeatEveryDays": 1,
+      "completeByTime": "10:00 PM",
       "trackStreak": true,
       "streak": {
         "current": 0,
