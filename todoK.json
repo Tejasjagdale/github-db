@@ -295,6 +295,21 @@
       },
       "completedToday": null,
       "isUrgent": false
+    },
+    {
+      "id": "f39005e9-8c82-4b65-a236-67625fc68256",
+      "title": "Hospital",
+      "priority": "medium",
+      "groupIds": [],
+      "repeatEveryDays": 1,
+      "completeByTime": "08:45 AM",
+      "trackStreak": true,
+      "streak": {
+        "current": 0,
+        "longest": 0
+      },
+      "completedToday": null,
+      "isUrgent": false
     }
   ],
   "todos": [
