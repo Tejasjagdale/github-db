@@ -254,6 +254,36 @@
       "history": [
         "2026-03-17"
       ]
+    },
+    {
+      "id": "47f0c455-a807-43da-b700-a79afbdea452",
+      "title": "Yoga",
+      "priority": "medium",
+      "groupIds": [],
+      "repeatEveryDays": 1,
+      "completeByTime": "06:15 AM",
+      "trackStreak": true,
+      "streak": {
+        "current": 0,
+        "longest": 0
+      },
+      "completedToday": null,
+      "isUrgent": false
+    },
+    {
+      "id": "3eabe057-06b2-4cc6-ae92-c559919bef6e",
+      "title": "Bath",
+      "priority": "medium",
+      "groupIds": [],
+      "repeatEveryDays": 1,
+      "completeByTime": "06:45 AM",
+      "trackStreak": true,
+      "streak": {
+        "current": 0,
+        "longest": 0
+      },
+      "completedToday": null,
+      "isUrgent": false
     }
   ],
   "todos": [
