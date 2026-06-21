@@ -84,30 +84,6 @@
       "isUrgent": false
     },
     {
-      "id": "5c092d0c-3cc5-4558-9064-668a1a72a611",
-      "title": "Protein milk",
-      "priority": "high",
-      "groupIds": [
-        "grp_health"
-      ],
-      "repeatEveryDays": 1,
-      "completeByTime": "11:00 PM",
-      "trackStreak": true,
-      "streak": {
-        "current": 1,
-        "longest": 4
-      },
-      "completedToday": "2026-03-17",
-      "isUrgent": false,
-      "history": [
-        "2026-03-08",
-        "2026-03-09",
-        "2026-03-07",
-        "2026-03-10",
-        "2026-03-17"
-      ]
-    },
-    {
       "id": "16bd7fcc-c0d8-40c8-8937-91619f3a4ab1",
       "title": "PG preparation",
       "priority": "high",
