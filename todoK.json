@@ -128,51 +128,6 @@
       ]
     },
     {
-      "id": "6b654c72-a5b1-498b-8cef-1ba615b65735",
-      "title": "Fruits ",
-      "priority": "medium",
-      "groupIds": [
-        "grp_health"
-      ],
-      "repeatEveryDays": 1,
-      "completeByTime": "09:00 AM",
-      "trackStreak": true,
-      "streak": {
-        "current": 1,
-        "longest": 2
-      },
-      "completedToday": "2026-03-17",
-      "isUrgent": false,
-      "history": [
-        "2026-02-23",
-        "2026-02-24",
-        "2026-02-26",
-        "2026-03-15",
-        "2026-03-17"
-      ]
-    },
-    {
-      "id": "bf84328f-f9ac-4d34-a61d-e49f5ef46acf",
-      "title": "Lunch",
-      "priority": "high",
-      "groupIds": [
-        "grp_health"
-      ],
-      "repeatEveryDays": 1,
-      "completeByTime": "02:30 PM",
-      "trackStreak": true,
-      "streak": {
-        "current": 1,
-        "longest": 1
-      },
-      "completedToday": "2026-03-26",
-      "isUrgent": false,
-      "history": [
-        "2026-03-17",
-        "2026-03-26"
-      ]
-    },
-    {
       "id": "246ba4c6-4211-4f02-b826-2b73a99579c4",
       "title": "Warm milk+ 5 soaked almonds + 2 dates",
       "priority": "high",
@@ -209,47 +164,6 @@
       },
       "completedToday": "2026-03-26",
       "isUrgent": false
-    },
-    {
-      "id": "738eb4d7-6dae-45c9-9e65-da8e82256337",
-      "title": "Cashew/ peanuts/ handful",
-      "priority": "high",
-      "groupIds": [
-        "grp_health"
-      ],
-      "repeatEveryDays": 1,
-      "completeByTime": "11:00 AM",
-      "trackStreak": true,
-      "streak": {
-        "current": 1,
-        "longest": 1
-      },
-      "completedToday": "2026-03-26",
-      "isUrgent": false,
-      "history": [
-        "2026-03-17",
-        "2026-03-26"
-      ]
-    },
-    {
-      "id": "62b555ee-f37e-4f9a-9997-42ca59799bf6",
-      "title": "Peanut butter sandwich/ sprouts/ fruits",
-      "priority": "high",
-      "groupIds": [
-        "grp_health"
-      ],
-      "repeatEveryDays": 1,
-      "completeByTime": "05:00 PM",
-      "trackStreak": true,
-      "streak": {
-        "current": 1,
-        "longest": 1
-      },
-      "completedToday": "2026-03-17",
-      "isUrgent": false,
-      "history": [
-        "2026-03-17"
-      ]
     },
     {
       "id": "47f0c455-a807-43da-b700-a79afbdea452",
