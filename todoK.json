@@ -254,6 +254,21 @@
       },
       "completedToday": null,
       "isUrgent": false
+    },
+    {
+      "id": "84f2be78-2126-4c8b-ba97-5aec293be9b6",
+      "title": "Study 3 ",
+      "priority": "medium",
+      "groupIds": [],
+      "repeatEveryDays": 1,
+      "completeByTime": "09:00 PM",
+      "trackStreak": true,
+      "streak": {
+        "current": 0,
+        "longest": 0
+      },
+      "completedToday": null,
+      "isUrgent": false
     }
   ],
   "todos": [
