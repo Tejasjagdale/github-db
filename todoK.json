@@ -145,11 +145,14 @@
       "completeByTime": "06:45 AM",
       "trackStreak": true,
       "streak": {
-        "current": 0,
-        "longest": 0
+        "current": 1,
+        "longest": 1
       },
-      "completedToday": null,
-      "isUrgent": false
+      "completedToday": "2026-06-23",
+      "isUrgent": false,
+      "history": [
+        "2026-06-23"
+      ]
     },
     {
       "id": "81e7628e-0c27-4d0c-bf40-2a0818231ab4",
