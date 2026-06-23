@@ -84,26 +84,6 @@
       "isUrgent": false
     },
     {
-      "id": "16bd7fcc-c0d8-40c8-8937-91619f3a4ab1",
-      "title": "PG preparation",
-      "priority": "high",
-      "groupIds": [
-        "ec95d6d1-5b2b-4df7-a361-76c0a0825639"
-      ],
-      "repeatEveryDays": 1,
-      "completeByTime": "07:00 PM",
-      "trackStreak": true,
-      "streak": {
-        "current": 1,
-        "longest": 1
-      },
-      "completedToday": "2026-03-17",
-      "isUrgent": false,
-      "history": [
-        "2026-03-17"
-      ]
-    },
-    {
       "id": "246ba4c6-4211-4f02-b826-2b73a99579c4",
       "title": "Warm milk+ 5 soaked almonds + 2 dates",
       "priority": "high",
@@ -324,7 +304,7 @@
       "createdAt": "2026-06-21T17:22:15.481Z",
       "completedAt": null,
       "status": "pending",
-      "isOverdue": false
+      "isOverdue": true
     }
   ]
 }
